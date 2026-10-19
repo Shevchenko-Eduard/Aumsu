@@ -17,7 +17,8 @@ Frontend официального сайта Государственного м
 - [Доступность](#доступность)
 - [Карта](#карта)
 - [Маршруты и редиректы](#маршруты-и-редиректы)
-- [Сборка и деплой в Nginx](#сборка-и-деплой-в-nginx)
+- [Docker (без Nginx)](#docker-без-nginx)
+- [Альтернатива: Nginx на сервере](#альтернатива-nginx-на-сервере)
 - [Проверки](#проверки)
 - [Текущее наполнение](#текущее-наполнение)
 - [Ограничения](#ограничения)
@@ -44,12 +45,16 @@ Frontend официального сайта Государственного м
 
 - Node.js >= 20.19 (в репозитории есть `.nvmrc`, рекомендуется Node 24);
 - npm 10+;
-- Nginx для production-раздачи статики.
+- Docker или Nginx для production-раздачи статики.
 
 ## Структура репозитория
 
 ```text
 .
+├── Dockerfile                 # контейнер: сборка статики + Node-сервер
+├── docker-compose.yml         # запуск контейнера
+├── .dockerignore
+├── .env.example               # пример переменных окружения
 ├── frontend/                  # Nuxt-приложение
 │   ├── assets/styles/         # токены, базовые стили, стили PrimeVue
 │   ├── components/            # layout, cards, content, forms, ui
@@ -70,11 +75,13 @@ Frontend официального сайта Государственного м
 │   ├── error.vue
 │   ├── nuxt.config.ts
 │   ├── package.json
+│   ├── server.mjs             # статический сервер для Docker
 │   └── .output/public/        # результат сборки
 ├── specs/                     # спецификации проекта
 ├── Reference/                 # исходные материалы, логотип, url-map
 ├── СборДанных/                # сборщик и извлечённые данные
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 Исходный код сайта отделён от спецификаций и исходных материалов: всё, что относится к приложению, находится в `frontend/`.
@@ -98,6 +105,15 @@ npm run generate
 
 Результат — `frontend/.output/public`.
 
+Запуск в Docker без Nginx:
+
+```bash
+cp .env.example .env
+docker compose up -d --build
+```
+
+Сайт будет доступен на `http://localhost:3000` (или на порту из `PORT`).
+
 ## Команды
 
 Все команды выполняются из папки `frontend`.
@@ -107,9 +123,10 @@ npm run generate
 | `npm run dev` | Dev-сервер Nuxt |
 | `npm run build` | Production-сборка без SSG-пререндера |
 | `npm run generate` | `seed` → `artifacts` → `validate:content` → `nuxt generate` → Pagefind |
+| `npm run generate:static` | `artifacts` → `validate:content` → `nuxt generate` → Pagefind (без `seed`, для Docker/CI) |
 | `npm run preview` | Предпросмотр production-сборки |
 | `npm run seed` | Генерирует `content/` из `СборДанных/` и ручных данных |
-| `npm run artifacts` | Генерирует редиректы, `sitemap.xml`, `robots.txt`, `nginx.conf` |
+| `npm run artifacts` | Генерирует редиректы, `sitemap.xml`, `robots.txt`, `deploy/nginx.conf` |
 | `npm run validate:content` | Проверяет JSON через Zod и ссылки |
 | `npm run typecheck` | Проверка типов Nuxt |
 | `npm run lint` | ESLint |
@@ -258,9 +275,72 @@ content/
 - Старые URL → 301 через `map` в `deploy/nginx.conf`.
 - Удалённые страницы → 410 через `gone.json`.
 
-## Сборка и деплой в Nginx
+## Docker (без Nginx)
 
-Node на production-сервере не нужен: раздаётся только статика.
+В контейнере работает только frontend. Multi-stage `Dockerfile` собирает статику, а runtime-контейнер запускает `frontend/server.mjs` на Node.js. Nginx внутри контейнера нет.
+
+Docker-сборка использует уже сгенерированный контент из `frontend/content/` и не запускает `seed`. В builder-стадию копируются `frontend/` и `specs/`; выполняются генерация редиректов/sitemap, валидация и SSG-сборка. Если исходные данные менялись, сначала выполните `npm run seed` локально и закоммитьте обновлённый `frontend/content/`.
+
+### Переменные окружения
+
+| Переменная | Где используется | По умолчанию | Назначение |
+|---|---|---|---|
+| `NUXT_PUBLIC_SITE_URL` | build arg | `https://aumsu.ru` | canonical, Open Graph, `sitemap.xml`, `robots.txt` |
+| `PORT` | docker compose | `3000` | внешний порт; внутри контейнера приложение слушает `3000` |
+| `PORT` | runtime | `3000` | порт `server.mjs` при запуске без compose |
+| `HOST` | runtime | `0.0.0.0` | адрес, на котором слушает `server.mjs` |
+| `TZ` | runtime | `Europe/Moscow` | часовой пояс контейнера |
+| `PUBLIC_DIR` | runtime | `./public` | каталог со статикой для `server.mjs` |
+
+### Запуск через docker compose
+
+```bash
+cp .env.example .env
+docker compose up -d --build
+```
+
+По умолчанию сайт откроется на `http://localhost:3000`.
+
+Если нужен другой внешний порт, измените `PORT` в `.env`:
+
+```dotenv
+PORT=8080
+```
+
+### Запуск только через Dockerfile
+
+```bash
+docker build \
+  --build-arg NUXT_PUBLIC_SITE_URL=https://aumsu.ru \
+  -t aumsu-frontend .
+
+docker run --rm \
+  -p 3000:3000 \
+  -e PORT=3000 \
+  -e TZ=Europe/Moscow \
+  aumsu-frontend
+```
+
+### Что делает контейнер
+
+**Builder:**
+
+- `npm ci` в `frontend/`;
+- `npm run generate:static`: artifacts → validate:content → SSG-сборка → Pagefind; `seed` не запускается, используется закоммиченный `frontend/content/`.
+
+**Runtime:**
+
+- `node:24-alpine`;
+- запуск от пользователя `node`;
+- `server.mjs` раздаёт `frontend/.output/public`;
+- поддерживает 301 из `redirects.json` и 410 из `gone.json`;
+- отдаёт `404.html` с кодом 404;
+- выставляет MIME-типы и заголовки кэширования для `_nuxt/`, `pagefind/`, `media/`;
+- имеет `HEALTHCHECK` на `http://127.0.0.1:3000/`.
+
+## Альтернатива: Nginx на сервере
+
+Если нужен именно Nginx на хосте, можно раздавать ту же статику без Docker. Node на production-сервере не нужен.
 
 ### 1. Сборка
 
@@ -323,7 +403,7 @@ TLS можно выпустить через Certbot:
 sudo certbot --nginx -d aumsu.ru -d www.aumsu.ru
 ```
 
-Если домен отличается от `aumsu.ru`, обновите `siteUrl` в `frontend/scripts/generate-artifacts.mjs` и переменную `NUXT_PUBLIC_SITE_URL` при сборке.
+Если домен отличается от `aumsu.ru`, передайте его при сборке через `NUXT_PUBLIC_SITE_URL` — эта переменная используется и Nuxt, и генератором sitemap/robots.
 
 ## Проверки
 

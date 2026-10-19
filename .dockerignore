@@ -1,0 +1,16 @@
+.git
+.gitignore
+README.md
+*.log
+.DS_Store
+
+**/node_modules
+frontend/.nuxt
+frontend/.output
+frontend/dist
+frontend/.data
+frontend/.env
+frontend/.env.*
+
+Reference
+СборДанных

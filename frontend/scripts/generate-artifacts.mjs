@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url'
 const scriptDir = path.dirname(fileURLToPath(import.meta.url))
 const frontendRoot = path.resolve(scriptDir, '..')
 const repoRoot = path.resolve(frontendRoot, '..')
-const siteUrl = 'https://aumsu.ru'
+const siteUrl = (process.env.NUXT_PUBLIC_SITE_URL || 'https://aumsu.ru').replace(/\/$/, '')
 const routes = JSON.parse(fs.readFileSync(path.join(frontendRoot, 'content/routes.json'), 'utf8'))
 const routeSet = new Set(routes.map((route) => route.replace(/^\/en(?=\/|$)/, '') || '/'))
 

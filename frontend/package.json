@@ -17,7 +17,8 @@
     "validate:content": "tsx scripts/validate-content.ts",
     "seed": "node scripts/seed-content.mjs",
     "artifacts": "node scripts/generate-artifacts.mjs",
-    "prepare": "nuxt prepare"
+    "prepare": "nuxt prepare",
+    "generate:static": "npm run artifacts && npm run validate:content && nuxt generate && pagefind --site .output/public"
   },
   "dependencies": {
     "@nuxtjs/i18n": "^10.6.0",
