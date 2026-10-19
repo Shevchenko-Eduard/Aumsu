@@ -1,0 +1,120 @@
+{
+  "id": "sveden-vacant",
+  "slug": "vacant",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/vacant",
+  "sectionId": "sveden",
+  "title": "Vacant places",
+  "summary": "Vacant places: official information.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Vacant places: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Vacant places — official information",
+    "description": "Vacant places: official information about the university."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "vacant",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Full name",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Short name",
+        "value": "Admiral Ushakov State Maritime University",
+        "type": "text",
+        "required": true
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Vacant places",
+        "headers": [
+          "Programme",
+          "Level",
+          "Budget places",
+          "Paid places"
+        ],
+        "rows": [
+          [
+            "Information Systems and Programming — based on basic general education",
+            "Среднее профессиональное образование",
+            "5",
+            "10"
+          ],
+          [
+            "Information Systems and Programming — based on secondary general education",
+            "Среднее профессиональное образование",
+            "6",
+            "11"
+          ],
+          [
+            "Software Development and Management",
+            "Среднее профессиональное образование",
+            "7",
+            "12"
+          ],
+          [
+            "Mechatronics and Robotics (by Industry) — based on secondary general education",
+            "Среднее профессиональное образование",
+            "8",
+            "13"
+          ],
+          [
+            "Environmental Safety of Natural Systems — based on basic general education",
+            "Среднее профессиональное образование",
+            "9",
+            "14"
+          ],
+          [
+            "Environmental Safety of Natural Systems — based on secondary general education",
+            "Среднее профессиональное образование",
+            "10",
+            "15"
+          ],
+          [
+            "Transport Operations and Management (by Mode) — based on basic general education",
+            "Среднее профессиональное образование",
+            "11",
+            "16"
+          ],
+          [
+            "Transport Operations and Management (by Mode) — based on secondary general education",
+            "Среднее профессиональное образование",
+            "12",
+            "17"
+          ],
+          [
+            "Technical Operation of Lifting, Transport, Construction and Road Machinery (by Industry) — based on basic general education",
+            "Среднее профессиональное образование",
+            "13",
+            "18"
+          ],
+          [
+            "Technical Operation of Lifting, Transport, Construction and Road Machinery (by Industry) — based on secondary general education",
+            "Среднее профессиональное образование",
+            "14",
+            "19"
+          ]
+        ]
+      }
+    ]
+  }
+}

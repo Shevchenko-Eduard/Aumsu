@@ -1,0 +1,39 @@
+{
+  "id": "org-18",
+  "type": "administration",
+  "slug": "upravlenie-metodicheskoj-raboty-vnedreniya-novyh-obrazovatelnyh-tehnologij-i-mezhdunarodno",
+  "name": "Department of Methodological Work, Educational Technologies and International Activities",
+  "shortName": "Department of Methodological Work, Educational Technologies and International Activities",
+  "path": "/about/structure/administrations/upravlenie-metodicheskoj-raboty-vnedreniya-novyh-obrazovatelnyh-tehnologij-i-mezhdunarodno",
+  "headTitle": "начальник управления",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Department of Methodological Work, Educational Technologies and International Activities is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "76-79-24 УЛК Север, 4эт., каб 417",
+  "phones": [
+    "76-79-24"
+  ],
+  "emails": [
+    "dm.studenikin@mail.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/upravlenie-metodicheskoj",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 18,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Department of Methodological Work, Educational Technologies ",
+    "description": "Contacts and information about Department of Methodological Work, Educational Technologies and International Activities."
+  },
+  "head": "Студеникин Дмитрий Евгеньевич",
+  "headPost": "начальник управления",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/Uprav_metod_rabotoy_i_vnedreniya_tehn.pdf"
+}

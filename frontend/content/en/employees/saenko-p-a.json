@@ -1,0 +1,39 @@
+{
+  "id": "employee-326",
+  "slug": "saenko-p-a",
+  "fullName": "Саенко П. А.",
+  "displayName": "Саенко П. А.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее бакалавриат"
+  ],
+  "qualifications": [
+    "информационные системы и технологиии",
+    "-"
+  ],
+  "experienceYears": 0,
+  "isManager": false,
+  "order": 326,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Саенко П. А. — преподаватель",
+    "description": "Саенко П. А., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

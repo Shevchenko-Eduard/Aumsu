@@ -1,0 +1,48 @@
+{
+  "id": "en-page-72",
+  "slug": "student-life",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/student-life",
+  "sectionId": "student-life",
+  "title": "Student life",
+  "summary": "Events, culture, sport, support, accommodation and careers.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Student life at the university includes events, creativity, sport, volunteering and professional development."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What is available"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Student organisations and clubs.",
+        "Sports sections and competitions.",
+        "Cultural events and creative groups.",
+        "Scholarships and support measures.",
+        "Internships and career events.",
+        "Accessible environment and support for students with disabilities."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Follow events in the News section and student communities."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Student life",
+    "description": "Events, culture, sport, support, accommodation and careers."
+  },
+  "template": "default"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "sveden-grants",
+  "slug": "grants",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/grants",
+  "sectionId": "sveden",
+  "title": "Стипендии и меры поддержки",
+  "summary": "Стипендии и меры поддержки: официальные сведения.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Стипендии и меры поддержки: официальные сведения об образовательной организации."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Стипендии и меры поддержки — сведения",
+    "description": "Стипендии и меры поддержки: официальные сведения университета."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "grants",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Полное наименование",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Сокращённое наименование",
+        "value": "ФГБОУ ВО «ГМУ им. адм. Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "grants",
+        "label": "Стипендии и меры поддержки",
+        "value": [
+          "Государственная академическая стипендия",
+          "Социальная стипендия",
+          "Повышенная стипендия",
+          "Материальная помощь"
+        ],
+        "type": "list",
+        "required": true
+      }
+    ],
+    "tables": []
+  }
+}

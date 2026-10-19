@@ -1,0 +1,39 @@
+{
+  "id": "employee-155",
+  "slug": "ivanchishina-a-a",
+  "fullName": "Иванчишина А. А.",
+  "displayName": "Иванчишина А. А.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее специалитет"
+  ],
+  "qualifications": [
+    "экономика и управление на предприятии (транспорт)",
+    "-"
+  ],
+  "experienceYears": 7,
+  "isManager": false,
+  "order": 155,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Иванчишина А. А. — преподаватель",
+    "description": "Иванчишина А. А., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

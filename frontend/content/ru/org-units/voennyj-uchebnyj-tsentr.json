@@ -1,0 +1,39 @@
+{
+  "id": "org-4",
+  "type": "military-center",
+  "slug": "voennyj-uchebnyj-tsentr",
+  "name": "Военный учебный центр",
+  "path": "/about/structure/military-center",
+  "headTitle": "начальник военного учебного центра",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Военный учебный центр — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76‑78‑50, деж. 76‑78‑52 УЛК Север, 1эт",
+  "phones": [
+    "76‑78‑50",
+    "76‑78‑52"
+  ],
+  "emails": [
+    "izoktan@yandex.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/fakultet-voennogo-obucheniya",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 4,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Военный учебный центр",
+    "description": "Военный учебный центр: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Гуляков Владимир Николаевич",
+  "headPost": "начальник военного учебного центра",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/VUC.pdf"
+}

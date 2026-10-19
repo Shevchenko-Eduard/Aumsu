@@ -1,0 +1,31 @@
+{
+  "id": "en-page-83",
+  "slug": "video",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/student-life/video",
+  "sectionId": "student-life",
+  "title": "Video",
+  "summary": "University video materials.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Video: student life section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current announcements, documents and contacts are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Video",
+    "description": "University video materials."
+  },
+  "template": "default"
+}

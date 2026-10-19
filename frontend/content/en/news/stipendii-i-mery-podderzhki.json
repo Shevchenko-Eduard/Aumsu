@@ -1,0 +1,31 @@
+{
+  "id": "news-10",
+  "slug": "stipendii-i-mery-podderzhki",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-08-01T10:00:00.000Z",
+  "publishedAt": "2026-08-01T10:00:00.000Z",
+  "title": "Scholarship rules updated",
+  "summary": "Some scholarship types have been increased and conditions for first-year students clarified.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Updated rules for scholarships and social support apply from 1 September 2026. Details are available in the Student Life section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Applications are accepted at the faculties and the student affairs office."
+    }
+  ],
+  "categoryIds": [
+    "student-life"
+  ],
+  "tagIds": [],
+  "audiences": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Scholarship rules updated",
+    "description": "Some scholarship types have been increased and conditions for first-year students clarified."
+  }
+}

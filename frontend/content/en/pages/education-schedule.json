@@ -1,0 +1,33 @@
+{
+  "id": "en-page-46",
+  "slug": "schedule",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/schedule",
+  "sectionId": "education",
+  "title": "Timetable",
+  "summary": "Current timetable for students and teachers.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The timetable is published in a separate university service. It is available via an external link."
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "External service",
+      "text": "If the embedded timetable does not load, use the direct link to the university service."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Timetable",
+    "description": "Current timetable for students and teachers."
+  },
+  "template": "default"
+}

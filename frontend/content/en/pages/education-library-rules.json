@@ -1,0 +1,31 @@
+{
+  "id": "en-page-52",
+  "slug": "rules",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/library/rules",
+  "sectionId": "education",
+  "title": "User rules",
+  "summary": "Registration, borrowing and return rules.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "User rules: university library information."
+    },
+    {
+      "type": "paragraph",
+      "text": "For current details, contact the library staff or the information desk."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "User rules",
+    "description": "Registration, borrowing and return rules."
+  },
+  "template": "default"
+}

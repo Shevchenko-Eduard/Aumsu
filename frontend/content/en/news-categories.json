@@ -1,0 +1,50 @@
+[
+  {
+    "id": "universitet",
+    "slug": "university",
+    "title": "University",
+    "order": 1
+  },
+  {
+    "id": "nauka",
+    "slug": "research",
+    "title": "Research",
+    "order": 2
+  },
+  {
+    "id": "obrazovanie",
+    "slug": "education",
+    "title": "Education",
+    "order": 3
+  },
+  {
+    "id": "student-life",
+    "slug": "student-life",
+    "title": "Student life",
+    "order": 4
+  },
+  {
+    "id": "mezhdunarodnoe",
+    "slug": "international",
+    "title": "International",
+    "order": 5
+  },
+  {
+    "id": "priemnaya-kampaniya",
+    "slug": "admissions",
+    "title": "Admissions",
+    "order": 6
+  },
+  {
+    "id": "sport",
+    "slug": "sport",
+    "title": "Sport",
+    "order": 7
+  },
+  {
+    "id": "kultura",
+    "slug": "culture",
+    "title": "Culture",
+    "order": 8
+  }
+]

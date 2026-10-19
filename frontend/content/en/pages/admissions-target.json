@@ -1,0 +1,45 @@
+{
+  "id": "en-page-35",
+  "slug": "target",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/admissions/target",
+  "sectionId": "admissions",
+  "title": "Targeted training",
+  "summary": "Admission under a contract with a future employer.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Targeted training allows applicants to study under a contract with an employer and secure a job after graduation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Steps"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Find an employer and sign a targeted training contract.",
+        "Apply to the university within the deadlines.",
+        "Compete for a targeted quota place."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The list of employers and available places is published by the admissions office."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Targeted training",
+    "description": "Admission under a contract with a future employer."
+  },
+  "template": "default"
+}

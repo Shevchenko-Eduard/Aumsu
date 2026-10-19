@@ -1,0 +1,127 @@
+{
+  "main": [
+    {
+      "id": "about",
+      "title": "Университет",
+      "path": "/about",
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "admissions",
+      "title": "Поступление",
+      "path": "/admissions",
+      "visible": true,
+      "order": 2
+    },
+    {
+      "id": "education",
+      "title": "Образование",
+      "path": "/education",
+      "visible": true,
+      "order": 3
+    },
+    {
+      "id": "science",
+      "title": "Наука",
+      "path": "/science",
+      "visible": true,
+      "order": 4
+    },
+    {
+      "id": "student-life",
+      "title": "Студенческая жизнь",
+      "path": "/student-life",
+      "visible": true,
+      "order": 5
+    },
+    {
+      "id": "international",
+      "title": "Международное сотрудничество",
+      "path": "/international",
+      "visible": true,
+      "order": 6
+    },
+    {
+      "id": "news",
+      "title": "Новости",
+      "path": "/news",
+      "visible": true,
+      "order": 7
+    },
+    {
+      "id": "contacts",
+      "title": "Контакты",
+      "path": "/contacts",
+      "visible": true,
+      "order": 8
+    }
+  ],
+  "utility": [
+    {
+      "id": "sveden",
+      "title": "Сведения об образовательной организации",
+      "path": "/sveden",
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "search",
+      "title": "Поиск",
+      "path": "/search",
+      "visible": true,
+      "order": 2
+    },
+    {
+      "id": "sitemap",
+      "title": "Карта сайта",
+      "path": "/sitemap",
+      "visible": true,
+      "order": 3
+    }
+  ],
+  "footer": [
+    {
+      "id": "documents",
+      "title": "Документы",
+      "path": "/about/documents",
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "employees",
+      "title": "Сотрудники",
+      "path": "/about/employees",
+      "visible": true,
+      "order": 2
+    },
+    {
+      "id": "phonebook",
+      "title": "Телефонный справочник",
+      "path": "/contacts/phonebook",
+      "visible": true,
+      "order": 3
+    },
+    {
+      "id": "feedback",
+      "title": "Обратная связь",
+      "path": "/contacts/feedback",
+      "visible": true,
+      "order": 4
+    },
+    {
+      "id": "sveden",
+      "title": "Сведения об образовательной организации",
+      "path": "/sveden",
+      "visible": true,
+      "order": 5
+    },
+    {
+      "id": "sitemap",
+      "title": "Карта сайта",
+      "path": "/sitemap",
+      "visible": true,
+      "order": 6
+    }
+  ]
+}

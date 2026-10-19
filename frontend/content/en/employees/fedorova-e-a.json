@@ -1,0 +1,41 @@
+{
+  "id": "employee-387",
+  "slug": "fedorova-e-a",
+  "fullName": "Федорова Е. А.",
+  "displayName": "Федорова Е. А.",
+  "position": "доцент кафедры по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Прокурорский надзор",
+    "Прокурорский надзор",
+    "Прокурорский надзор"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "юриспруденция",
+    "-"
+  ],
+  "experienceYears": 8,
+  "isManager": false,
+  "order": 387,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Федорова Е. А. — доцент кафедры по совместительству",
+    "description": "Федорова Е. А., доцент кафедры по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

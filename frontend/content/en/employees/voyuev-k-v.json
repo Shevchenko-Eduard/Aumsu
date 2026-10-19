@@ -1,0 +1,39 @@
+{
+  "id": "employee-76",
+  "slug": "voyuev-k-v",
+  "fullName": "Воюев К. В.",
+  "displayName": "Воюев К. В.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее бакалавриат"
+  ],
+  "qualifications": [
+    "физическая культура",
+    "-"
+  ],
+  "experienceYears": 5,
+  "isManager": false,
+  "order": 76,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Воюев К. В. — преподаватель",
+    "description": "Воюев К. В., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "en-page-36",
+  "slug": "faq",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/admissions/faq",
+  "sectionId": "admissions",
+  "title": "Frequently asked questions",
+  "summary": "Answers about applications, deadlines, exams and enrolment.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Answers to the most common questions from applicants and parents. If your question is not covered, contact the admissions office."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Frequently asked questions",
+    "description": "Answers about applications, deadlines, exams and enrolment."
+  },
+  "template": "default"
+}

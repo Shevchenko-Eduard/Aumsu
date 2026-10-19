@@ -1,0 +1,42 @@
+{
+  "id": "employee-204",
+  "slug": "kuznetsova-yu-s",
+  "fullName": "Кузнецова Ю. С.",
+  "displayName": "Кузнецова Ю. С.",
+  "position": "доцент кафедры",
+  "degree": "кандидат педагогических наук",
+  "academicTitle": "доцент",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Деловой иностранный язык",
+    "Иностранный язык",
+    "Деловой иностранный язык",
+    "Иностранный язык"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "лингвистика и межкультурная коммуникация",
+    "-"
+  ],
+  "experienceYears": 18,
+  "isManager": false,
+  "order": 204,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Кузнецова Ю. С. — доцент кафедры",
+    "description": "Кузнецова Ю. С., доцент кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "employee-36",
+  "slug": "balyaeva-s-a",
+  "fullName": "Баляева С. А.",
+  "displayName": "Баляева С. А.",
+  "position": "профессор кафедры",
+  "degree": "доктор педагогических наук",
+  "academicTitle": "профессор, член корреспондент Российской академии Естествознания, член-корреспондент Международной академии наук",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Физика",
+    "Физика",
+    "Физика",
+    "Физика"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "физика",
+    "-"
+  ],
+  "experienceYears": 45,
+  "isManager": false,
+  "order": 36,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Баляева С. А. — профессор кафедры",
+    "description": "Баляева С. А., профессор кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

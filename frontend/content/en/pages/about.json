@@ -1,0 +1,37 @@
+{
+  "id": "en-page-2",
+  "slug": "about",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about",
+  "sectionId": "about",
+  "title": "University",
+  "summary": "History, mission, structure, leadership, staff and documents.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Admiral Ushakov State Maritime University is one of Russia’s leading maritime universities, training specialists for sea and inland transport, economics, law and engineering."
+    },
+    {
+      "type": "paragraph",
+      "text": "This section brings together information about the structure, leadership, staff, documents and projects. Mandatory information about the educational organisation is published separately."
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "Information about the educational organisation",
+      "text": "Official data on licences, accreditation, programmes and documents is available in the dedicated section."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "University",
+    "description": "History, mission, structure, leadership, staff and documents."
+  },
+  "template": "default"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "en-page-76",
+  "slug": "organizations",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/student-life/organizations",
+  "sectionId": "student-life",
+  "title": "Student organisations",
+  "summary": "Student associations and clubs.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Student organisations: student life section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current announcements, documents and contacts are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Student organisations",
+    "description": "Student associations and clubs."
+  },
+  "template": "default"
+}

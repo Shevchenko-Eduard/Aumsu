@@ -1,0 +1,44 @@
+{
+  "id": "employee-40",
+  "slug": "batrakova-t-k",
+  "fullName": "Батракова Т. К.",
+  "displayName": "Батракова Т. К.",
+  "position": "старший преподаватель кафедры",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Механика",
+    "Механика",
+    "Механика",
+    "Механика",
+    "Основы инженерных расчетов на прочность",
+    "Механика"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "прикладная математика",
+    "-"
+  ],
+  "experienceYears": 16,
+  "isManager": false,
+  "order": 40,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Батракова Т. К. — старший преподаватель кафедры",
+    "description": "Батракова Т. К., старший преподаватель кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

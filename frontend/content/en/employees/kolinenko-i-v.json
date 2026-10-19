@@ -1,0 +1,41 @@
+{
+  "id": "employee-178",
+  "slug": "kolinenko-i-v",
+  "fullName": "Колиненко И. В.",
+  "displayName": "Колиненко И. В.",
+  "position": "преподаватель кафедры , преподаватель по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Раздел 11. Магнитно-компасное дело",
+    "Технические средства судовождения",
+    "Технические средства судовождения"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "охрана окружающей среды и рациональное использование природный ресурсов; судовождение",
+    "-"
+  ],
+  "experienceYears": 10,
+  "isManager": false,
+  "order": 178,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Колиненко И. В. — преподаватель кафедры , преподаватель по с",
+    "description": "Колиненко И. В., преподаватель кафедры , преподаватель по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

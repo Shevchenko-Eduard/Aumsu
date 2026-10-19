@@ -1,0 +1,40 @@
+{
+  "id": "employee-412",
+  "slug": "chura-m-n",
+  "fullName": "Чура М. Н.",
+  "displayName": "Чура М. Н.",
+  "position": "старий преподаватель кафедры по совместительству",
+  "degree": "кандидат технических наук",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Комплексная механизация погрузочно-разгрузочных работ",
+    "Машины для содержания и ремонта дорог"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "эксплуатация перегрузочного оборудования портов и транспортных терминалов",
+    "-"
+  ],
+  "experienceYears": 16,
+  "isManager": false,
+  "order": 412,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Чура М. Н. — старий преподаватель кафедры по совместительств",
+    "description": "Чура М. Н., старий преподаватель кафедры по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

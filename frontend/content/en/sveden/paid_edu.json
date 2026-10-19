@@ -1,0 +1,55 @@
+{
+  "id": "sveden-paid_edu",
+  "slug": "paid_edu",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/paid_edu",
+  "sectionId": "sveden",
+  "title": "Paid education",
+  "summary": "Paid education: official information.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Paid education: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Paid education — official information",
+    "description": "Paid education: official information about the university."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "paid_edu",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Full name",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Short name",
+        "value": "Admiral Ushakov State Maritime University",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "paidEducation",
+        "label": "Paid education services",
+        "value": "Paid education is provided under contracts with individuals and legal entities.",
+        "type": "text",
+        "required": true
+      }
+    ],
+    "tables": []
+  }
+}

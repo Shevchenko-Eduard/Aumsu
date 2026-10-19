@@ -1,0 +1,48 @@
+{
+  "id": "en-page-30",
+  "slug": "rules",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/admissions/rules",
+  "sectionId": "admissions",
+  "title": "Admission rules",
+  "summary": "Admission rules for higher and vocational education programmes.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The admission rules define the application procedure, entrance examinations, competition conditions and enrolment."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Main documents"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Rules for higher education programmes.",
+        "Rules for vocational education programmes.",
+        "Postgraduate admission rules.",
+        "List of individual achievements."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "warning",
+      "title": "Current version",
+      "text": "Always check the document version and publication date. Old editions do not apply to the current campaign."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Admission rules",
+    "description": "Admission rules for higher and vocational education programmes."
+  },
+  "template": "default"
+}

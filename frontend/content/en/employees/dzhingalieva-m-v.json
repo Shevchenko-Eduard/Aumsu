@@ -1,0 +1,40 @@
+{
+  "id": "employee-122",
+  "slug": "dzhingalieva-m-v",
+  "fullName": "Джингалиева М. В.",
+  "displayName": "Джингалиева М. В.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Информатика",
+    "Информатика"
+  ],
+  "education": [
+    "высшее магистратура"
+  ],
+  "qualifications": [
+    "Бизнес-информатика",
+    "-"
+  ],
+  "experienceYears": 6,
+  "isManager": false,
+  "order": 122,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Джингалиева М. В. — преподаватель",
+    "description": "Джингалиева М. В., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

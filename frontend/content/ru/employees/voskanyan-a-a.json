@@ -1,0 +1,39 @@
+{
+  "id": "employee-75",
+  "slug": "voskanyan-a-a",
+  "fullName": "Восканян А. А.",
+  "displayName": "Восканян А. А.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее магистратура"
+  ],
+  "qualifications": [
+    "финансы и кредит",
+    "-"
+  ],
+  "experienceYears": 5,
+  "isManager": false,
+  "order": 75,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Восканян А. А. — преподаватель",
+    "description": "Восканян А. А., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

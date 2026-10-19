@@ -1,0 +1,39 @@
+{
+  "id": "org-14",
+  "type": "administration",
+  "slug": "upravlenie-po-konventsionnoj-i-morskoj-podgotovke",
+  "name": "Department of Convention and Maritime Training",
+  "shortName": "Department of Convention and Maritime Training",
+  "path": "/about/structure/administrations/upravlenie-po-konventsionnoj-i-morskoj-podgotovke",
+  "headTitle": "начальник управления",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Department of Convention and Maritime Training is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "76-78-30 УЛК №2. Юг, 5 этаж, каб.520",
+  "phones": [
+    "76-78-30"
+  ],
+  "emails": [
+    "Aumsu.stcw@gmail.com"
+  ],
+  "siteUrl": "https://aumsu.ru/upravlenie-nauchno-issledovatelskoj-deyatelnosti",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 14,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Department of Convention and Maritime Training",
+    "description": "Contacts and information about Department of Convention and Maritime Training."
+  },
+  "head": "Боран-Кешишьян Анастас Леонидович",
+  "headPost": "начальник управления",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/uprav_po_konvec_i_mor_podgotovke.pdf"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "employee-183",
+  "slug": "kondrateva-o-a",
+  "fullName": "Кондратьева О. А.",
+  "displayName": "Кондратьева О. А.",
+  "position": "старший преподаватель кафедры по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Связи с обществен-ностью в органах власти",
+    "Деловые коммуникации",
+    "Связи с общественностью в органах власти"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "журналистика",
+    "-"
+  ],
+  "experienceYears": 4,
+  "isManager": false,
+  "order": 183,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Кондратьева О. А. — старший преподаватель кафедры по совмест",
+    "description": "Кондратьева О. А., старший преподаватель кафедры по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

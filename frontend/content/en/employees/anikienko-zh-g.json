@@ -1,0 +1,44 @@
+{
+  "id": "employee-15",
+  "slug": "anikienko-zh-g",
+  "fullName": "Аникиенко Ж. Г.",
+  "displayName": "Аникиенко Ж. Г.",
+  "position": "доцент кафедры",
+  "degree": "кандидат педагогических наук",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Элективные курсы по физической культуре",
+    "Физическая культура и спорт",
+    "Физическая культура",
+    "Физическая культура и спорт",
+    "Физическая культура и спорт",
+    "Элективные дисциплины по физической культуре и спорту"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "физическая культура",
+    "-"
+  ],
+  "experienceYears": 29,
+  "isManager": false,
+  "order": 15,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Аникиенко Ж. Г. — доцент кафедры",
+    "description": "Аникиенко Ж. Г., доцент кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

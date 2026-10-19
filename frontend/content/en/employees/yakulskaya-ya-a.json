@@ -1,0 +1,39 @@
+{
+  "id": "employee-431",
+  "slug": "yakulskaya-ya-a",
+  "fullName": "Якульская Я. А.",
+  "displayName": "Якульская Я. А.",
+  "position": "преподаватель",
+  "degree": "кандидат философских наук",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее бакалавриат"
+  ],
+  "qualifications": [
+    "лингвистика",
+    "-"
+  ],
+  "experienceYears": 2,
+  "isManager": false,
+  "order": 431,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Якульская Я. А. — преподаватель",
+    "description": "Якульская Я. А., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-68",
+  "slug": "grants",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/grants",
+  "sectionId": "science",
+  "title": "Гранты",
+  "summary": "Грантовые программы и конкурсы.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Гранты: информация о научной деятельности университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные сведения и документы публикуются ответственным подразделением."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Гранты",
+    "description": "Грантовые программы и конкурсы."
+  },
+  "template": "default"
+}

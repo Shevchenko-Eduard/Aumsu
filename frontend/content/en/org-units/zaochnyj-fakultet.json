@@ -1,0 +1,39 @@
+{
+  "id": "org-3",
+  "type": "faculty",
+  "slug": "zaochnyj-fakultet",
+  "name": "Faculty of Distance Learning",
+  "shortName": "Faculty of Distance Learning",
+  "path": "/about/structure/faculties/zaochnyj-fakultet",
+  "headTitle": "начальник факультета",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Faculty of Distance Learning is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "76‑78‑54 УЛК Север, 5эт., каб. 510А, 511, 511а, 511б, 514а, 514б, 516.",
+  "phones": [
+    "76‑78‑54"
+  ],
+  "emails": [
+    "zf@nsma.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/zaochnyj-fakultet",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 3,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Faculty of Distance Learning",
+    "description": "Contacts and information about Faculty of Distance Learning."
+  },
+  "head": "Епихин Алексей Иванович",
+  "headPost": "начальник факультета",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/polojenie_ob_institute.pdf"
+}

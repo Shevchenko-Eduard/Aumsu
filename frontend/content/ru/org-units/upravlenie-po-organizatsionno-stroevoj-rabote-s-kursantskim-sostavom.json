@@ -1,0 +1,37 @@
+{
+  "id": "org-11",
+  "type": "administration",
+  "slug": "upravlenie-po-organizatsionno-stroevoj-rabote-s-kursantskim-sostavom",
+  "name": "Управление по организационно-строевой работе с курсантским составом",
+  "path": "/about/structure/administrations/upravlenie-po-organizatsionno-stroevoj-rabote-s-kursantskim-sostavom",
+  "headTitle": "начальник управления",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Управление по организационно-строевой работе с курсантским составом — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76-78-30",
+  "phones": [
+    "76-78-30"
+  ],
+  "emails": [
+    "puzirevmga@gmail.com"
+  ],
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 11,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Управление по организационно-строевой работе с курсантским с",
+    "description": "Управление по организационно-строевой работе с курсантским составом: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Пузырев Владимир Юрьевич",
+  "headPost": "начальник управления",
+  "regulationUrl": "https://aumsu.ru/sveden/struct#"
+}

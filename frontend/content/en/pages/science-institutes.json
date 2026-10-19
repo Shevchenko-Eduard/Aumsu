@@ -1,0 +1,31 @@
+{
+  "id": "en-page-63",
+  "slug": "institutes",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/institutes",
+  "sectionId": "science",
+  "title": "Research institute",
+  "summary": "The university research institute.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Research institute: information about research at the university."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current information and documents are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Research institute",
+    "description": "The university research institute."
+  },
+  "template": "default"
+}

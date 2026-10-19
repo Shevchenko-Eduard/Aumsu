@@ -1,0 +1,55 @@
+{
+  "id": "sveden-inter",
+  "slug": "inter",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/inter",
+  "sectionId": "sveden",
+  "title": "Международное сотрудничество",
+  "summary": "Международное сотрудничество: официальные сведения.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Международное сотрудничество: официальные сведения об образовательной организации."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Международное сотрудничество — сведения",
+    "description": "Международное сотрудничество: официальные сведения университета."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "inter",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Полное наименование",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Сокращённое наименование",
+        "value": "ФГБОУ ВО «ГМУ им. адм. Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "internationalCooperation",
+        "label": "Международное сотрудничество",
+        "value": "Университет сотрудничает с вузами и организациями разных стран.",
+        "type": "text",
+        "required": true
+      }
+    ],
+    "tables": []
+  }
+}

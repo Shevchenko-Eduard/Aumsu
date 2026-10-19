@@ -1,0 +1,38 @@
+{
+  "id": "org-19",
+  "type": "administration",
+  "slug": "upravlenie-po-investitsionnomu-proektirovaniyu",
+  "name": "Управление по инвестиционному проектированию",
+  "path": "/about/structure/administrations/upravlenie-po-investitsionnomu-proektirovaniyu",
+  "headTitle": "начальник управления",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Управление по инвестиционному проектированию — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76‑79‑30 УЛК №2. Юг, 5 этаж, каб.517",
+  "phones": [
+    "76‑79‑30"
+  ],
+  "emails": [
+    "konkurs@nsma.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/sveden/struct/upravleniya/748-upravlenie-po-investitsionnomu-proektirovaniyu",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 19,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Управление по инвестиционному проектированию",
+    "description": "Управление по инвестиционному проектированию: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Мясников Сергей Валерьевич",
+  "headPost": "начальник управления",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/Uprav_snabjeniya_zakupok.pdf"
+}

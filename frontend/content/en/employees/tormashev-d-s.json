@@ -1,0 +1,39 @@
+{
+  "id": "employee-377",
+  "slug": "tormashev-d-s",
+  "fullName": "Тормашев Д. С.",
+  "displayName": "Тормашев Д. С.",
+  "position": "старший преподаватель кафедры по совместительству",
+  "degree": "кандидат технических наук",
+  "academicTitle": "доцент",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "эксплуатация судовых энергетических установок",
+    "-"
+  ],
+  "experienceYears": 12,
+  "isManager": false,
+  "order": 377,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Тормашев Д. С. — старший преподаватель кафедры по совместите",
+    "description": "Тормашев Д. С., старший преподаватель кафедры по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

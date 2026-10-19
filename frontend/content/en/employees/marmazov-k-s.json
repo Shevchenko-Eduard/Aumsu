@@ -1,0 +1,39 @@
+{
+  "id": "employee-237",
+  "slug": "marmazov-k-s",
+  "fullName": "Мармазов К. С.",
+  "displayName": "Мармазов К. С.",
+  "position": "старший преподаватель цикла по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее, высшее специалитет"
+  ],
+  "qualifications": [
+    "эксплуатация судового электрооборудования и средств автоматики",
+    "-"
+  ],
+  "experienceYears": 1,
+  "isManager": false,
+  "order": 237,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Мармазов К. С. — старший преподаватель цикла по совместитель",
+    "description": "Мармазов К. С., старший преподаватель цикла по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "sveden-common",
+  "slug": "common",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/common",
+  "sectionId": "sveden",
+  "title": "Basic information",
+  "summary": "Basic information: official information.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Basic information: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Basic information — official information",
+    "description": "Basic information: official information about the university."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "common",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Full name",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Short name",
+        "value": "Admiral Ushakov State Maritime University",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "regDate",
+        "label": "Founded",
+        "value": "1 сентября 1975 г.",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "address",
+        "label": "Address",
+        "value": "93 Prospekt Lenina, Novorossiysk, Krasnodar Krai, 353924, Russia",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "website",
+        "label": "Website",
+        "value": "https://aumsu.ru",
+        "type": "link",
+        "required": true
+      },
+      {
+        "itemprop": "telephone",
+        "label": "Phone",
+        "value": [
+          "+7(495)6261100",
+          "8 (8617) 71-75-25",
+          "71-75-25",
+          "+7 (863) 333-28-34",
+          "+7 (8692) 48-74-39"
+        ],
+        "type": "list",
+        "required": true
+      },
+      {
+        "itemprop": "email",
+        "label": "Email",
+        "value": [
+          "ud@morflot.ru",
+          "director@iwtsedov.ru",
+          "sevgmu@yandex.ru",
+          "mail@nsma.ru"
+        ],
+        "type": "list",
+        "required": true
+      },
+      {
+        "itemprop": "rector",
+        "label": "Rector",
+        "value": "Кондратьев Сергей Иванович",
+        "type": "text",
+        "required": true
+      }
+    ],
+    "tables": []
+  }
+}

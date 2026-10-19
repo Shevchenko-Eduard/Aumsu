@@ -1,0 +1,39 @@
+{
+  "id": "employee-196",
+  "slug": "kravchenko-t-e",
+  "fullName": "Кравченко Т. Е.",
+  "displayName": "Кравченко Т. Е.",
+  "position": "преподаватель по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее бакалавриат"
+  ],
+  "qualifications": [
+    "менеджмент",
+    "-"
+  ],
+  "experienceYears": 0,
+  "isManager": false,
+  "order": 196,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Кравченко Т. Е. — преподаватель по совместительству",
+    "description": "Кравченко Т. Е., преподаватель по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

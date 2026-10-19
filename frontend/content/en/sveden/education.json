@@ -1,0 +1,396 @@
+{
+  "id": "sveden-education",
+  "slug": "education",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/education",
+  "sectionId": "sveden",
+  "title": "Education",
+  "summary": "Education: official information.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Education: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Education — official information",
+    "description": "Education: official information about the university."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "education",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Full name",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Short name",
+        "value": "Admiral Ushakov State Maritime University",
+        "type": "text",
+        "required": true
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Education programmes",
+        "headers": [
+          "Code",
+          "Programme",
+          "Level",
+          "Form"
+        ],
+        "rows": [
+          [
+            "09.02.07",
+            "Information Systems and Programming — based on basic general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "09.02.07",
+            "Information Systems and Programming — based on secondary general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "09.02.11",
+            "Software Development and Management",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "15.02.10",
+            "Mechatronics and Robotics (by Industry) — based on secondary general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "20.02.01",
+            "Environmental Safety of Natural Systems — based on basic general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "20.02.01",
+            "Environmental Safety of Natural Systems — based on secondary general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "23.02.01",
+            "Transport Operations and Management (by Mode) — based on basic general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "23.02.01",
+            "Transport Operations and Management (by Mode) — based on secondary general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "23.02.04",
+            "Technical Operation of Lifting, Transport, Construction and Road Machinery (by Industry) — based on basic general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "23.02.04",
+            "Technical Operation of Lifting, Transport, Construction and Road Machinery (by Industry) — based on secondary general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "26.02.03",
+            "Navigation — based on basic general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "26.02.03",
+            "Navigation — based on secondary general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "26.02.05",
+            "Operation of Marine Power Plants — based on basic general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "26.02.05",
+            "Operation of Marine Power Plants — based on secondary general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "34.02.01",
+            "Nursing — based on basic general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "34.02.01",
+            "Nursing — based on secondary general education",
+            "Среднее профессиональное образование",
+            "очная, очно-заочная"
+          ],
+          [
+            "38.02.03",
+            "Logistics Operations — based on basic general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "38.02.03",
+            "Logistics Operations — based on secondary general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "40.02.04",
+            "Law — based on basic general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "40.02.04",
+            "Law — based on secondary general education",
+            "Среднее профессиональное образование",
+            "очная"
+          ],
+          [
+            "09.03.02",
+            "Information Systems and Technologies",
+            "Высшее образование - бакалавриат",
+            "очная, заочная"
+          ],
+          [
+            "10.03.01",
+            "Information Security",
+            "Высшее образование - бакалавриат",
+            "очная"
+          ],
+          [
+            "15.03.06",
+            "Mechatronics and Robotics",
+            "Высшее образование - бакалавриат",
+            "очная"
+          ],
+          [
+            "20.03.01",
+            "Technosphere Safety",
+            "Высшее образование - бакалавриат",
+            "очная, заочная"
+          ],
+          [
+            "23.03.01",
+            "Transport Process Technology",
+            "Высшее образование - бакалавриат",
+            "очная, заочная"
+          ],
+          [
+            "23.03.03",
+            "Operation of Transport and Technological Machines and Complexes",
+            "Высшее образование - бакалавриат",
+            "очная"
+          ],
+          [
+            "26.03.01",
+            "Water Transport Management and Hydrographic Support of Navigation",
+            "Высшее образование - бакалавриат",
+            "очная, заочная"
+          ],
+          [
+            "26.03.02",
+            "Shipbuilding, Ocean Engineering and Marine Infrastructure Systems",
+            "Высшее образование - бакалавриат",
+            "очная"
+          ],
+          [
+            "26.03.04",
+            "Engineering and Economic Support of Water Transport Technologies and Business Processes",
+            "Высшее образование - бакалавриат",
+            "очная"
+          ],
+          [
+            "38.03.01",
+            "Economics",
+            "Высшее образование - бакалавриат",
+            "очная"
+          ],
+          [
+            "38.03.04",
+            "Public and Municipal Administration",
+            "Высшее образование - бакалавриат",
+            "очная, очно-заочная, заочная"
+          ],
+          [
+            "40.03.01",
+            "Law",
+            "Высшее образование - бакалавриат",
+            "очная, заочная"
+          ],
+          [
+            "23.05.01",
+            "Land Transport and Technological Means",
+            "Высшее образование - специалитет",
+            "очная"
+          ],
+          [
+            "25.05.03",
+            "Technical Operation of Transport Radio Equipment",
+            "Высшее образование - специалитет",
+            "очная, заочная"
+          ],
+          [
+            "26.05.05",
+            "Navigation",
+            "Высшее образование - специалитет",
+            "очная, заочная"
+          ],
+          [
+            "26.05.06",
+            "Operation of Marine Power Plants",
+            "Высшее образование - специалитет",
+            "очная, заочная"
+          ],
+          [
+            "26.05.07",
+            "Operation of Marine Electrical Equipment and Automation",
+            "Высшее образование - специалитет",
+            "очная, заочная"
+          ],
+          [
+            "38.05.02",
+            "Customs Affairs",
+            "Высшее образование - специалитет",
+            "очная, заочная"
+          ],
+          [
+            "40.05.01",
+            "Legal Support of National Security",
+            "Высшее образование - специалитет",
+            "очная, заочная"
+          ],
+          [
+            "09.04.02",
+            "Information Systems and Technologies",
+            "Высшее образование - магистратура",
+            "очная, заочная"
+          ],
+          [
+            "20.04.01",
+            "Technosphere Safety",
+            "Высшее образование - магистратура",
+            "очная, заочная"
+          ],
+          [
+            "23.04.01",
+            "Transport Process Technology",
+            "Высшее образование - магистратура",
+            "очная, заочная"
+          ],
+          [
+            "23.04.03",
+            "Operation of Transport and Technological Machines and Complexes",
+            "Высшее образование - магистратура",
+            "очная"
+          ],
+          [
+            "26.04.01",
+            "Water Transport Management and Hydrographic Support of Navigation",
+            "Высшее образование - магистратура",
+            "очная, заочная"
+          ],
+          [
+            "38.04.01",
+            "Economics",
+            "Высшее образование - магистратура",
+            "очная, заочная"
+          ],
+          [
+            "40.04.01",
+            "Law",
+            "Высшее образование - магистратура",
+            "очная"
+          ],
+          [
+            "2.2.15",
+            "Telecommunication Systems, Networks and Devices",
+            "Высшее образование - подготовка кадров высшей квалификации",
+            "очная"
+          ],
+          [
+            "2.3.1",
+            "System Analysis, Information Management and Processing, Statistics",
+            "Высшее образование - подготовка кадров высшей квалификации",
+            "очная"
+          ],
+          [
+            "2.3.3",
+            "Automation and Control of Technological Processes and Production",
+            "Высшее образование - подготовка кадров высшей квалификации",
+            "очная"
+          ],
+          [
+            "2.5.20",
+            "Marine Power Plants and Their Elements (Main and Auxiliary)",
+            "Высшее образование - подготовка кадров высшей квалификации",
+            "очная"
+          ],
+          [
+            "2.9.7",
+            "Water Transport Operation, Waterways and Hydrography",
+            "Высшее образование - подготовка кадров высшей квалификации",
+            "очная"
+          ],
+          [
+            "2.9.8",
+            "Intelligent Transport Systems",
+            "Высшее образование - подготовка кадров высшей квалификации",
+            "очная"
+          ],
+          [
+            "2.10.2",
+            "Environmental Safety",
+            "Высшее образование - подготовка кадров высшей квалификации",
+            "очная"
+          ],
+          [
+            "5.1.2",
+            "Public Law (State Law) Sciences",
+            "Высшее образование - подготовка кадров высшей квалификации",
+            "очная"
+          ],
+          [
+            "5.2.3",
+            "Regional and Sectoral Economics",
+            "Высшее образование - подготовка кадров высшей квалификации",
+            "очная"
+          ],
+          [
+            "5.8.7",
+            "Methodology and Technology of Vocational Education",
+            "Высшее образование - подготовка кадров высшей квалификации",
+            "очная"
+          ]
+        ]
+      }
+    ]
+  }
+}

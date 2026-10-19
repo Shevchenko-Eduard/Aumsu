@@ -1,0 +1,39 @@
+{
+  "id": "employee-258",
+  "slug": "mukailova-o-k",
+  "fullName": "Мукаилова О. К.",
+  "displayName": "Мукаилова О. К.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее бакалавриат"
+  ],
+  "qualifications": [
+    "управление персоналом",
+    "-"
+  ],
+  "experienceYears": 2,
+  "isManager": false,
+  "order": 258,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Мукаилова О. К. — преподаватель",
+    "description": "Мукаилова О. К., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

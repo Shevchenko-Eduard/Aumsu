@@ -1,0 +1,31 @@
+{
+  "id": "en-page-62",
+  "slug": "labs",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/labs",
+  "sectionId": "science",
+  "title": "Laboratories",
+  "summary": "University laboratories and research equipment.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Laboratories: information about research at the university."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current information and documents are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Laboratories",
+    "description": "University laboratories and research equipment."
+  },
+  "template": "default"
+}

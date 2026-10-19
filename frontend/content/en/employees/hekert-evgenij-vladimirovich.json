@@ -1,0 +1,36 @@
+{
+  "id": "employee-manager-2",
+  "slug": "hekert-evgenij-vladimirovich",
+  "fullName": "Хекерт Евгений Владимирович",
+  "displayName": "Хекерт Евгений Владимирович",
+  "position": "проректор, доктор технических наук, профессор",
+  "unitIds": [],
+  "emails": [
+    "zur_mga@nsma.ru"
+  ],
+  "phones": [
+    "8 (8617) 76 78 02",
+    "+7 (918) 34 73 817"
+  ],
+  "photoUrl": "https://aumsu.ru/images/sovet/khekert.jpg",
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [],
+  "education": [],
+  "qualifications": [],
+  "isManager": true,
+  "managerCategory": "rector",
+  "order": 2,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Хекерт Евгений Владимирович — проректор, доктор технических ",
+    "description": "Хекерт Евгений Владимирович, проректор, доктор технических наук, профессор. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

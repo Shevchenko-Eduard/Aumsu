@@ -1,0 +1,34 @@
+{
+  "id": "employee-manager-5",
+  "slug": "fisyurenko-vladimir-aleksandrovich",
+  "fullName": "Фисюренко Владимир Александрович",
+  "displayName": "Фисюренко Владимир Александрович",
+  "position": "Директора института",
+  "unitIds": [],
+  "emails": [
+    "sevgmu@yandex.ru"
+  ],
+  "phones": [
+    "8(8692)487439"
+  ],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [],
+  "education": [],
+  "qualifications": [],
+  "isManager": true,
+  "managerCategory": "rector",
+  "order": 5,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Фисюренко Владимир Александрович — Директора института",
+    "description": "Фисюренко Владимир Александрович, Директора института. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "org-20",
+  "type": "administration",
+  "slug": "upravlenie-obschih-voprosov-deyatelnosti",
+  "name": "Department of General Affairs",
+  "shortName": "Department of General Affairs",
+  "path": "/about/structure/administrations/upravlenie-obschih-voprosov-deyatelnosti",
+  "headTitle": "начальник управления",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Department of General Affairs is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "70‑43‑83 УЛК Север, 2 этаж",
+  "phones": [
+    "70‑43‑83"
+  ],
+  "emails": [
+    "nechushkinmga@gmail.com"
+  ],
+  "siteUrl": "https://aumsu.ru/upravlenie-obshchikh-voprosov-deyatelnosti",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 20,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Department of General Affairs",
+    "description": "Contacts and information about Department of General Affairs."
+  },
+  "head": "Нечушкин Вячеслав Павлович",
+  "headPost": "начальник управления",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/Uprav_obwih_voprosov.pdf"
+}

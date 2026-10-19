@@ -1,0 +1,38 @@
+{
+  "id": "org-9",
+  "type": "college",
+  "slug": "navigatskaya-shkola",
+  "name": "Навигацкая школа",
+  "path": "/about/structure/colleges/navigatskaya-shkola",
+  "headTitle": "Директор школы",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Навигацкая школа — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76-79-61 Учебный корпус №1, 3 этаж",
+  "phones": [
+    "76-79-61"
+  ],
+  "emails": [
+    "navigatskaya.shkola@mail.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/component/content/article/8-glavnaya-stranitsa/381-navigatskaya-shkola",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 9,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Навигацкая школа",
+    "description": "Навигацкая школа: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Орлов Сергей Петрович",
+  "headPost": "Директор школы",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/Polozheniye_o_Navigatskoy_shkole_ot_28_11_2024.pdf"
+}

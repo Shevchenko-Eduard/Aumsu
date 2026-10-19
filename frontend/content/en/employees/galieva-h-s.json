@@ -1,0 +1,40 @@
+{
+  "id": "employee-77",
+  "slug": "galieva-h-s",
+  "fullName": "Галиева Х. С.",
+  "displayName": "Галиева Х. С.",
+  "position": "старший преподаватель кафедры",
+  "degree": "кандидат педагогический наук",
+  "academicTitle": "доцент",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Иностранный язык",
+    "Иностранный язык"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "Английский язык",
+    "-"
+  ],
+  "experienceYears": 46,
+  "isManager": false,
+  "order": 77,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Галиева Х. С. — старший преподаватель кафедры",
+    "description": "Галиева Х. С., старший преподаватель кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

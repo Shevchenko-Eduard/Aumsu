@@ -1,0 +1,39 @@
+{
+  "id": "employee-245",
+  "slug": "melnichenko-a-d",
+  "fullName": "Мельниченко А. Д.",
+  "displayName": "Мельниченко А. Д.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее бакалавриат"
+  ],
+  "qualifications": [
+    "государственное и муниципальное управление",
+    "-"
+  ],
+  "experienceYears": 1,
+  "isManager": false,
+  "order": 245,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Мельниченко А. Д. — преподаватель",
+    "description": "Мельниченко А. Д., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "en-page-51",
+  "slug": "new-arrivals",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/library/new-arrivals",
+  "sectionId": "education",
+  "title": "New arrivals",
+  "summary": "New books and materials in the library collection.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "New arrivals: university library information."
+    },
+    {
+      "type": "paragraph",
+      "text": "For current details, contact the library staff or the information desk."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "New arrivals",
+    "description": "New books and materials in the library collection."
+  },
+  "template": "default"
+}

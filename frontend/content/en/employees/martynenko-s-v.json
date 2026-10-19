@@ -1,0 +1,39 @@
+{
+  "id": "employee-239",
+  "slug": "martynenko-s-v",
+  "fullName": "Мартыненко С. В.",
+  "displayName": "Мартыненко С. В.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "филология",
+    "-"
+  ],
+  "experienceYears": 20,
+  "isManager": false,
+  "order": 239,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Мартыненко С. В. — преподаватель",
+    "description": "Мартыненко С. В., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

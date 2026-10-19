@@ -1,0 +1,55 @@
+{
+  "id": "sveden-inter",
+  "slug": "inter",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/inter",
+  "sectionId": "sveden",
+  "title": "International cooperation",
+  "summary": "International cooperation: official information.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "International cooperation: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "International cooperation — official information",
+    "description": "International cooperation: official information about the university."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "inter",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Full name",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Short name",
+        "value": "Admiral Ushakov State Maritime University",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "internationalCooperation",
+        "label": "International cooperation",
+        "value": "The university cooperates with partner universities and organisations in different countries.",
+        "type": "text",
+        "required": true
+      }
+    ],
+    "tables": []
+  }
+}

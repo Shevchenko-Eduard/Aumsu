@@ -1,0 +1,38 @@
+{
+  "id": "org-15",
+  "type": "administration",
+  "slug": "upravlenie-vospitatelnoj-raboty-i-molodezhnoj-politiki",
+  "name": "Управление воспитательной работы и молодежной политики",
+  "path": "/about/structure/administrations/upravlenie-vospitatelnoj-raboty-i-molodezhnoj-politiki",
+  "headTitle": "начальник управления",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Управление воспитательной работы и молодежной политики — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76‑78‑10 УЛК №2. Юг, 5 этаж, каб. 512",
+  "phones": [
+    "76‑78‑10"
+  ],
+  "emails": [
+    "sv-panchenko@mail.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/upravlenie-vospitatelnoj-raboty-i-molodezhnoj-politiki",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 15,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Управление воспитательной работы и молодежной политики",
+    "description": "Управление воспитательной работы и молодежной политики: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Панченко Сергей Васильевич",
+  "headPost": "начальник управления",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/Vospitatelnie_raboti_molodej_politiki.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "en-page-55",
+  "slug": "hours",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/library/hours",
+  "sectionId": "education",
+  "title": "Opening hours",
+  "summary": "Library and reading room opening hours.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Opening hours: university library information."
+    },
+    {
+      "type": "paragraph",
+      "text": "For current details, contact the library staff or the information desk."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Opening hours",
+    "description": "Library and reading room opening hours."
+  },
+  "template": "default"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-53",
+  "slug": "history",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/library/history",
+  "sectionId": "education",
+  "title": "История библиотеки",
+  "summary": "История формирования библиотечного фонда.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "История библиотеки: информация библиотеки университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные сведения уточняйте у сотрудников библиотеки или на информационной стойке."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "История библиотеки",
+    "description": "История формирования библиотечного фонда."
+  },
+  "template": "default"
+}

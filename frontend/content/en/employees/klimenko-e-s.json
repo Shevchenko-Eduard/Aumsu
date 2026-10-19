@@ -1,0 +1,46 @@
+{
+  "id": "employee-169",
+  "slug": "klimenko-e-s",
+  "fullName": "Клименко Е. С.",
+  "displayName": "Клименко Е. С.",
+  "position": "доцент кафедры",
+  "degree": "кандидат технических наук",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Инженерная графика",
+    "Начертательная геометрия и инженерная графика",
+    "Машинные способы преобразования чертежей",
+    "Машинная графика",
+    "Начертательная геометрия и инженерная графика",
+    "Машинная графика",
+    "Компьютерная графика",
+    "Начертательная геометрия и инженерная графика"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "изобразительное искусство и черчение",
+    "-"
+  ],
+  "experienceYears": 21,
+  "isManager": false,
+  "order": 169,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Клименко Е. С. — доцент кафедры",
+    "description": "Клименко Е. С., доцент кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

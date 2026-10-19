@@ -1,0 +1,27 @@
+{
+  "id": "en-page-8",
+  "slug": "employees",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about/employees",
+  "sectionId": "about",
+  "title": "Staff and faculty",
+  "summary": "University staff directory with contacts and professional information.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The directory lists university leaders, faculty and staff. Use search and unit filters to find the person you need."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Staff and faculty",
+    "description": "University staff directory with contacts and professional information."
+  },
+  "template": "default"
+}

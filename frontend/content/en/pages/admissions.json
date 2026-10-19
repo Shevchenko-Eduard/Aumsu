@@ -1,0 +1,52 @@
+{
+  "id": "en-page-22",
+  "slug": "admissions",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/admissions",
+  "sectionId": "admissions",
+  "title": "Admissions",
+  "summary": "Everything about applying in 2026: study levels, rules, deadlines, exams, tuition and application.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The 2026 admissions campaign is open. Choose your study level, read the rules and deadlines, prepare your documents and apply in a convenient way."
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "How to apply",
+      "text": "The main route is the applicant portal. Instructions and the service link are available on the Apply page."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to start"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Choose a study level and programme.",
+        "Check the entrance examinations.",
+        "Check deadlines and study forms.",
+        "Prepare documents and apply."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The admissions office answers questions by phone +7 (8617) 71-75-25 and email pcom@nsma.ru."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Admissions",
+    "description": "Everything about applying in 2026: study levels, rules, deadlines, exams, tuition and application."
+  },
+  "template": "default"
+}

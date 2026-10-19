@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-100",
+  "slug": "departments",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/contacts/departments",
+  "sectionId": "contacts",
+  "title": "Контакты подразделений",
+  "summary": "Контакты факультетов, институтов и управлений.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Контакты подразделений: контактная информация университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные телефоны и режим работы уточняйте у подразделения."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Контакты подразделений",
+    "description": "Контакты факультетов, институтов и управлений."
+  },
+  "template": "default"
+}

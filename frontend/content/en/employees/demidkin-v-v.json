@@ -1,0 +1,40 @@
+{
+  "id": "employee-116",
+  "slug": "demidkin-v-v",
+  "fullName": "Демидкин В. В.",
+  "displayName": "Демидкин В. В.",
+  "position": "доцент кафедры",
+  "degree": "кандидат технических наук",
+  "academicTitle": "доцент",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Радиосвязь и телекоммуникации С3.Б.15.02 Подготовка операторов ограниченного района ГМССБ",
+    "Радиосвязь и телекоммуникации Б1.В.10.02 Подготовка операторов ограниченного района ГМССБ"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "радиотехника",
+    "-"
+  ],
+  "experienceYears": 24,
+  "isManager": false,
+  "order": 116,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Демидкин В. В. — доцент кафедры",
+    "description": "Демидкин В. В., доцент кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

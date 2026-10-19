@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-62",
+  "slug": "labs",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/labs",
+  "sectionId": "science",
+  "title": "Лаборатории",
+  "summary": "Лаборатории и научное оборудование университета.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Лаборатории: информация о научной деятельности университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные сведения и документы публикуются ответственным подразделением."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Лаборатории",
+    "description": "Лаборатории и научное оборудование университета."
+  },
+  "template": "default"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "en-page-107",
+  "slug": "edustandarts",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/edustandarts",
+  "sectionId": "sveden",
+  "title": "Education standards",
+  "summary": "Education standards: official information about Admiral Ushakov State Maritime University.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Education standards: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Education standards",
+    "description": "Education standards: official information about Admiral Ushakov State Maritime University."
+  },
+  "template": "sveden"
+}

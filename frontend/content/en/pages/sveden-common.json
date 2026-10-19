@@ -1,0 +1,27 @@
+{
+  "id": "en-page-103",
+  "slug": "common",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/common",
+  "sectionId": "sveden",
+  "title": "Basic information",
+  "summary": "Basic information: official information about Admiral Ushakov State Maritime University.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Basic information: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Basic information",
+    "description": "Basic information: official information about Admiral Ushakov State Maritime University."
+  },
+  "template": "sveden"
+}

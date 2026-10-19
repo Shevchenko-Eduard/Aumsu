@@ -1,0 +1,40 @@
+{
+  "id": "employee-319",
+  "slug": "rostorgueva-n-yu",
+  "fullName": "Росторгуева Н. Ю.",
+  "displayName": "Росторгуева Н. Ю.",
+  "position": "старший преподаватель кафедры",
+  "degree": "кандидат технических наук",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Компьютерное сопровождение профессиональной деятельности",
+    "Информатика"
+  ],
+  "education": [
+    "высшее, высшее магистратура"
+  ],
+  "qualifications": [
+    "электронные приборы и устройства, электроника и наноэлектроника",
+    "-"
+  ],
+  "experienceYears": 21,
+  "isManager": false,
+  "order": 319,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Росторгуева Н. Ю. — старший преподаватель кафедры",
+    "description": "Росторгуева Н. Ю., старший преподаватель кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "en-page-47",
+  "slug": "library",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/library",
+  "sectionId": "education",
+  "title": "Library",
+  "summary": "Digital resources, catalogues, periodicals and user rules.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The university library provides access to academic, research and periodical literature. Students and staff can use digital resources and reading rooms."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Library sections"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Digital resources.",
+        "Catalogues and card indexes.",
+        "Periodicals.",
+        "New arrivals.",
+        "User rules.",
+        "History and structure.",
+        "Opening hours."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Access to digital resources may require authorisation in the learning portal."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Library",
+    "description": "Digital resources, catalogues, periodicals and user rules."
+  },
+  "template": "default"
+}

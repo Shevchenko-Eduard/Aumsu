@@ -1,0 +1,31 @@
+{
+  "id": "en-page-70",
+  "slug": "publications",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/publications",
+  "sectionId": "science",
+  "title": "For authors",
+  "summary": "Publication and review requirements.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "For authors: information about research at the university."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current information and documents are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "For authors",
+    "description": "Publication and review requirements."
+  },
+  "template": "default"
+}

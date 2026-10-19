@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-87",
+  "slug": "partners",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/international/partners",
+  "sectionId": "international",
+  "title": "Партнёры",
+  "summary": "Университеты и организации-партнёры.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Партнёры: информация о международной деятельности университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Контакты и актуальные документы публикуются управлением международной деятельности."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Партнёры",
+    "description": "Университеты и организации-партнёры."
+  },
+  "template": "default"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "org-8",
+  "type": "college",
+  "slug": "transportnyj-kolledzh",
+  "name": "Транспортный колледж",
+  "path": "/about/structure/colleges/transportnyj-kolledzh",
+  "headTitle": "Начальник колледжа",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Транспортный колледж — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "8 (8617) 76-79-75Учебный корпус №2, 4-102",
+  "phones": [
+    "8 (8617) 76-79-75",
+    "76-79-75"
+  ],
+  "emails": [
+    "tk@aumsu.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/sveden/struct/fakultety/8-glavnaya-stranitsa/546-transportnyj-kolledzh",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 8,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Транспортный колледж",
+    "description": "Транспортный колледж: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Искандаров Кирилл Михайлович",
+  "headPost": "Начальник колледжа",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/polojenie_o_tk.pdf"
+}

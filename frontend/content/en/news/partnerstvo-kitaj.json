@@ -1,0 +1,31 @@
+{
+  "id": "news-7",
+  "slug": "partnerstvo-kitaj",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-08-30T11:00:00.000Z",
+  "publishedAt": "2026-08-30T11:00:00.000Z",
+  "title": "University expands cooperation with Chinese institutions",
+  "summary": "Agreements on academic exchange and joint programmes in logistics and marine engineering have been signed.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Admiral Ushakov State Maritime University signed cooperation agreements with two Chinese universities. The documents provide for academic exchange, staff internships and joint research."
+    },
+    {
+      "type": "paragraph",
+      "text": "The parties plan to launch joint modules in logistics and marine engineering in the next academic year."
+    }
+  ],
+  "categoryIds": [
+    "mezhdunarodnoe"
+  ],
+  "tagIds": [],
+  "audiences": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "University expands cooperation with Chinese institutions",
+    "description": "Agreements on academic exchange and joint programmes in logistics and marine engineering have been signed."
+  }
+}

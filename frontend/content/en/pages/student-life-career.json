@@ -1,0 +1,31 @@
+{
+  "id": "en-page-81",
+  "slug": "career",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/student-life/career",
+  "sectionId": "student-life",
+  "title": "Careers and internships",
+  "summary": "Internships, placements and vacancies.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Careers and internships: student life section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current announcements, documents and contacts are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Careers and internships",
+    "description": "Internships, placements and vacancies."
+  },
+  "template": "default"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-88",
+  "slug": "programs",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/international/programs",
+  "sectionId": "international",
+  "title": "Международные программы",
+  "summary": "Программы обмена, гранты и совместные проекты.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Международные программы: информация о международной деятельности университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Контакты и актуальные документы публикуются управлением международной деятельности."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Международные программы",
+    "description": "Программы обмена, гранты и совместные проекты."
+  },
+  "template": "default"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "employee-67",
+  "slug": "vaskov-a-s",
+  "fullName": "Васьков А. С.",
+  "displayName": "Васьков А. С.",
+  "position": "профессор кафедры",
+  "degree": "доктор технических наук",
+  "academicTitle": "профессор",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Лидерство и основы управления судовым экипажем",
+    "Математические основы судовождения",
+    "Математические основы судовождения"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "судовождение",
+    "-"
+  ],
+  "experienceYears": 43,
+  "isManager": false,
+  "order": 67,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Васьков А. С. — профессор кафедры",
+    "description": "Васьков А. С., профессор кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

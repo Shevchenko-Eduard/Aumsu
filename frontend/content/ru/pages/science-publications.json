@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-70",
+  "slug": "publications",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/publications",
+  "sectionId": "science",
+  "title": "Авторам публикаций",
+  "summary": "Требования к публикациям и рецензированию.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Авторам публикаций: информация о научной деятельности университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные сведения и документы публикуются ответственным подразделением."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Авторам публикаций",
+    "description": "Требования к публикациям и рецензированию."
+  },
+  "template": "default"
+}

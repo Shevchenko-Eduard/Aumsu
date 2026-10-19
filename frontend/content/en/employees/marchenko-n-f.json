@@ -1,0 +1,39 @@
+{
+  "id": "employee-241",
+  "slug": "marchenko-n-f",
+  "fullName": "Марченко Н. Ф.",
+  "displayName": "Марченко Н. Ф.",
+  "position": "старший преподаватель кафедры",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "астрономия",
+    "-"
+  ],
+  "experienceYears": 48,
+  "isManager": false,
+  "order": 241,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Марченко Н. Ф. — старший преподаватель кафедры",
+    "description": "Марченко Н. Ф., старший преподаватель кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

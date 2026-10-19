@@ -1,0 +1,46 @@
+{
+  "id": "news-2",
+  "slug": "den-otkrytyh-dverej-2026",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-12T10:00:00.000Z",
+  "publishedAt": "2026-10-12T10:00:00.000Z",
+  "title": "Open Day on 25 October",
+  "summary": "Meet the faculties and institutes, see the laboratories and training centres, and ask the admissions office your questions.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "On 25 October the university will hold an Open Day in the main building. The event starts at 10:00. Guests will enjoy programme presentations, laboratory tours and a meeting with the university leadership."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Programme"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "10:00 — registration and welcome area.",
+        "10:30 — university presentation.",
+        "11:30 — meetings with faculties and institutes.",
+        "12:30 — campus and training centre tours."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Pre-registration is required. The link will appear on the home page and in the Admissions section."
+    }
+  ],
+  "categoryIds": [
+    "priemnaya-kampaniya"
+  ],
+  "tagIds": [],
+  "audiences": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Open Day on 25 October",
+    "description": "Meet the faculties and institutes, see the laboratories and training centres, and ask the admissions office your questions."
+  }
+}

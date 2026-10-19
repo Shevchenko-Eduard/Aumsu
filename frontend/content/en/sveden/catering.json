@@ -1,0 +1,55 @@
+{
+  "id": "sveden-catering",
+  "slug": "catering",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/catering",
+  "sectionId": "sveden",
+  "title": "Catering",
+  "summary": "Catering: official information.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Catering: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Catering — official information",
+    "description": "Catering: official information about the university."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "catering",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Full name",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Short name",
+        "value": "Admiral Ushakov State Maritime University",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "catering",
+        "label": "Catering",
+        "value": "Canteens and buffets are available on campus.",
+        "type": "text",
+        "required": true
+      }
+    ],
+    "tables": []
+  }
+}

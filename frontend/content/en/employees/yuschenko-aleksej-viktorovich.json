@@ -1,0 +1,32 @@
+{
+  "id": "employee-manager-6",
+  "slug": "yuschenko-aleksej-viktorovich",
+  "fullName": "Ющенко Алексей Викторович",
+  "displayName": "Ющенко Алексей Викторович",
+  "position": "Директора института",
+  "unitIds": [],
+  "emails": [],
+  "phones": [
+    "8(863)2633640"
+  ],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [],
+  "education": [],
+  "qualifications": [],
+  "isManager": true,
+  "managerCategory": "rector",
+  "order": 6,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Ющенко Алексей Викторович — Директора института",
+    "description": "Ющенко Алексей Викторович, Директора института. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

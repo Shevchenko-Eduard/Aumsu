@@ -1,0 +1,31 @@
+{
+  "id": "en-page-84",
+  "slug": "photo",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/student-life/photo",
+  "sectionId": "student-life",
+  "title": "Photo gallery",
+  "summary": "Photos of university events and life.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Photo gallery: student life section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current announcements, documents and contacts are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Photo gallery",
+    "description": "Photos of university events and life."
+  },
+  "template": "default"
+}

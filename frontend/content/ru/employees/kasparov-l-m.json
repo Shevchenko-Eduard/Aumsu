@@ -1,0 +1,39 @@
+{
+  "id": "employee-164",
+  "slug": "kasparov-l-m",
+  "fullName": "Каспаров Л. М.",
+  "displayName": "Каспаров Л. М.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "штурманская военно-морского флота",
+    "-"
+  ],
+  "experienceYears": 9,
+  "isManager": false,
+  "order": 164,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Каспаров Л. М. — преподаватель",
+    "description": "Каспаров Л. М., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

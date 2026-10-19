@@ -1,0 +1,36 @@
+{
+  "id": "employee-manager-3",
+  "slug": "boran-keshishyan-anastas-leonidovich",
+  "fullName": "Боран-Кешишьян Анастас Леонидович",
+  "displayName": "Боран-Кешишьян Анастас Леонидович",
+  "position": "проректор, кандидат технических наук, доцент",
+  "unitIds": [],
+  "emails": [
+    "Aumsu.stcw@gmail.com"
+  ],
+  "phones": [
+    "8 (8617) 76 78 30",
+    "+7 (918)11 44 443"
+  ],
+  "photoUrl": "https://aumsu.ru/images/sovet/boran_k.jpg",
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [],
+  "education": [],
+  "qualifications": [],
+  "isManager": true,
+  "managerCategory": "rector",
+  "order": 3,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Боран-Кешишьян Анастас Леонидович — проректор, кандидат техн",
+    "description": "Боран-Кешишьян Анастас Леонидович, проректор, кандидат технических наук, доцент. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

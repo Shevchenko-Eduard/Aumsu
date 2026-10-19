@@ -1,0 +1,41 @@
+{
+  "id": "employee-52",
+  "slug": "borovkov-s-e",
+  "fullName": "Боровков С. Е.",
+  "displayName": "Боровков С. Е.",
+  "position": "старший преподаватель кафедры",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Элективные дисциплины по физической культуре и спорту",
+    "Элективные дисциплины по физической культуре и спорту",
+    "Элективные дисциплины по физической культуре и спорту"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "экономика и управление на предприятии (транспорт)",
+    "-"
+  ],
+  "experienceYears": 21,
+  "isManager": false,
+  "order": 52,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Боровков С. Е. — старший преподаватель кафедры",
+    "description": "Боровков С. Е., старший преподаватель кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

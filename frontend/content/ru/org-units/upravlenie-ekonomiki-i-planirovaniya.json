@@ -1,0 +1,37 @@
+{
+  "id": "org-10",
+  "type": "administration",
+  "slug": "upravlenie-ekonomiki-i-planirovaniya",
+  "name": "Управление экономики и планирования",
+  "path": "/about/structure/administrations/upravlenie-ekonomiki-i-planirovaniya",
+  "headTitle": "начальник управления",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Управление экономики и планирования — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76-78-97",
+  "phones": [
+    "76-78-97"
+  ],
+  "emails": [
+    "financedepartment@nsma.ru"
+  ],
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 10,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Управление экономики и планирования",
+    "description": "Управление экономики и планирования: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Зубко Елена Александровна",
+  "headPost": "начальник управления",
+  "regulationUrl": "https://aumsu.ru/sveden/struct#"
+}

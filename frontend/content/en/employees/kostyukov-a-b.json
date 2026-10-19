@@ -1,0 +1,40 @@
+{
+  "id": "employee-190",
+  "slug": "kostyukov-a-b",
+  "fullName": "Костюков А. Б.",
+  "displayName": "Костюков А. Б.",
+  "position": "старший преподаватель кафедры",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Безопасность судоходства С3.Б.10.03 Лидерство и организация командной работы",
+    "Тренажерная подготовка (в соответствии с положениями МК ПДНВ-78) Б1.В.14.03 Подготовка по охране (для лиц, имеющих назначенные обязанности по охране)"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "судовождение",
+    "-"
+  ],
+  "experienceYears": 21,
+  "isManager": false,
+  "order": 190,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Костюков А. Б. — старший преподаватель кафедры",
+    "description": "Костюков А. Б., старший преподаватель кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

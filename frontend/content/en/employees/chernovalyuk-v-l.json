@@ -1,0 +1,39 @@
+{
+  "id": "employee-408",
+  "slug": "chernovalyuk-v-l",
+  "fullName": "Черновалюк В. Л.",
+  "displayName": "Черновалюк В. Л.",
+  "position": "преподаватель по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "медико-профилактическое дело",
+    "-"
+  ],
+  "experienceYears": 0,
+  "isManager": false,
+  "order": 408,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Черновалюк В. Л. — преподаватель по совместительству",
+    "description": "Черновалюк В. Л., преподаватель по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

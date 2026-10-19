@@ -1,0 +1,39 @@
+{
+  "id": "employee-191",
+  "slug": "kotlyarova-a-s",
+  "fullName": "Котлярова А. С.",
+  "displayName": "Котлярова А. С.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее бакалавриат"
+  ],
+  "qualifications": [
+    "педагогическое образование",
+    "-"
+  ],
+  "experienceYears": 2,
+  "isManager": false,
+  "order": 191,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Котлярова А. С. — преподаватель",
+    "description": "Котлярова А. С., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "en-page-49",
+  "slug": "catalogs",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/library/catalogs",
+  "sectionId": "education",
+  "title": "Catalogues and indexes",
+  "summary": "Search the library collections.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Catalogues and indexes: university library information."
+    },
+    {
+      "type": "paragraph",
+      "text": "For current details, contact the library staff or the information desk."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Catalogues and indexes",
+    "description": "Search the library collections."
+  },
+  "template": "default"
+}

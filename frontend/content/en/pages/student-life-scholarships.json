@@ -1,0 +1,31 @@
+{
+  "id": "en-page-78",
+  "slug": "scholarships",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/student-life/scholarships",
+  "sectionId": "student-life",
+  "title": "Scholarships and support",
+  "summary": "Scholarship types and social support.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Scholarships and support: student life section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current announcements, documents and contacts are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Scholarships and support",
+    "description": "Scholarship types and social support."
+  },
+  "template": "default"
+}

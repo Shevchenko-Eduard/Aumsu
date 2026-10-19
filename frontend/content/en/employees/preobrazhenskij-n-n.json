@@ -1,0 +1,39 @@
+{
+  "id": "employee-306",
+  "slug": "preobrazhenskij-n-n",
+  "fullName": "Преображенский Н. Н.",
+  "displayName": "Преображенский Н. Н.",
+  "position": "преподаватель по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "экономика и управление на предприятиях ( транспорт)",
+    "-"
+  ],
+  "experienceYears": 0,
+  "isManager": false,
+  "order": 306,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Преображенский Н. Н. — преподаватель по совместительству",
+    "description": "Преображенский Н. Н., преподаватель по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

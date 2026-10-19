@@ -1,0 +1,47 @@
+{
+  "id": "en-page-32",
+  "slug": "exams",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/admissions/exams",
+  "sectionId": "admissions",
+  "title": "Entrance examinations",
+  "summary": "Examination list, minimum scores and examination programmes.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The entrance examinations depend on the chosen programme. School leavers usually submit Unified State Exam results; vocational and university graduates may take internal exams."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Where to find information"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "On each programme card in the catalogue.",
+        "In the admission rules.",
+        "In the Documents section."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "Minimum scores",
+      "text": "Minimum scores are set annually by the admissions office and published before applications open."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Entrance examinations",
+    "description": "Examination list, minimum scores and examination programmes."
+  },
+  "template": "default"
+}

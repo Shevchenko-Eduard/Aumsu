@@ -1,0 +1,47 @@
+{
+  "id": "en-page-85",
+  "slug": "international",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/international",
+  "sectionId": "international",
+  "title": "International cooperation",
+  "summary": "International students, partners, programmes and mobility.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The university develops international cooperation with institutions and organisations around the world. International students have access to study programmes, language support and adaptation assistance."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Areas of work"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Admission of international students.",
+        "Academic mobility.",
+        "Joint educational programmes.",
+        "International projects and grants.",
+        "Partner relations."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The International Education Centre advises on admission, visas and accommodation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "International cooperation",
+    "description": "International students, partners, programmes and mobility."
+  },
+  "template": "default"
+}

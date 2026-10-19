@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-49",
+  "slug": "catalogs",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/library/catalogs",
+  "sectionId": "education",
+  "title": "Каталоги и картотеки",
+  "summary": "Поиск по фондам библиотеки.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Каталоги и картотеки: информация библиотеки университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные сведения уточняйте у сотрудников библиотеки или на информационной стойке."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Каталоги и картотеки",
+    "description": "Поиск по фондам библиотеки."
+  },
+  "template": "default"
+}

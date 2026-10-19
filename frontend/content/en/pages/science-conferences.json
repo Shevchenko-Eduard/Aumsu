@@ -1,0 +1,31 @@
+{
+  "id": "en-page-67",
+  "slug": "conferences",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/conferences",
+  "sectionId": "science",
+  "title": "Conferences, competitions, grants",
+  "summary": "Research events and funding opportunities.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Conferences, competitions, grants: information about research at the university."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current information and documents are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Conferences, competitions, grants",
+    "description": "Research events and funding opportunities."
+  },
+  "template": "default"
+}

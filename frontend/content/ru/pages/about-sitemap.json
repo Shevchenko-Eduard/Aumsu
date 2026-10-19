@@ -1,0 +1,27 @@
+{
+  "id": "ru-page-119",
+  "slug": "sitemap",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about/sitemap",
+  "sectionId": "about",
+  "title": "Карта сайта",
+  "summary": "Перечень разделов и страниц сайта университета.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Полная карта сайта доступна в разделе «Карта сайта»."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Карта сайта",
+    "description": "Перечень разделов и страниц сайта университета."
+  },
+  "template": "default"
+}

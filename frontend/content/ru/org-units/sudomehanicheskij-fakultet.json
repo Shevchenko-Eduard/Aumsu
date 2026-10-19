@@ -1,0 +1,39 @@
+{
+  "id": "org-2",
+  "type": "faculty",
+  "slug": "sudomehanicheskij-fakultet",
+  "name": "Судомеханический факультет",
+  "path": "/about/structure/faculties/sudomehanicheskij-fakultet",
+  "headTitle": "декан факультета",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Судомеханический факультет — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76‑78‑12, деканат: 76‑78‑87 УЛК №2. Юг, 3 эт., каб. 304.",
+  "phones": [
+    "76‑78‑12",
+    "76‑78‑87"
+  ],
+  "emails": [
+    "ignatenko@aumsu.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/sudomekhanicheskij-fakultet",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 2,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Судомеханический факультет",
+    "description": "Судомеханический факультет: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Игнатенко Александр Владимирович",
+  "headPost": "декан факультета",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/polojenie_ob_institute.pdf"
+}

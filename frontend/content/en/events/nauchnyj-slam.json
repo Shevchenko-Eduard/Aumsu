@@ -1,0 +1,24 @@
+{
+  "id": "event-4",
+  "slug": "nauchnyj-slam",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "title": "Ushakovka Science Slam",
+  "summary": "Young researchers present their projects in ten minutes.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Young researchers present their projects in ten minutes."
+    }
+  ],
+  "startAt": "2026-12-03T18:00:00.000Z",
+  "location": "Assembly hall",
+  "category": "наука",
+  "orgUnitIds": [],
+  "seo": {
+    "title": "Ushakovka Science Slam",
+    "description": "Young researchers present their projects in ten minutes."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "org-12",
+  "type": "administration",
+  "slug": "apparat-rektora",
+  "name": "Аппарат ректора",
+  "path": "/about/structure/administrations/apparat-rektora",
+  "headTitle": "начальник управления – помощник ректора",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Аппарат ректора — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76-78-85 УЛК Север, 1 этаж",
+  "phones": [
+    "76-78-85"
+  ],
+  "emails": [
+    "apparat@nsma.ru",
+    "shmarov@nsma.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/administrativno-pravovoe-upravlenie",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 12,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Аппарат ректора",
+    "description": "Аппарат ректора: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Шмаров Андрей Игоревич",
+  "headPost": "начальник управления – помощник ректора",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/Apparat_rektora.pdf"
+}

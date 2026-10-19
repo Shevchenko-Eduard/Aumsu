@@ -1,0 +1,24 @@
+{
+  "id": "event-3",
+  "slug": "den-karery",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "title": "Career Day",
+  "summary": "Meetings with employers, internships and vacancies for students and alumni.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Meetings with employers, internships and vacancies for students and alumni."
+    }
+  ],
+  "startAt": "2026-11-20T11:00:00.000Z",
+  "location": "Academic building 1",
+  "category": "карьера",
+  "orgUnitIds": [],
+  "seo": {
+    "title": "Career Day",
+    "description": "Meetings with employers, internships and vacancies for students and alumni."
+  }
+}

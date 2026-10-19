@@ -1,0 +1,39 @@
+{
+  "id": "org-1",
+  "type": "faculty",
+  "slug": "fakultet-ekspluatatsii-vodnogo-transporta-i-sudovozhdeniya-fevtisv",
+  "name": "Факультет эксплуатации водного транспорта и судовождения (ФЭВТиСВ)",
+  "path": "/about/structure/faculties/fakultet-ekspluatatsii-vodnogo-transporta-i-sudovozhdeniya-fevtisv",
+  "headTitle": "декан факультета",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Факультет эксплуатации водного транспорта и судовождения (ФЭВТиСВ) — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76‑78‑24, деканат: 76‑78‑25 УЛК №2. Юг, 4 этаж, ауд.432, доп. УК Север, 413",
+  "phones": [
+    "76‑78‑24",
+    "76‑78‑25"
+  ],
+  "emails": [
+    "an.popov.mga@gmail.com"
+  ],
+  "siteUrl": "https://aumsu.ru/fakultet-ekspluatatsii-vodnogo-transporta-i-sudovozhdeniya",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 1,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Факультет эксплуатации водного транспорта и судовождения (ФЭ",
+    "description": "Факультет эксплуатации водного транспорта и судовождения (ФЭВТиСВ): контакты, руководитель, документы и направления работы."
+  },
+  "head": "Попов Анатолий Николаевич",
+  "headPost": "декан факультета",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/polojenie_ob_institute.pdf"
+}

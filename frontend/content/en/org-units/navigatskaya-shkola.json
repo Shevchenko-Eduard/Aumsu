@@ -1,0 +1,39 @@
+{
+  "id": "org-9",
+  "type": "college",
+  "slug": "navigatskaya-shkola",
+  "name": "Navigation School",
+  "shortName": "Navigation School",
+  "path": "/about/structure/colleges/navigatskaya-shkola",
+  "headTitle": "Директор школы",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Navigation School is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "76-79-61 Учебный корпус №1, 3 этаж",
+  "phones": [
+    "76-79-61"
+  ],
+  "emails": [
+    "navigatskaya.shkola@mail.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/component/content/article/8-glavnaya-stranitsa/381-navigatskaya-shkola",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 9,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Navigation School",
+    "description": "Contacts and information about Navigation School."
+  },
+  "head": "Орлов Сергей Петрович",
+  "headPost": "Директор школы",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/Polozheniye_o_Navigatskoy_shkole_ot_28_11_2024.pdf"
+}

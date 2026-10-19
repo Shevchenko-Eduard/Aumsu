@@ -1,0 +1,53 @@
+{
+  "id": "en-page-37",
+  "slug": "apply",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/admissions/apply",
+  "sectionId": "admissions",
+  "title": "Apply",
+  "summary": "Instructions and a link to the applicant portal.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Applications are submitted through the applicant portal, which opens in a new tab."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Before applying, prepare"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Passport.",
+        "Education certificate.",
+        "Insurance number (if available).",
+        "Documents confirming individual achievements.",
+        "Photograph (if required)."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "Demo mode",
+      "text": "The link opens an external university service. In this demo site no real application is submitted."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you have technical problems, contact the admissions office on +7 (8617) 71-75-25."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Apply",
+    "description": "Instructions and a link to the applicant portal."
+  },
+  "template": "default"
+}

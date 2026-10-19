@@ -1,0 +1,1597 @@
+{
+  "items": [
+    {
+      "id": "document-1",
+      "slug": "ustav-universiteta",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Устав университета",
+      "description": "Устав ФГБОУ ВО «ГМУ им. адм. Ф.Ф. Ушакова»",
+      "url": "https://aumsu.ru/images/documents/ustav_23.7.14.pdf",
+      "category": "Устав",
+      "publishedAt": "2024-01-10",
+      "isMandatory": true,
+      "seo": {
+        "title": "Устав университета",
+        "description": "Устав ФГБОУ ВО «ГМУ им. адм. Ф.Ф. Ушакова»"
+      }
+    },
+    {
+      "id": "document-2",
+      "slug": "litsenziya-na-obrazovatelnuyu-deyatelnost",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Лицензия на образовательную деятельность",
+      "description": "Лицензия с приложениями",
+      "url": "https://aumsu.ru/images/documents/Licenziya.pdf",
+      "category": "Лицензии и аккредитации",
+      "publishedAt": "2025-04-20",
+      "isMandatory": true,
+      "seo": {
+        "title": "Лицензия на образовательную деятельность",
+        "description": "Лицензия с приложениями"
+      }
+    },
+    {
+      "id": "document-3",
+      "slug": "pravila-priema-vo",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Правила приёма ВО",
+      "description": "Правила приёма на программы высшего образования",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/Pravila_priema_2025.pdf",
+      "category": "Приёмная кампания",
+      "publishedAt": "2025-06-01",
+      "isMandatory": true,
+      "seo": {
+        "title": "Правила приёма ВО",
+        "description": "Правила приёма на программы высшего образования"
+      }
+    },
+    {
+      "id": "document-4",
+      "slug": "pravila-priema-spo",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Правила приёма СПО",
+      "description": "Правила приёма на программы среднего профессионального образования",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/spo_info/Pravila_priema_SPO.pdf",
+      "category": "Приёмная кампания",
+      "publishedAt": "2025-06-01",
+      "isMandatory": true,
+      "seo": {
+        "title": "Правила приёма СПО",
+        "description": "Правила приёма на программы среднего профессионального образования"
+      }
+    },
+    {
+      "id": "document-5",
+      "slug": "plan-priema-vo-2025",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "План приёма ВО 2025",
+      "description": "Количество мест по направлениям подготовки",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/Plan_priema_VO_2025.pdf",
+      "category": "Приёмная кампания",
+      "publishedAt": "2025-05-15",
+      "isMandatory": true,
+      "seo": {
+        "title": "План приёма ВО 2025",
+        "description": "Количество мест по направлениям подготовки"
+      }
+    },
+    {
+      "id": "document-6",
+      "slug": "stoimost-obucheniya-vo",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Стоимость обучения ВО",
+      "description": "Стоимость обучения по программам высшего образования",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/Spec_and_bak_info/Education_price_vo.pdf",
+      "category": "Стоимость обучения",
+      "publishedAt": "2025-06-01",
+      "isMandatory": true,
+      "seo": {
+        "title": "Стоимость обучения ВО",
+        "description": "Стоимость обучения по программам высшего образования"
+      }
+    },
+    {
+      "id": "document-7",
+      "slug": "stoimost-obucheniya-spo",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Стоимость обучения СПО",
+      "description": "Стоимость обучения по программам СПО",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/spo_info/stoimost_spo.pdf",
+      "category": "Стоимость обучения",
+      "publishedAt": "2025-06-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Стоимость обучения СПО",
+        "description": "Стоимость обучения по программам СПО"
+      }
+    },
+    {
+      "id": "document-8",
+      "slug": "stoimost-obucheniya-magistratura",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Стоимость обучения магистратура",
+      "description": "Стоимость обучения по программам магистратуры",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/Education_price_mag.pdf",
+      "category": "Стоимость обучения",
+      "publishedAt": "2025-06-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Стоимость обучения магистратура",
+        "description": "Стоимость обучения по программам магистратуры"
+      }
+    },
+    {
+      "id": "document-9",
+      "slug": "polozhenie-ob-institute",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение об институте",
+      "description": "Типовое положение о структурном подразделении",
+      "url": "https://aumsu.ru/images/education/Polojeniya/polojenie_ob_institute.pdf",
+      "category": "Локальные акты",
+      "publishedAt": "2024-09-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение об институте",
+        "description": "Типовое положение о структурном подразделении"
+      }
+    },
+    {
+      "id": "document-10",
+      "slug": "polozhenie-o-morskom-kolledzhe",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение о морском колледже",
+      "description": "Положение о структурном подразделении",
+      "url": "https://aumsu.ru/images/education/Polojeniya/polojenie_o_mk.pdf",
+      "category": "Локальные акты",
+      "publishedAt": "2024-09-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение о морском колледже",
+        "description": "Положение о структурном подразделении"
+      }
+    },
+    {
+      "id": "document-11",
+      "slug": "polozhenie-o-transportnom-kolledzhe",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение о транспортном колледже",
+      "description": "Положение о структурном подразделении",
+      "url": "https://aumsu.ru/images/education/Polojeniya/polojenie_o_tk.pdf",
+      "category": "Локальные акты",
+      "publishedAt": "2024-09-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение о транспортном колледже",
+        "description": "Положение о структурном подразделении"
+      }
+    },
+    {
+      "id": "document-12",
+      "slug": "polozhenie-o-voennom-uchebnom-tsentre",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение о военном учебном центре",
+      "description": "Положение о военном учебном центре",
+      "url": "https://aumsu.ru/images/education/Polojeniya/VUC.pdf",
+      "category": "Локальные акты",
+      "publishedAt": "2024-09-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение о военном учебном центре",
+        "description": "Положение о военном учебном центре"
+      }
+    },
+    {
+      "id": "document-13",
+      "slug": "pravila-priema-v-aspiranturu",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Правила приёма в аспирантуру",
+      "description": "Правила приёма на программы подготовки кадров высшей квалификации",
+      "url": "https://aumsu.ru/images/aspirantura/schedule/PravilaPriema_asp2025_2026.pdf",
+      "category": "Аспирантура",
+      "publishedAt": "2025-06-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Правила приёма в аспирантуру",
+        "description": "Правила приёма на программы подготовки кадров высшей квалификации"
+      }
+    },
+    {
+      "id": "document-14",
+      "slug": "perechen-spetsialnostej-po-litsenzii",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Перечень специальностей по лицензии",
+      "description": "Специальности и направления, объявленные к приёму",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/spo_info/Pere4en_spec.pdf",
+      "category": "Приёмная кампания",
+      "publishedAt": "2025-05-15",
+      "isMandatory": false,
+      "seo": {
+        "title": "Перечень специальностей по лицензии",
+        "description": "Специальности и направления, объявленные к приёму"
+      }
+    },
+    {
+      "id": "document-15",
+      "slug": "politika-obrabotki-personalnyh-dannyh",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Политика обработки персональных данных",
+      "description": "Политика в отношении обработки персональных данных",
+      "url": "https://aumsu.ru/images/documents/politika_pd.pdf",
+      "category": "Правовые документы",
+      "publishedAt": "2025-01-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Политика обработки персональных данных",
+        "description": "Политика в отношении обработки персональных данных"
+      }
+    },
+    {
+      "id": "document-16",
+      "slug": "soglasie-subekta-personalnyh-dannyh-na-obrabotku-ego-personalnyh-dannyh-i-soglasie-na-obra",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "«Согласие субъекта персональных данных на обработку его персональных данных» и «Согласие на обработку персональных данных, разрешенных субъектом персональных да",
+      "description": "Бакалавриат, Информация и сведения",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/Spec_and_bak_info/soglasie_na_obrabotku_pers_dannih.pdf",
+      "category": "Приёмная кампания",
+      "isMandatory": false,
+      "seo": {
+        "title": "«Согласие субъекта персональных данных на обработку его перс",
+        "description": "Бакалавриат, Информация и сведения"
+      }
+    },
+    {
+      "id": "document-17",
+      "slug": "40-05-01-pravovoe-obespechenie-natsionalnoj-bezopasnosti",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "40.05.01 Правовое обеспечение национальной безопасности",
+      "description": "Сведения о реализуемых образовательных программах",
+      "url": "https://aumsu.ru/images/documents/buklet_ponb.pdf",
+      "category": "Охрана труда",
+      "isMandatory": false,
+      "seo": {
+        "title": "40.05.01 Правовое обеспечение национальной безопасности",
+        "description": "Сведения о реализуемых образовательных программах"
+      }
+    },
+    {
+      "id": "document-18",
+      "slug": "qp-uup-007-polozhenie-o-nezavisimoj-otsenke",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "QP_УУП_007 Положение о независимой оценке",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/documents/QP/QP_007_nezavisimaya_ocenka.pdf",
+      "category": "Локальные акты",
+      "isMandatory": false,
+      "seo": {
+        "title": "QP_УУП_007 Положение о независимой оценке",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-19",
+      "slug": "annotatsii-nauchnyh-statej-i-obzorov-opublikovannyh-izdaniem-za-poslednie-2-goda",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Аннотации научных статей и обзоров, опубликованных изданием за последние 2 года",
+      "description": "Архив",
+      "url": "https://aumsu.ru/images/sbornik/vypuski/summary.pdf",
+      "category": "Образовательные программы",
+      "isMandatory": false,
+      "seo": {
+        "title": "Аннотации научных статей и обзоров, опубликованных изданием ",
+        "description": "Архив"
+      }
+    },
+    {
+      "id": "document-20",
+      "slug": "bezopasnost-zhiznedeyatelnosti-na-transporte",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Безопасность жизнедеятельности на транспорте",
+      "description": "Бакалавриат/Специалитет",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/Vstupitelnie_isp/bzhd_v_trans.pdf",
+      "category": "Охрана труда",
+      "isMandatory": false,
+      "seo": {
+        "title": "Безопасность жизнедеятельности на транспорте",
+        "description": "Бакалавриат/Специалитет"
+      }
+    },
+    {
+      "id": "document-21",
+      "slug": "bezopasnost-sudovozhdeniya-sposoby-shvartovki-sudna",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Безопасность судовождения. Способы швартовки судна",
+      "description": "Патентная информация по темам научно-исследовательских работ",
+      "url": "https://aumsu.ru/images/pdf/patent/bezopasbost_sudovod.pdf",
+      "category": "Охрана труда",
+      "isMandatory": false,
+      "seo": {
+        "title": "Безопасность судовождения. Способы швартовки судна",
+        "description": "Патентная информация по темам научно-исследовательских работ"
+      }
+    },
+    {
+      "id": "document-22",
+      "slug": "vakantnye-mesta-dlya-priema-perevoda-obuchayuschihsya-na-01-10-2026-pdf",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Вакантные места для приема (перевода) обучающихся на 01.10.2026 (PDF)",
+      "description": "Вакантные места для приема (перевода) обучающихся",
+      "url": "https://www.aumsu.ru/images/documents/Vacant_01.10.2026.pdf",
+      "category": "Вакантные места",
+      "publishedAt": "2026-01-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Вакантные места для приема (перевода) обучающихся на 01.10.2",
+        "description": "Вакантные места для приема (перевода) обучающихся"
+      }
+    },
+    {
+      "id": "document-23",
+      "slug": "vremennaya-instruktsiya-po-eo-i-dot-v-usloviyah-pandemii-koronavirusa",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Временная инструкция по ЭО и ДОТ в условиях пандемии коронавируса",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/pdf/loc_akt/vremennaya_instrukciya_po_eo.pdf",
+      "category": "Локальные акты",
+      "isMandatory": false,
+      "seo": {
+        "title": "Временная инструкция по ЭО и ДОТ в условиях пандемии коронав",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-24",
+      "slug": "vypiska-iz-reestra-organizatsij-osuschestvlyayuschih-obrazovatelnuyu-deyatelnost-po-imeyus",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Выписка из реестра организаций, осуществляющих образовательную деятельность по имеющим государственную аккредитацию образовательным программ",
+      "description": "Образование",
+      "url": "https://aumsu.ru/images/pdf/loc_akt/vipiska_iz_reestra_osush_obraz_deyatelnost.pdf",
+      "category": "Лицензии и аккредитации",
+      "isMandatory": false,
+      "seo": {
+        "title": "Выписка из реестра организаций, осуществляющих образовательн",
+        "description": "Образование"
+      }
+    },
+    {
+      "id": "document-25",
+      "slug": "dvustoronnij-dogovor-zna-okazanie-platnyh-obrazovatelnyh-uslug-po-obrazovatelnym-programma",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Двусторонний договор зна оказание платных образовательных услуг по образовательным программам высшего образования с иностранными гражданами",
+      "description": "Платные образовательные услуги",
+      "url": "https://aumsu.ru/images/documents/dogovor/Dvuhstoroniy_dogovor_ochnozaochno_vo_instr.pdf",
+      "category": "Образовательные программы",
+      "isMandatory": false,
+      "seo": {
+        "title": "Двусторонний договор зна оказание платных образовательных ус",
+        "description": "Платные образовательные услуги"
+      }
+    },
+    {
+      "id": "document-26",
+      "slug": "dvustoronnij-dogovor-na-okazanie-platnyh-obrazovatelnyh-uslug-po-obrazovatelnym-programmam",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Двусторонний договор на оказание платных образовательных услуг по образовательным программам высшего образования",
+      "description": "Платные образовательные услуги",
+      "url": "https://aumsu.ru/images/documents/dogovor/Dvuhstoroniy_dogovor_ochnozaochno_vo.pdf",
+      "category": "Образовательные программы",
+      "isMandatory": false,
+      "seo": {
+        "title": "Двусторонний договор на оказание платных образовательных усл",
+        "description": "Платные образовательные услуги"
+      }
+    },
+    {
+      "id": "document-27",
+      "slug": "dvustoronnij-dogovor-na-okazanie-platnyh-obrazovatelnyh-uslug-po-obrazovatelnym-programmam",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Двусторонний договор на оказание платных образовательных услуг по образовательным программам среднего профессионального образования",
+      "description": "Платные образовательные услуги",
+      "url": "https://aumsu.ru/images/documents/dogovor/Dvuhstoroniy_dogovor_ochnozaochno_spo.pdf",
+      "category": "Образовательные программы",
+      "isMandatory": false,
+      "seo": {
+        "title": "Двусторонний договор на оказание платных образовательных усл",
+        "description": "Платные образовательные услуги"
+      }
+    },
+    {
+      "id": "document-28",
+      "slug": "dvuhstoronnij-dogovor-na-okazanie-platnyh-obrazovatelnyh-uslug-po-obrazovatelnym-programma",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Двухсторонний договор на оказание платных образовательных услуг по образовательным программам высшего образования",
+      "description": "Платные образовательные услуги",
+      "url": "https://aumsu.ru/images/documents/dogovor/Dvuhstoroniy_dogovor_na_okazanie_platnih_uslug_vo.pdf",
+      "category": "Образовательные программы",
+      "isMandatory": false,
+      "seo": {
+        "title": "Двухсторонний договор на оказание платных образовательных ус",
+        "description": "Платные образовательные услуги"
+      }
+    },
+    {
+      "id": "document-29",
+      "slug": "dvuhstoronnij-dogovor-s-inostrannymi-grazhdanami-na-okazanie-platnyh-obrazovatelnyh-uslug-",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Двухсторонний договор с иностранными гражданами на оказание платных образовательных услуг по образовательным программам высшего образования на базе профильного ",
+      "description": "Платные образовательные услуги",
+      "url": "https://aumsu.ru/images/documents/dogovor/Dvuhstoroniy_dogovor_na_okazanie_platnih_uslug_na_baze_spo_inostran.pdf",
+      "category": "Образовательные программы",
+      "isMandatory": false,
+      "seo": {
+        "title": "Двухсторонний договор с иностранными гражданами на оказание ",
+        "description": "Платные образовательные услуги"
+      }
+    },
+    {
+      "id": "document-30",
+      "slug": "dolzhnostnaya-instruktsiya-direktora-yuzhnogo-tsentra-organizatsii-uchebnyh-praktik",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Должностная инструкция Директора Южного центра организации учебных практик",
+      "description": "Южный центр организации учебных практик",
+      "url": "https://aumsu.ru/images/pdf/SouthCenterPractician/scuop_02.pdf",
+      "category": "Локальные акты",
+      "isMandatory": false,
+      "seo": {
+        "title": "Должностная инструкция Директора Южного центра организации у",
+        "description": "Южный центр организации учебных практик"
+      }
+    },
+    {
+      "id": "document-31",
+      "slug": "dolzhnostnaya-instruktsiya-menedzhera-yuzhnogo-tsentra-organizatsii-uchebnyh-praktik",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Должностная инструкция менеджера Южного центра организации учебных практик",
+      "description": "Южный центр организации учебных практик",
+      "url": "https://aumsu.ru/images/pdf/SouthCenterPractician/scuop_03.pdf",
+      "category": "Локальные акты",
+      "isMandatory": false,
+      "seo": {
+        "title": "Должностная инструкция менеджера Южного центра организации у",
+        "description": "Южный центр организации учебных практик"
+      }
+    },
+    {
+      "id": "document-32",
+      "slug": "zaklyuchenie-o-sootvetstvii-obekta-zaschity-obyazatelnym-trebovaniyam-pozharnoj-bezopasnos",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Заключение о соответствии объекта защиты обязательным требованиям пожарной безопасности 20.11.2017",
+      "description": "Официальный документ университета",
+      "url": "https://aumsu.ru/images/pdf/loc_akt/Zaklu4enie_PB.pdf",
+      "category": "Охрана труда",
+      "publishedAt": "2017-01-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Заключение о соответствии объекта защиты обязательным требов",
+        "description": "Официальный документ университета"
+      }
+    },
+    {
+      "id": "document-33",
+      "slug": "zayavlenie-byudzhet",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Заявление (бюджет)",
+      "description": "Бланки для заполнения",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/Blanki/Zayavlenie_budj.docx",
+      "category": "Финансовая деятельность",
+      "isMandatory": false,
+      "seo": {
+        "title": "Заявление (бюджет)",
+        "description": "Бланки для заполнения"
+      }
+    },
+    {
+      "id": "document-34",
+      "slug": "zayavlenie-na-byudzhet",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Заявление на бюджет",
+      "description": "Официальный документ университета",
+      "url": "https://aumsu.ru/images/aspirantura/doc/zayavlenie_na_budget.docx",
+      "category": "Финансовая деятельность",
+      "isMandatory": false,
+      "seo": {
+        "title": "Заявление на бюджет",
+        "description": "Официальный документ университета"
+      }
+    },
+    {
+      "id": "document-35",
+      "slug": "zayavlenie-soglasie-na-zachislenie",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Заявление согласие на зачисление",
+      "description": "Официальный документ университета",
+      "url": "https://aumsu.ru/images/aspirantura/doc/Zayavlenie_soglasiya_na_zachislenie.docx",
+      "category": "Приёмная кампания",
+      "isMandatory": false,
+      "seo": {
+        "title": "Заявление согласие на зачисление",
+        "description": "Официальный документ университета"
+      }
+    },
+    {
+      "id": "document-36",
+      "slug": "instruktsiya",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "ИНСТРУКЦИЯ",
+      "description": "Военный учебный центр",
+      "url": "https://aumsu.ru/images/FVO/Instruction.pdf",
+      "category": "Локальные акты",
+      "isMandatory": false,
+      "seo": {
+        "title": "ИНСТРУКЦИЯ",
+        "description": "Военный учебный центр"
+      }
+    },
+    {
+      "id": "document-37",
+      "slug": "instruktsiya-po-soprovozhdeniyu-invalidov-i-lits-s-ovz",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Инструкция по сопровождению инвалидов и лиц с ОВЗ",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/pdf/loc_akt/instuct_po_sopr_inv__i_lic_s_ovz.pdf",
+      "category": "Локальные акты",
+      "isMandatory": false,
+      "seo": {
+        "title": "Инструкция по сопровождению инвалидов и лиц с ОВЗ",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-38",
+      "slug": "informatsiya-o-kolichestve-mest-v-obschezhitiyah-dlya-inogorodnih-obuchayuschihsya",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Информация о количестве мест в общежитиях для иногородних обучающихся",
+      "description": "Бакалавриат, Информация и сведения",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/Spec_and_bak_info/Informaciya_o_kolichestve_mest_v_obshchezhitiyah.pdf",
+      "category": "Общежитие",
+      "isMandatory": false,
+      "seo": {
+        "title": "Информация о количестве мест в общежитиях для иногородних об",
+        "description": "Бакалавриат, Информация и сведения"
+      }
+    },
+    {
+      "id": "document-39",
+      "slug": "informatsiya-o-kolichestve-mest-v-obschezhitiyah-dlya-inogorodnih-postupayuschih",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Информация о количестве мест в общежитиях для иногородних поступающих",
+      "description": "Общежитие",
+      "url": "http://aumsu.ru/images/PK/Priem_komis_page/Informaciya_o_kolichestve_mest_v_obshchezhitiyah_dlya_inogorodnih_postupayushchih.pdf",
+      "category": "Общежитие",
+      "isMandatory": false,
+      "seo": {
+        "title": "Информация о количестве мест в общежитиях для иногородних по",
+        "description": "Общежитие"
+      }
+    },
+    {
+      "id": "document-40",
+      "slug": "informatsiya-o-nalichii-obschezhitij-i-kolichestve-mest-v-obschezhitiyah-dlya-inogorodnih-",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Информация о наличии общежитий и количестве мест в общежитиях для иногородних поступающих",
+      "description": "Порядок приема в аспирантуру",
+      "url": "https://aumsu.ru/science/aspirantura/poryadok-priema-v-aspiranturu/8-glavnaya-stranitsa/331-informatsiya-o-nalichii-obshchezhitij",
+      "category": "Общежитие",
+      "isMandatory": false,
+      "seo": {
+        "title": "Информация о наличии общежитий и количестве мест в общежития",
+        "description": "Порядок приема в аспирантуру"
+      }
+    },
+    {
+      "id": "document-41",
+      "slug": "informatsiya-o-nalichii-obschezhitiya-ij",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Информация о наличии общежития(ий)",
+      "description": "Бакалавриат, Информация и сведения",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/Spec_and_bak_info/Info_ob_obshajiti.pdf",
+      "category": "Общежитие",
+      "isMandatory": false,
+      "seo": {
+        "title": "Информация о наличии общежития(ий)",
+        "description": "Бакалавриат, Информация и сведения"
+      }
+    },
+    {
+      "id": "document-42",
+      "slug": "informatsiya-ob-osnovnyh-obrazovatelnyh-programmah-realizuemyh-v-imtmeip",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Информация об основных образовательных программах, реализуемых в ИМТМЭиП",
+      "description": "Документы",
+      "url": "https://aumsu.ru/images/kafedra/programmy-2026-2027.pdf",
+      "category": "Образовательные программы",
+      "publishedAt": "2026-01-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Информация об основных образовательных программах, реализуем",
+        "description": "Документы"
+      }
+    },
+    {
+      "id": "document-43",
+      "slug": "kolichestvo-mest-finansiruemyh-za-schet-byudzhetnyh-assignovanij-federalnogo-byudzheta-v-t",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Количество мест, финансируемых за счет бюджетных ассигнований федерального бюджета, в том числе по различным формам получения образования",
+      "description": "Информация и сведения",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/spo_info/Kol_vo_mest_fin_asign.pdf",
+      "category": "Финансовая деятельность",
+      "isMandatory": false,
+      "seo": {
+        "title": "Количество мест, финансируемых за счет бюджетных ассигновани",
+        "description": "Информация и сведения"
+      }
+    },
+    {
+      "id": "document-44",
+      "slug": "litsenzii-na-osuschestvlenie-obrazovatelnoj-deyatelnosti-s-prilozheniyami",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "лицензии на осуществление образовательной деятельности (с приложениями)",
+      "description": "Иностранным студентам",
+      "url": "https://aumsu.ru/images/documents/Licen_20.4.15.pdf",
+      "category": "Лицензии и аккредитации",
+      "isMandatory": false,
+      "seo": {
+        "title": "лицензии на осуществление образовательной деятельности (с пр",
+        "description": "Иностранным студентам"
+      }
+    },
+    {
+      "id": "document-45",
+      "slug": "litsenziya-na-osuschestvlenie-meditsinskoj-deyatelnosti",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Лицензия на осуществление медицинской деятельности",
+      "description": "Медико-санитарная санчасть",
+      "url": "https://aumsu.ru/images/documents/vipiska_iz_reestra.pdf",
+      "category": "Лицензии и аккредитации",
+      "isMandatory": false,
+      "seo": {
+        "title": "Лицензия на осуществление медицинской деятельности",
+        "description": "Медико-санитарная санчасть"
+      }
+    },
+    {
+      "id": "document-46",
+      "slug": "mery-podderzhki-svo",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Меры поддержки СВО",
+      "description": "Преподавателям и сотрудникам",
+      "url": "https://aumsu.ru/images/pdf/sup5.pdf",
+      "category": "Стипендии и поддержка",
+      "isMandatory": false,
+      "seo": {
+        "title": "Меры поддержки СВО",
+        "description": "Преподавателям и сотрудникам"
+      }
+    },
+    {
+      "id": "document-47",
+      "slug": "nekotorye-printsipy-sistemy-podderzhki-prinyatiya-resheniya-v-sudovozhdenii",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Некоторые принципы системы поддержки принятия решения в судовождении",
+      "description": "Аннотация",
+      "url": "http://www.nsma.ru/arch/vaskov1.pdf",
+      "category": "Стипендии и поддержка",
+      "isMandatory": false,
+      "seo": {
+        "title": "Некоторые принципы системы поддержки принятия решения в судо",
+        "description": "Аннотация"
+      }
+    },
+    {
+      "id": "document-48",
+      "slug": "o-mestah-osuschestvleniya-obrazovatelnoj-deyatelnosti-pri-ispolzovanii-setevoj-formy-reali",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "О местах осуществления образовательной деятельности при использовании сетевой формы реализации образовательных программ",
+      "description": "Основные сведения",
+      "url": "https://aumsu.ru/images/documents/MOOD.pdf",
+      "category": "Образовательные программы",
+      "isMandatory": false,
+      "seo": {
+        "title": "О местах осуществления образовательной деятельности при испо",
+        "description": "Основные сведения"
+      }
+    },
+    {
+      "id": "document-49",
+      "slug": "ob-ustanovlenii-stoimosti-obrazovatelnyh-uslug",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Об установлении стоимости образовательных услуг",
+      "description": "Факультет среднего профессионального образования и довузовской подготовки",
+      "url": "https://aumsu.ru/images/PK/2017/prikaz_o_stoimost_uslug_spo.PDF",
+      "category": "Стоимость обучения",
+      "publishedAt": "2017-01-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Об установлении стоимости образовательных услуг",
+        "description": "Факультет среднего профессионального образования и довузовской подготовки"
+      }
+    },
+    {
+      "id": "document-50",
+      "slug": "ob-ustanovlenii-stoimosti-obrazovatelnyh-uslug-na-1-kurse-zaochnoj-formy-srednego-professi",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Об установлении стоимости образовательных услуг на 1 курсе заочной формы среднего профессионального образования на базе 11 классов с 01.09.2024 г.",
+      "description": "Платные образовательные услуги",
+      "url": "https://aumsu.ru/images/PEO/1402_24.pdf",
+      "category": "Стоимость обучения",
+      "publishedAt": "2024-01-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Об установлении стоимости образовательных услуг на 1 курсе з",
+        "description": "Платные образовательные услуги"
+      }
+    },
+    {
+      "id": "document-51",
+      "slug": "ob-utverzhdenii-polozheniya-o-poryadke-soobscheniya-litsami-zameschayuschimi-dolzhnosti-v-",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Об утверждении Положения о порядке сообщения лицами,замещающими должности в Университете о получении подарка в связи с исполнением ими должностных обязанностей",
+      "description": "Комиссия по соблюдению требований",
+      "url": "https://aumsu.ru/images/pdf/loc_akt/127.pdf",
+      "category": "Локальные акты",
+      "isMandatory": false,
+      "seo": {
+        "title": "Об утверждении Положения о порядке сообщения лицами,замещающ",
+        "description": "Комиссия по соблюдению требований"
+      }
+    },
+    {
+      "id": "document-52",
+      "slug": "obschaya-informatsiya-ob-akkreditatsii-spetsialistov",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Общая информация об аккредитации специалистов",
+      "description": "Общая информация об аккредитации специалистов",
+      "url": "https://aumsu.ru/images/pdf/akkr/all_info_akkr_spec.pdf",
+      "category": "Лицензии и аккредитации",
+      "isMandatory": false,
+      "seo": {
+        "title": "Общая информация об аккредитации специалистов",
+        "description": "Общая информация об аккредитации специалистов"
+      }
+    },
+    {
+      "id": "document-53",
+      "slug": "otchet-o-provedenii-sout",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Отчет о проведении СОУТ",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/pdf/loc_akt/otchet_o_provedenii_sout.pdf",
+      "category": "Финансовая деятельность",
+      "isMandatory": false,
+      "seo": {
+        "title": "Отчет о проведении СОУТ",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-54",
+      "slug": "otchet-o-rezultatah-samoobsledovaniya",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Отчет о результатах самообследования",
+      "description": "Официальный документ университета",
+      "url": "https://aumsu.ru/images/documents/rezultat_samoobs.pdf",
+      "category": "Финансовая деятельность",
+      "isMandatory": false,
+      "seo": {
+        "title": "Отчет о результатах самообследования",
+        "description": "Официальный документ университета"
+      }
+    },
+    {
+      "id": "document-55",
+      "slug": "pamyatka-o-pravilah-prebyvaniya-inostrannyh-studentov-na-territorii-rf",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Памятка о правилах пребывания иностранных студентов на территории РФ",
+      "description": "Официальный документ университета",
+      "url": "https://aumsu.ru/images/documents/Guidance.pdf",
+      "category": "Локальные акты",
+      "isMandatory": false,
+      "seo": {
+        "title": "Памятка о правилах пребывания иностранных студентов на терри",
+        "description": "Официальный документ университета"
+      }
+    },
+    {
+      "id": "document-56",
+      "slug": "pamyatka-po-protivodejstviyu-korruptsii",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Памятка по противодействию коррупции",
+      "description": "Противодействие коррупции",
+      "url": "https://aumsu.ru/images/doc/pamaytka_o_korup.pdf",
+      "category": "Противодействие коррупции",
+      "isMandatory": false,
+      "seo": {
+        "title": "Памятка по противодействию коррупции",
+        "description": "Противодействие коррупции"
+      }
+    },
+    {
+      "id": "document-57",
+      "slug": "pamyatka-studentu-zf-ob-oplate-obucheniya",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Памятка студенту ЗФ об оплате обучения",
+      "description": "Заочный факультет",
+      "url": "https://aumsu.ru/images/pdf/ZF/infr_ob_oplate_obuch.pdf",
+      "category": "Стоимость обучения",
+      "isMandatory": false,
+      "seo": {
+        "title": "Памятка студенту ЗФ об оплате обучения",
+        "description": "Заочный факультет"
+      }
+    },
+    {
+      "id": "document-58",
+      "slug": "pismo-mz-rf-o-poluchenii-svidetelstva-ob-akkreditatsii-spetsialista-na-bumazhnom-nositele",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Письмо МЗ РФ о получении свидетельства об аккредитации специалиста на бумажном носителе",
+      "description": "Документы регламентирующие проведения аккредитации специалистов",
+      "url": "https://aumsu.ru/images/pdf/akkr/Pismo_o_poluch_svid_ob_akkr_spec.pdf",
+      "category": "Лицензии и аккредитации",
+      "isMandatory": false,
+      "seo": {
+        "title": "Письмо МЗ РФ о получении свидетельства об аккредитации специ",
+        "description": "Документы регламентирующие проведения аккредитации специалистов"
+      }
+    },
+    {
+      "id": "document-59",
+      "slug": "plan-priem",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "План прием",
+      "description": "Прием в аспирантуру",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/plan_priema_v_aspiranturu_2025.pdf",
+      "category": "Приёмная кампания",
+      "publishedAt": "2025-01-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "План прием",
+        "description": "Прием в аспирантуру"
+      }
+    },
+    {
+      "id": "document-60",
+      "slug": "plan-priema",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "План приема",
+      "description": "Информация и сведения",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/PlanPriema2025.pdf",
+      "category": "Приёмная кампания",
+      "publishedAt": "2025-01-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "План приема",
+        "description": "Информация и сведения"
+      }
+    },
+    {
+      "id": "document-61",
+      "slug": "polozhenie-vyborov-zav-kafedry",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение выборов зав.кафедры",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/pdf/loc_akt/Polojenie_ob_viborah_zav_kafedri.pdf",
+      "category": "Локальные акты",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение выборов зав.кафедры",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-62",
+      "slug": "polozhenie-izbraniya-pps",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение избрания ППС",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/pdf/loc_akt/Polojenie_ob_izbrania_pps.pdf",
+      "category": "Локальные акты",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение избрания ППС",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-63",
+      "slug": "polozhenie-o-vneauditornoj-rabote",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение о внеаудиторной работе",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/pdf/Polojeniya/Transport_kolej/polojenie_o_vneauditornoy_rabote.pdf",
+      "category": "Локальные акты",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение о внеаудиторной работе",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-64",
+      "slug": "polozhenie-o-dissertatsionnom-sovete",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение о диссертационном совете",
+      "description": "Диссертационный совет",
+      "url": "https://aumsu.ru/images/doc/polojenie_o_dissovete.pdf",
+      "category": "Локальные акты",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение о диссертационном совете",
+        "description": "Диссертационный совет"
+      }
+    },
+    {
+      "id": "document-65",
+      "slug": "polozhenie-o-doktoranture",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение о докторантуре",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/aspirantura/doc/1_Polojenie_doktorantura.pdf",
+      "category": "Локальные акты",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение о докторантуре",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-66",
+      "slug": "polozhenie-o-zachetnyh-knizhkah",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение о зачётных книжках",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/pdf/loc_akt/polojenie_o_zachetnih_knijkah_spo.pdf",
+      "category": "Локальные акты",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение о зачётных книжках",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-67",
+      "slug": "polozhenie-o-komissii-po-otchisleniyu",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение о комиссии по отчислению",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/pdf/polojenieokompootchis.pdf",
+      "category": "Локальные акты",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение о комиссии по отчислению",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-68",
+      "slug": "polozhenie-o-merah-sotsialnoj-podderzhki-detej-sirot-i-detej-ostavshihsya-bez-popecheniya-",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение о мерах социальной поддержки детей-сирот и детей, оставшихся без попечения родителей, а также лиц из числа детей-сирот и детей, оставшихся без попечен",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/pdf/loc_akt/Polojenie_o_sirotah.pdf",
+      "category": "Стипендии и поддержка",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение о мерах социальной поддержки детей-сирот и детей, ",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-69",
+      "slug": "polozhenie-o-poryadke-organizatsii-i-osuschestvlenii-obrazovatelnoj-deyatelnosti-po-progra",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение о порядке организации и осуществлении образовательной деятельности по программам аспирантуры",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/aspirantura/doc/7_Polojenie_o_poryadke_organizaci_obraz_deyat.pdf",
+      "category": "Образовательные программы",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение о порядке организации и осуществлении образователь",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-70",
+      "slug": "polozhenie-o-poryadke-provedeniya-itogovoj-attestatsii-po-ne-imeyuschim-gosudarstvennoj-ak",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение о порядке проведения итоговой аттестации по не имеющим государственной аккредитации образовательным программам высшего образования",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/pdf/loc_akt/Polojenie_o_poryadke_provedeniya_itogovoy_attestacii_po_ne_imeushim_gosudarstvennoy_acredetacii.pdf",
+      "category": "Лицензии и аккредитации",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение о порядке проведения итоговой аттестации по не име",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-71",
+      "slug": "polozhenie-o-poryadke-realizatsii-fakultativnyh-i-elektivnyh-distsiplin-modulej-obuchayusc",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение о порядке реализации факультативных и элективных дисциплин (модулей) обучающимися по основным профессиональным образовательным программам высшего обра",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/pdf/loc_akt/Polojenie_o_poryadke_realizacii_fakultativnih_disciplin.pdf",
+      "category": "Образовательные программы",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение о порядке реализации факультативных и элективных д",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-72",
+      "slug": "polozhenie-o-setevoj-forme-organizatsii-obrazovatelnyh-programm",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение о сетевой форме организации образовательных программ",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/pdf/loc_akt/O_setevoy_forme_organizaci_programm.pdf",
+      "category": "Образовательные программы",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение о сетевой форме организации образовательных програ",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-73",
+      "slug": "polozhenie-ob-obuchenii-po-individualnym-uchebnym-planam",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение об обучении по индивидуальным учебным планам",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/pdf/loc_akt/polojenie_ob_obuchenii_po_individ_planam.PDF",
+      "category": "Образовательные программы",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение об обучении по индивидуальным учебным планам",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-74",
+      "slug": "polozhenie-ob-oplate-truda-2022",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Положение об оплате труда 2022",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/documents/Polojenie_ob_oplate_truda.pdf",
+      "category": "Стоимость обучения",
+      "publishedAt": "2022-01-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Положение об оплате труда 2022",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-75",
+      "slug": "poluchenie-rezultatov-akkreditatsii-spetsialistov",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Получение результатов аккредитации специалистов",
+      "description": "Получение результатов аккредитации специалистов",
+      "url": "https://aumsu.ru/images/pdf/akkr/Pol_rez_akkr_spec.pdf",
+      "category": "Лицензии и аккредитации",
+      "isMandatory": false,
+      "seo": {
+        "title": "Получение результатов аккредитации специалистов",
+        "description": "Получение результатов аккредитации специалистов"
+      }
+    },
+    {
+      "id": "document-76",
+      "slug": "pravila-priema",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Правила приема",
+      "description": "Порядок приема",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/Pravila_priema_SPO.pdf",
+      "category": "Приёмная кампания",
+      "isMandatory": false,
+      "seo": {
+        "title": "Правила приема",
+        "description": "Порядок приема"
+      }
+    },
+    {
+      "id": "document-77",
+      "slug": "pravila-priema-2015g",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Правила приема 2015г.",
+      "description": "Порядок приема в магистратуру",
+      "url": "https://aumsu.ru/images/pdf/MAGiSTRATURA/Pravila_priema_2015.pdf",
+      "category": "Приёмная кампания",
+      "publishedAt": "2015-01-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Правила приема 2015г.",
+        "description": "Порядок приема в магистратуру"
+      }
+    },
+    {
+      "id": "document-78",
+      "slug": "pravila-priema-2016g",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Правила приема 2016г.",
+      "description": "Порядок приема в магистратуру",
+      "url": "https://aumsu.ru/images/pdf/MAGiSTRATURA/pravila_priema_2016.pdf",
+      "category": "Приёмная кампания",
+      "publishedAt": "2016-01-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Правила приема 2016г.",
+        "description": "Порядок приема в магистратуру"
+      }
+    },
+    {
+      "id": "document-79",
+      "slug": "pravila-priema-2017g",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Правила приема 2017г.",
+      "description": "Порядок приема в магистратуру",
+      "url": "https://aumsu.ru/images/pdf/MAGiSTRATURA/Pravila_priema_2017.pdf",
+      "category": "Приёмная кампания",
+      "publishedAt": "2017-01-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Правила приема 2017г.",
+        "description": "Порядок приема в магистратуру"
+      }
+    },
+    {
+      "id": "document-80",
+      "slug": "pravila-priema-v-aspiranturu-inostrannyh-grazhdan",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Правила приема в аспирантуру иностранных граждан",
+      "description": "Порядок приема в аспирантуру",
+      "url": "https://aumsu.ru/science/aspirantura/poryadok-priema-v-aspiranturu/8-glavnaya-stranitsa/269-pravila-priema-v-aspiranturu-inostrannykh-grazhdan",
+      "category": "Приёмная кампания",
+      "isMandatory": false,
+      "seo": {
+        "title": "Правила приема в аспирантуру иностранных граждан",
+        "description": "Порядок приема в аспирантуру"
+      }
+    },
+    {
+      "id": "document-81",
+      "slug": "pravila-priema-obuchayuschihsya",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Правила приема обучающихся",
+      "description": "Локальные нормативные акты",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/Pravila_priema_2024.pdf",
+      "category": "Приёмная кампания",
+      "publishedAt": "2024-01-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Правила приема обучающихся",
+        "description": "Локальные нормативные акты"
+      }
+    },
+    {
+      "id": "document-82",
+      "slug": "prikaz-mz-rf-1043n-ot-22-12-2017-ob-utverzhdenii-srokov-i-etapov-akkreditatsii-spetsialist",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Приказ МЗ РФ №1043н от 22.12.2017 Об утверждении сроков и этапов аккредитации специалистов",
+      "description": "Документы регламентирующие проведения аккредитации специалистов",
+      "url": "https://aumsu.ru/images/pdf/akkr/Prikaz_1043n.pdf",
+      "category": "Лицензии и аккредитации",
+      "publishedAt": "2017-01-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Приказ МЗ РФ №1043н от 22.12.2017 Об утверждении сроков и эт",
+        "description": "Документы регламентирующие проведения аккредитации специалистов"
+      }
+    },
+    {
+      "id": "document-83",
+      "slug": "prikaz-ob-ustanovlenii-stoimosti-v-aspiranture-1-3-kurs-s-01-09-2024-g",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Приказ об установлении стоимости в аспирантуре 1-3 курс с 01.09.2024 г.",
+      "description": "Платные образовательные услуги",
+      "url": "https://aumsu.ru/images/PEO/1116_24.pdf",
+      "category": "Стоимость обучения",
+      "publishedAt": "2024-01-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Приказ об установлении стоимости в аспирантуре 1-3 курс с 01",
+        "description": "Платные образовательные услуги"
+      }
+    },
+    {
+      "id": "document-84",
+      "slug": "prikaz-ob-ustanovlenii-stoimosti-v-aspiranture-4-5-kursy-s-01-09-2024-g",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Приказ об установлении стоимости в аспирантуре 4-5 курсы с 01.09.2024 г.",
+      "description": "Платные образовательные услуги",
+      "url": "https://aumsu.ru/images/PEO/1117_24.pdf",
+      "category": "Стоимость обучения",
+      "publishedAt": "2024-01-01",
+      "isMandatory": false,
+      "seo": {
+        "title": "Приказ об установлении стоимости в аспирантуре 4-5 курсы с 0",
+        "description": "Платные образовательные услуги"
+      }
+    },
+    {
+      "id": "document-85",
+      "slug": "sistema-podderzhki-prinyatiya-reshenij",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Система поддержки принятия решений",
+      "description": "Патентная информация по темам научно-исследовательских работ",
+      "url": "https://aumsu.ru/images/pdf/patent/sistema_podderjki_prinyatiya_reweniy.pdf",
+      "category": "Стипендии и поддержка",
+      "isMandatory": false,
+      "seo": {
+        "title": "Система поддержки принятия решений",
+        "description": "Патентная информация по темам научно-исследовательских работ"
+      }
+    },
+    {
+      "id": "document-86",
+      "slug": "sistemy-podderzhki-i-upravleniya-sudovymi-tehnicheskimi-sredstvami",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Системы поддержки и управления судовыми техническими средствами",
+      "description": "Патентная информация по темам научно-исследовательских работ",
+      "url": "https://aumsu.ru/images/pdf/patent/sis_pod_i_upr_sud_teh_sred.pdf",
+      "category": "Стипендии и поддержка",
+      "isMandatory": false,
+      "seo": {
+        "title": "Системы поддержки и управления судовыми техническими средств",
+        "description": "Патентная информация по темам научно-исследовательских работ"
+      }
+    },
+    {
+      "id": "document-87",
+      "slug": "skazhi-korruptsii-net",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Скажи коррупции НЕТ!",
+      "description": "Памятки гражданам",
+      "url": "https://aumsu.ru/images/doc/skaji_korupcii_net.pdf",
+      "category": "Противодействие коррупции",
+      "isMandatory": false,
+      "seo": {
+        "title": "Скажи коррупции НЕТ!",
+        "description": "Памятки гражданам"
+      }
+    },
+    {
+      "id": "document-88",
+      "slug": "soglasie-na-zachislenie",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Согласие на зачисление",
+      "description": "Бланки для заполнения",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/Blanki/Soglasie_na_zachislenie.docx",
+      "category": "Приёмная кампания",
+      "isMandatory": false,
+      "seo": {
+        "title": "Согласие на зачисление",
+        "description": "Бланки для заполнения"
+      }
+    },
+    {
+      "id": "document-89",
+      "slug": "soglasie-na-zachislenie-spo",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Согласие на зачисление СПО",
+      "description": "Информация и сведения",
+      "url": "https://aumsu.ru/images/PK/Priem_komis_page/spo_info/Soglasie_na_zachislenie.docx",
+      "category": "Приёмная кампания",
+      "isMandatory": false,
+      "seo": {
+        "title": "Согласие на зачисление СПО",
+        "description": "Информация и сведения"
+      }
+    },
+    {
+      "id": "document-90",
+      "slug": "soglasie-na-obrabotku-personalnyh-dannyh",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Согласие на обработку персональных данных",
+      "description": "Официальный документ университета",
+      "url": "https://aumsu.ru/images/aspirantura/doc/soglasie_na_obr_pers_dan.docx",
+      "category": "Приёмная кампания",
+      "isMandatory": false,
+      "seo": {
+        "title": "Согласие на обработку персональных данных",
+        "description": "Официальный документ университета"
+      }
+    },
+    {
+      "id": "document-91",
+      "slug": "formy-dokumentov-svyazannyh-s-protivodejstviem-korruptsii-dlya-zapolneniya",
+      "status": "published",
+      "locale": "ru",
+      "createdAt": "2026-10-19T12:00:00.000Z",
+      "updatedAt": "2026-10-19T12:00:00.000Z",
+      "title": "Формы документов, связанных с противодействием коррупции, для заполнения",
+      "description": "Противодействие коррупции",
+      "url": "https://aumsu.ru/images/doc/blank.pdf",
+      "category": "Противодействие коррупции",
+      "isMandatory": false,
+      "seo": {
+        "title": "Формы документов, связанных с противодействием коррупции, дл",
+        "description": "Противодействие коррупции"
+      }
+    }
+  ],
+  "categories": [
+    "Устав",
+    "Лицензии и аккредитации",
+    "Приёмная кампания",
+    "Стоимость обучения",
+    "Локальные акты",
+    "Аспирантура",
+    "Правовые документы",
+    "Охрана труда",
+    "Образовательные программы",
+    "Вакантные места",
+    "Финансовая деятельность",
+    "Общежитие",
+    "Стипендии и поддержка",
+    "Противодействие коррупции"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "event-5",
+  "slug": "novogodnij-koncert",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "title": "New Year concert",
+  "summary": "Festive concert by university creative groups.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Festive concert by university creative groups."
+    }
+  ],
+  "startAt": "2026-12-20T17:00:00.000Z",
+  "location": "Assembly hall",
+  "category": "культура",
+  "orgUnitIds": [],
+  "seo": {
+    "title": "New Year concert",
+    "description": "Festive concert by university creative groups."
+  }
+}

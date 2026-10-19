@@ -1,0 +1,41 @@
+[
+  {
+    "id": "admissions",
+    "title": "Admissions Office",
+    "address": "93 Prospekt Lenina, Novorossiysk",
+    "phones": [
+      "+7 (8617) 71-75-25"
+    ],
+    "emails": [
+      "pcom@nsma.ru"
+    ],
+    "workingHours": "Mon–Fri 8:30–17:00; daily during the admissions campaign",
+    "order": 1
+  },
+  {
+    "id": "rectorate",
+    "title": "Rector’s Office",
+    "address": "93 Prospekt Lenina, Novorossiysk",
+    "phones": [
+      "+7 (8617) 76-78-00"
+    ],
+    "emails": [
+      "mail@nsma.ru"
+    ],
+    "workingHours": "Mon–Fri 8:30–17:00",
+    "order": 2
+  },
+  {
+    "id": "international",
+    "title": "International Office",
+    "address": "93 Prospekt Lenina, Novorossiysk",
+    "phones": [
+      "+7 (8617) 76-78-10"
+    ],
+    "emails": [
+      "international@nsma.ru"
+    ],
+    "workingHours": "Mon–Fri 8:30–17:00",
+    "order": 3
+  }
+]

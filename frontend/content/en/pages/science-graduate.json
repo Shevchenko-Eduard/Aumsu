@@ -1,0 +1,31 @@
+{
+  "id": "en-page-65",
+  "slug": "graduate",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/graduate",
+  "sectionId": "science",
+  "title": "Postgraduate study",
+  "summary": "Postgraduate programmes.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Postgraduate study: information about research at the university."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current information and documents are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Postgraduate study",
+    "description": "Postgraduate programmes."
+  },
+  "template": "default"
+}

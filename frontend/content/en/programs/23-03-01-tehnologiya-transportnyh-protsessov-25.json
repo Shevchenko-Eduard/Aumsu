@@ -1,0 +1,105 @@
+{
+  "id": "program-25",
+  "slug": "23-03-01-tehnologiya-transportnyh-protsessov-25",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "code": "23.03.01",
+  "name": "Transport Process Technology",
+  "level": "bachelor",
+  "profile": "Организация перегрузочных процессов в транспортных узлах и портах",
+  "facultyId": "org-2",
+  "departmentIds": [],
+  "forms": [
+    "full-time",
+    "part-time"
+  ],
+  "duration": "4 years",
+  "languages": [
+    "ru"
+  ],
+  "budgetPlaces": 36,
+  "paidPlaces": 34,
+  "tuition": [
+    {
+      "amount": 142000,
+      "currency": "RUB",
+      "year": 2026,
+      "form": "full-time"
+    }
+  ],
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "The programme prepares specialists in transport process technology for the maritime and transport industry. Students gain practical skills in modern laboratories and training centres."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you will study"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Professional disciplines and applied projects",
+        "Work with industry digital tools",
+        "Teamwork and production practice",
+        "Safety and environmental standards"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Admission"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entrance examinations depend on the chosen level. The minimum score and the number of places are updated annually by the admissions office."
+    }
+  ],
+  "curriculumDocumentIds": [],
+  "annotationDocumentIds": [],
+  "admission": {
+    "exams": [
+      {
+        "subject": "Mathematics",
+        "minScore": 39
+      },
+      {
+        "subject": "Russian language",
+        "minScore": 40
+      },
+      {
+        "subject": "Profile subject",
+        "minScore": 44
+      }
+    ],
+    "budgetPlaces": 36,
+    "paidPlaces": 34,
+    "tuition": [
+      {
+        "amount": 142000,
+        "currency": "RUB",
+        "year": 2026
+      }
+    ],
+    "deadlines": [
+      {
+        "label": "Start of applications",
+        "date": "2026-06-20"
+      },
+      {
+        "label": "End of applications (budget)",
+        "date": "2026-07-25"
+      }
+    ]
+  },
+  "accreditation": "State accreditation",
+  "seo": {
+    "title": "Transport Process Technology — Bachelor's",
+    "description": "Programme 23.03.01: admission, duration, places and tuition at Admiral Ushakov Maritime State University."
+  }
+}

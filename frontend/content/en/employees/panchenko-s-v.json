@@ -1,0 +1,41 @@
+{
+  "id": "employee-284",
+  "slug": "panchenko-s-v",
+  "fullName": "Панченко С. В.",
+  "displayName": "Панченко С. В.",
+  "position": "доцент кафедры по совместительству",
+  "degree": "кандидат философских наук",
+  "academicTitle": "доцент",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "География",
+    "География",
+    "География"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "География",
+    "-"
+  ],
+  "experienceYears": 34,
+  "isManager": false,
+  "order": 284,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Панченко С. В. — доцент кафедры по совместительству",
+    "description": "Панченко С. В., доцент кафедры по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "employee-144",
+  "slug": "zavertajlo-o-v",
+  "fullName": "Завертайло О. В.",
+  "displayName": "Завертайло О. В.",
+  "position": "преподаватель, преподаватель по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Раздел13. Техническое обслуживание и ремонт судовых механизмов и оборудования",
+    "Раздел 11.Организация, технология судоремонта и диагностика",
+    "Метрология и стандартизация",
+    "Метрология и стандартизация",
+    "Учебная практика"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "экономика и управление на предприятии (транспорт)",
+    "-"
+  ],
+  "experienceYears": 6,
+  "isManager": false,
+  "order": 144,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Завертайло О. В. — преподаватель, преподаватель по совместит",
+    "description": "Завертайло О. В., преподаватель, преподаватель по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

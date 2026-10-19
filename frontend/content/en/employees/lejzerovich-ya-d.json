@@ -1,0 +1,48 @@
+{
+  "id": "employee-217",
+  "slug": "lejzerovich-ya-d",
+  "fullName": "Лейзерович Я. Д.",
+  "displayName": "Лейзерович Я. Д.",
+  "position": "доцент кафедры",
+  "degree": "кандидат педагогических наук",
+  "academicTitle": "доцент",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Информационные таможенные технологии",
+    "Защита информации",
+    "Информатика",
+    "Информатика",
+    "Информационные технологии в профессиональной деятельности",
+    "Офисное программирова-ние",
+    "Информатика",
+    "Управление данными",
+    "Информацион-ные технологии",
+    "Алгоритмы и структуры данных"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "механика",
+    "-"
+  ],
+  "experienceYears": 31,
+  "isManager": false,
+  "order": 217,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Лейзерович Я. Д. — доцент кафедры",
+    "description": "Лейзерович Я. Д., доцент кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "en-page-12",
+  "slug": "anti-corruption",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about/anti-corruption",
+  "sectionId": "about",
+  "title": "Anti-corruption",
+  "summary": "Regulatory documents, reporting procedure and contacts.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The university implements an anti-corruption policy in accordance with Russian law."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What to do if you suspect corruption"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Contact the administrative and legal department.",
+        "Send a message to the official email address.",
+        "Use the trust phone line."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Confidentiality is ensured within the limits established by law."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Anti-corruption",
+    "description": "Regulatory documents, reporting procedure and contacts."
+  },
+  "template": "default"
+}

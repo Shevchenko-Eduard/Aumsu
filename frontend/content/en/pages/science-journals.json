@@ -1,0 +1,27 @@
+{
+  "id": "en-page-71",
+  "slug": "journals",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/journals",
+  "sectionId": "science",
+  "title": "University journals",
+  "summary": "University academic journals, issues and publication rules.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The university publishes academic journals in maritime fields. Each journal page contains issues, submission and review rules, editorial board and publication ethics."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "University journals",
+    "description": "University academic journals, issues and publication rules."
+  },
+  "template": "default"
+}

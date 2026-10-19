@@ -1,0 +1,45 @@
+{
+  "id": "en-page-21",
+  "slug": "military-center",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about/structure/military-center",
+  "sectionId": "about",
+  "title": "Military Training Centre",
+  "summary": "Military training for students, admission rules and contacts.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Military Training Centre provides military training under programmes established by the Ministry of Defence."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to join"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Read the selection rules.",
+        "Complete a medical examination.",
+        "Submit documents within the deadlines."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Contact details and office hours are published in the unit card."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Military Training Centre",
+    "description": "Military training for students, admission rules and contacts."
+  },
+  "template": "default"
+}

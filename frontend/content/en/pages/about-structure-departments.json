@@ -1,0 +1,27 @@
+{
+  "id": "en-page-18",
+  "slug": "departments",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about/structure/departments",
+  "sectionId": "about",
+  "title": "Departments",
+  "summary": "Departments of Admiral Ushakov State Maritime University.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "This section lists the university’s departments. Open a unit card for contacts, leadership and documents."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Departments",
+    "description": "Departments of Admiral Ushakov State Maritime University."
+  },
+  "template": "default"
+}

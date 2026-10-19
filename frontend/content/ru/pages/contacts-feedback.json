@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-99",
+  "slug": "feedback",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/contacts/feedback",
+  "sectionId": "contacts",
+  "title": "Обратная связь",
+  "summary": "Форма обратной связи и согласие на обработку данных.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Обратная связь: контактная информация университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные телефоны и режим работы уточняйте у подразделения."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Обратная связь",
+    "description": "Форма обратной связи и согласие на обработку данных."
+  },
+  "template": "contact"
+}

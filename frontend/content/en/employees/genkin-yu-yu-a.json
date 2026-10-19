@@ -1,0 +1,48 @@
+{
+  "id": "employee-79",
+  "slug": "genkin-yu-yu-a",
+  "fullName": "Генкин Ю. Ю.а",
+  "displayName": "Генкин Ю. Ю.а",
+  "position": "доцент кафедры",
+  "degree": "кандидат филологических наук",
+  "academicTitle": "доцент",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Профессиональный иностранный язык",
+    "Деловой иностранный язык",
+    "Иностранный язык",
+    "Иностранный язык",
+    "Иностранный язык в сфере юриспруденции",
+    "Иностранный язык",
+    "Иностранный язык в сфере юриспруденции",
+    "Деловой иностранный язык",
+    "Иностранный язык в профессиональной сфере",
+    "Деловой иностранный язык"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "немецкий и английский языки",
+    "-"
+  ],
+  "experienceYears": 20,
+  "isManager": false,
+  "order": 79,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Генкин Ю. Ю.а — доцент кафедры",
+    "description": "Генкин Ю. Ю.а, доцент кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

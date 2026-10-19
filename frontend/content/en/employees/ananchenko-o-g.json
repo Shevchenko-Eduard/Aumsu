@@ -1,0 +1,39 @@
+{
+  "id": "employee-12",
+  "slug": "ananchenko-o-g",
+  "fullName": "Ананченко О. Г.",
+  "displayName": "Ананченко О. Г.",
+  "position": "преподаватель",
+  "degree": "кандидат филологических наук",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "русский язык и литература",
+    "-"
+  ],
+  "experienceYears": 33,
+  "isManager": false,
+  "order": 12,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Ананченко О. Г. — преподаватель",
+    "description": "Ананченко О. Г., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

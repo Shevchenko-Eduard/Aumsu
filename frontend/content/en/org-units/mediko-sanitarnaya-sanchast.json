@@ -1,0 +1,40 @@
+{
+  "id": "org-25",
+  "type": "administration",
+  "slug": "mediko-sanitarnaya-sanchast",
+  "name": "Medical Unit",
+  "shortName": "Medical Unit",
+  "path": "/about/structure/administrations/mediko-sanitarnaya-sanchast",
+  "headTitle": "начальник медсанчасти",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Medical Unit is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "+7 (8617) 76 79 39; +7(918) 040 35 69 Учебный корпус №1, цокольный этаж",
+  "phones": [
+    "+7 (8617) 76 79 39",
+    "+7(918) 040 35 69"
+  ],
+  "emails": [
+    "med@nsma.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/sveden/struct/8-glavnaya-stranitsa/570-mediko-sanitarnaya-sanchast",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 25,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Medical Unit",
+    "description": "Contacts and information about Medical Unit."
+  },
+  "head": "Калмаков Роман Леонидович",
+  "headPost": "начальник медсанчасти",
+  "regulationUrl": "https://aumsu.ru/images/struktura/polozeniya/Polojenie_MCC.pdf"
+}

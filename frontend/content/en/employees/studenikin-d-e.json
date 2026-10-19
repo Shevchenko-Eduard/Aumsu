@@ -1,0 +1,41 @@
+{
+  "id": "employee-355",
+  "slug": "studenikin-d-e",
+  "fullName": "Студеникин Д. Е.",
+  "displayName": "Студеникин Д. Е.",
+  "position": "доцент кафедры по совместительству",
+  "degree": "кандидат технических наук",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Технические средства судовождения",
+    "Технические средства судовождения",
+    "Судовые электронавигационные приборы"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "судовождение",
+    "-"
+  ],
+  "experienceYears": 16,
+  "isManager": false,
+  "order": 355,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Студеникин Д. Е. — доцент кафедры по совместительству",
+    "description": "Студеникин Д. Е., доцент кафедры по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

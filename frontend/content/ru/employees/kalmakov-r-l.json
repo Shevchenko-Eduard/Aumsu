@@ -1,0 +1,39 @@
+{
+  "id": "employee-163",
+  "slug": "kalmakov-r-l",
+  "fullName": "Калмаков Р. Л.",
+  "displayName": "Калмаков Р. Л.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее, высшее"
+  ],
+  "qualifications": [
+    "лечебное дело, юриспруденция",
+    "-"
+  ],
+  "experienceYears": 1,
+  "isManager": false,
+  "order": 163,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Калмаков Р. Л. — преподаватель",
+    "description": "Калмаков Р. Л., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "en-page-82",
+  "slug": "museum",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/student-life/museum",
+  "sectionId": "student-life",
+  "title": "Museum",
+  "summary": "Exhibits and archival materials.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Museum: student life section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current announcements, documents and contacts are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Museum",
+    "description": "Exhibits and archival materials."
+  },
+  "template": "default"
+}

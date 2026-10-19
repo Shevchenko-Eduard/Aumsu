@@ -1,0 +1,31 @@
+{
+  "id": "en-page-86",
+  "slug": "students",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/international/students",
+  "sectionId": "international",
+  "title": "International students",
+  "summary": "Admission, visa, accommodation and adaptation.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "International students: information about the university’s international activities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contacts and current documents are published by the International Office."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "International students",
+    "description": "Admission, visa, accommodation and adaptation."
+  },
+  "template": "default"
+}

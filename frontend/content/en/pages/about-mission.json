@@ -1,0 +1,47 @@
+{
+  "id": "en-page-4",
+  "slug": "mission",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about/mission",
+  "sectionId": "about",
+  "title": "Mission and values",
+  "summary": "Preparing responsible professionals for the maritime industry and advancing maritime science.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The university’s mission is to prepare highly qualified specialists for sea and inland transport, ensure navigational safety and conduct world-class research."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Our values"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Professionalism and responsibility.",
+        "Respect for maritime traditions.",
+        "Openness and international cooperation.",
+        "Safety and sustainable development.",
+        "Support for students and staff."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The university creates an environment where knowledge meets practice and graduates are ready for demanding professional work."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Mission and values",
+    "description": "Preparing responsible professionals for the maritime industry and advancing maritime science."
+  },
+  "template": "default"
+}

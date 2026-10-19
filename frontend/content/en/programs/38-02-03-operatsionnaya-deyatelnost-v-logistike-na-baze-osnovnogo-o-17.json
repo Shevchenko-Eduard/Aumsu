@@ -1,0 +1,103 @@
+{
+  "id": "program-17",
+  "slug": "38-02-03-operatsionnaya-deyatelnost-v-logistike-na-baze-osnovnogo-o-17",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "code": "38.02.03",
+  "name": "Logistics Operations — based on basic general education",
+  "level": "college",
+  "facultyId": "org-8",
+  "departmentIds": [],
+  "forms": [
+    "full-time"
+  ],
+  "duration": "2 years 10 months",
+  "languages": [
+    "ru"
+  ],
+  "budgetPlaces": 26,
+  "paidPlaces": 36,
+  "tuition": [
+    {
+      "amount": 146000,
+      "currency": "RUB",
+      "year": 2026,
+      "form": "full-time"
+    }
+  ],
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "The programme prepares specialists in logistics operations — based on basic general education for the maritime and transport industry. Students gain practical skills in modern laboratories and training centres."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you will study"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Professional disciplines and applied projects",
+        "Work with industry digital tools",
+        "Teamwork and production practice",
+        "Safety and environmental standards"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Admission"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entrance examinations depend on the chosen level. The minimum score and the number of places are updated annually by the admissions office."
+    }
+  ],
+  "curriculumDocumentIds": [],
+  "annotationDocumentIds": [],
+  "admission": {
+    "exams": [
+      {
+        "subject": "Mathematics",
+        "minScore": 39
+      },
+      {
+        "subject": "Russian language",
+        "minScore": 40
+      },
+      {
+        "subject": "Profile subject",
+        "minScore": 44
+      }
+    ],
+    "budgetPlaces": 26,
+    "paidPlaces": 36,
+    "tuition": [
+      {
+        "amount": 146000,
+        "currency": "RUB",
+        "year": 2026
+      }
+    ],
+    "deadlines": [
+      {
+        "label": "Start of applications",
+        "date": "2026-06-20"
+      },
+      {
+        "label": "End of applications (budget)",
+        "date": "2026-07-25"
+      }
+    ]
+  },
+  "accreditation": "State accreditation",
+  "seo": {
+    "title": "Logistics Operations — based on basic general education — Vo",
+    "description": "Programme 38.02.03: admission, duration, places and tuition at Admiral Ushakov Maritime State University."
+  }
+}

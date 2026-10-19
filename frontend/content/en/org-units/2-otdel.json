@@ -1,0 +1,39 @@
+{
+  "id": "org-24",
+  "type": "administration",
+  "slug": "2-otdel",
+  "name": "Second Department",
+  "shortName": "Second Department",
+  "path": "/about/structure/administrations/2-otdel",
+  "headTitle": "Начальник",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Second Department is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "76‑79‑72 УЛК №1. Общежитие №1 1 этаж",
+  "phones": [
+    "76‑79‑72"
+  ],
+  "emails": [
+    "ihnenko@nsma.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/sveden/struct/8-glavnaya-stranitsa/569-2-otdel",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 24,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Second Department",
+    "description": "Contacts and information about Second Department."
+  },
+  "head": "Ихненко Юлия Александровна",
+  "headPost": "Начальник",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/Polojenie_2_otdel.pdf"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "org-13",
+  "type": "administration",
+  "slug": "upravlenie-finansovogo-planirovaniya-i-zakupok",
+  "name": "Department of Financial Planning and Procurement",
+  "shortName": "Department of Financial Planning and Procurement",
+  "path": "/about/structure/administrations/upravlenie-finansovogo-planirovaniya-i-zakupok",
+  "headTitle": "начальник управления",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Department of Financial Planning and Procurement is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "76-79-30 УЛК №2. Юг, 5 этаж, каб.517",
+  "phones": [
+    "76-79-30"
+  ],
+  "emails": [
+    "konkurs@nsma.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/upravlenie-snabzheniya",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 13,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Department of Financial Planning and Procurement",
+    "description": "Contacts and information about Department of Financial Planning and Procurement."
+  },
+  "head": "Мамонтов Владимир Андреевич",
+  "headPost": "начальник управления",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/Upravlenie_zakupok.pdf"
+}

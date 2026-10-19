@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-96",
+  "slug": "admissions",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/contacts/admissions",
+  "sectionId": "contacts",
+  "title": "Приёмная комиссия",
+  "summary": "Контакты, режим работы и приём документов.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Приёмная комиссия: контактная информация университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные телефоны и режим работы уточняйте у подразделения."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Приёмная комиссия",
+    "description": "Контакты, режим работы и приём документов."
+  },
+  "template": "default"
+}

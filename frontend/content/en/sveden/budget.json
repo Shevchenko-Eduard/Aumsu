@@ -1,0 +1,55 @@
+{
+  "id": "sveden-budget",
+  "slug": "budget",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/budget",
+  "sectionId": "sveden",
+  "title": "Financial and economic activity",
+  "summary": "Financial and economic activity: official information.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Financial and economic activity: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Financial and economic activity — official information",
+    "description": "Financial and economic activity: official information about the university."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "budget",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Full name",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Short name",
+        "value": "Admiral Ushakov State Maritime University",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "budget",
+        "label": "Funding",
+        "value": "The university is funded from the federal budget and income-generating activities.",
+        "type": "text",
+        "required": true
+      }
+    ],
+    "tables": []
+  }
+}

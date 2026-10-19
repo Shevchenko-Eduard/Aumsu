@@ -1,0 +1,80 @@
+{
+  "id": "sveden-edustandarts",
+  "slug": "edustandarts",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/edustandarts",
+  "sectionId": "sveden",
+  "title": "Education standards",
+  "summary": "Education standards: official information.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Education standards: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Education standards — official information",
+    "description": "Education standards: official information about the university."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "edustandarts",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Full name",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Short name",
+        "value": "Admiral Ushakov State Maritime University",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "educationalStandard",
+        "label": "Federal state educational standards",
+        "value": [
+          "Higher education standards",
+          "Vocational education standards"
+        ],
+        "type": "list",
+        "required": true
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Education standards",
+        "headers": [
+          "Level",
+          "Standard"
+        ],
+        "rows": [
+          [
+            "Bachelor / specialist",
+            "Federal state educational standard"
+          ],
+          [
+            "Master",
+            "Federal state educational standard"
+          ],
+          [
+            "Vocational",
+            "Federal state educational standard"
+          ]
+        ]
+      }
+    ]
+  }
+}

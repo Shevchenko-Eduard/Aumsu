@@ -1,0 +1,39 @@
+{
+  "id": "org-22",
+  "type": "administration",
+  "slug": "upravlenie-vnutrennej-bezopasnosti",
+  "name": "Department of Internal Security",
+  "shortName": "Department of Internal Security",
+  "path": "/about/structure/administrations/upravlenie-vnutrennej-bezopasnosti",
+  "headTitle": "начальник управления",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Department of Internal Security is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "71-72-73 УЛК Север, 2 этаж, каб.209",
+  "phones": [
+    "71-72-73"
+  ],
+  "emails": [
+    "sharko@nsma.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/sveden/struct/upravleniya/8-glavnaya-stranitsa/699-upravlenie-rezhima-i-okhrany-truda",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 22,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Department of Internal Security",
+    "description": "Contacts and information about Department of Internal Security."
+  },
+  "head": "Лукьянов Игорь Юрьевич",
+  "headPost": "начальник управления",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/Polojenie_UBIK.pdf"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "employee-54",
+  "slug": "borodina-l-n",
+  "fullName": "Бородина Л. Н.",
+  "displayName": "Бородина Л. Н.",
+  "position": "доцент кафедры",
+  "degree": "кандидат педагогических наук",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Инженерная графика",
+    "Начертательная геометрия и инженерная графика",
+    "Начертательная геометрия и инженерная графика"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "черчение и рисование",
+    "-"
+  ],
+  "experienceYears": 34,
+  "isManager": false,
+  "order": 54,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Бородина Л. Н. — доцент кафедры",
+    "description": "Бородина Л. Н., доцент кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

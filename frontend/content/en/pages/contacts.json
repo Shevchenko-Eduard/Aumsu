@@ -1,0 +1,45 @@
+{
+  "id": "en-page-95",
+  "slug": "contacts",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/contacts",
+  "sectionId": "contacts",
+  "title": "Contacts",
+  "summary": "Admissions office, phone directory, feedback and map.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Admiral Ushakov State Maritime University is located in Novorossiysk at 93 Prospekt Lenina."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Main contacts"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Phone: +7 (8617) 71-75-25.",
+        "Email: mail@nsma.ru.",
+        "Admissions office: pcom@nsma.ru."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For admission questions, contact the admissions office. The phone directory helps you find the right unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Contacts",
+    "description": "Admissions office, phone directory, feedback and map."
+  },
+  "template": "default"
+}

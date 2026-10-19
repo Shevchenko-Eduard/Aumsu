@@ -1,0 +1,38 @@
+{
+  "id": "org-28",
+  "type": "administration",
+  "slug": "arhiv",
+  "name": "Архив",
+  "path": "/about/structure/administrations/arhiv",
+  "headTitle": "заведующая архивом",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Архив — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76-79-81 УЛК №1. Общежитие №1, 1 этаж",
+  "phones": [
+    "76-79-81"
+  ],
+  "emails": [
+    "arhiv@nsma.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/upravlenie-po-rabote-s-filialami-i-kadrami",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 28,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Архив",
+    "description": "Архив: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Ставинога Елена Игоревна",
+  "headPost": "заведующая архивом",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/Arhiv.pdf"
+}

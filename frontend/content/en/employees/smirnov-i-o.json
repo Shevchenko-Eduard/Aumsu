@@ -1,0 +1,43 @@
+{
+  "id": "employee-345",
+  "slug": "smirnov-i-o",
+  "fullName": "Смирнов И. О.",
+  "displayName": "Смирнов И. О.",
+  "position": "доцент, начальник кафедры",
+  "degree": "кандидат филологических наук",
+  "academicTitle": "доцент",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Морской технический английский язык",
+    "Морской английский язык",
+    "Иностранный язык",
+    "Морской технический английский язык",
+    "Морской английский язык"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "английский и немецкие языки",
+    "-"
+  ],
+  "experienceYears": 38,
+  "isManager": false,
+  "order": 345,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Смирнов И. О. — доцент, начальник кафедры",
+    "description": "Смирнов И. О., доцент, начальник кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

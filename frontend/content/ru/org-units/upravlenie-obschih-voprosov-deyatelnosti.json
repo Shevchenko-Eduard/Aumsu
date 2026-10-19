@@ -1,0 +1,38 @@
+{
+  "id": "org-20",
+  "type": "administration",
+  "slug": "upravlenie-obschih-voprosov-deyatelnosti",
+  "name": "Управление общих вопросов деятельности",
+  "path": "/about/structure/administrations/upravlenie-obschih-voprosov-deyatelnosti",
+  "headTitle": "начальник управления",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Управление общих вопросов деятельности — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "70‑43‑83 УЛК Север, 2 этаж",
+  "phones": [
+    "70‑43‑83"
+  ],
+  "emails": [
+    "nechushkinmga@gmail.com"
+  ],
+  "siteUrl": "https://aumsu.ru/upravlenie-obshchikh-voprosov-deyatelnosti",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 20,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Управление общих вопросов деятельности",
+    "description": "Управление общих вопросов деятельности: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Нечушкин Вячеслав Павлович",
+  "headPost": "начальник управления",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/Uprav_obwih_voprosov.pdf"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "employee-403",
+  "slug": "tsepordej-o-v",
+  "fullName": "Цепордей О. В.",
+  "displayName": "Цепордей О. В.",
+  "position": "доцент кафедры",
+  "degree": "кандидат филологических наук",
+  "academicTitle": "доцент",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Интенсивный курс английского языка по адаптации судовых электромехаников для работы в смешанных экипажах",
+    "Вводно-интенсивный курс морского английского языка",
+    "Иностранный язык",
+    "Иностранный язык",
+    "Иностранный язык",
+    "Иностранный язык"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "филология",
+    "-"
+  ],
+  "experienceYears": 17,
+  "isManager": false,
+  "order": 403,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Цепордей О. В. — доцент кафедры",
+    "description": "Цепордей О. В., доцент кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

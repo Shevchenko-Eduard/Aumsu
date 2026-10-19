@@ -1,0 +1,48 @@
+{
+  "id": "employee-26",
+  "slug": "asilyan-l-v",
+  "fullName": "Асилян Л. В.",
+  "displayName": "Асилян Л. В.",
+  "position": "старший преподаватель кафедры",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Законодательство о местном самоуправлении",
+    "Производственная практика (по профилю специальности)",
+    "Учебная практика",
+    "Учебная практика",
+    "Римское право",
+    "Гражданский процесс",
+    "Семейное право",
+    "Гражданское право",
+    "Трудовое право",
+    "Основы экологического права"
+  ],
+  "education": [
+    "высшее бакалавриат, высшее магистр"
+  ],
+  "qualifications": [
+    "государственное и муниципальное управление, юриспруденция",
+    "-"
+  ],
+  "experienceYears": 5,
+  "isManager": false,
+  "order": 26,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Асилян Л. В. — старший преподаватель кафедры",
+    "description": "Асилян Л. В., старший преподаватель кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

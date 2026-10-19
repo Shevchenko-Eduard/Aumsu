@@ -1,0 +1,102 @@
+{
+  "id": "sveden-managers",
+  "slug": "managers",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/managers",
+  "sectionId": "sveden",
+  "title": "Leadership",
+  "summary": "Leadership: official information.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Leadership: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Leadership — official information",
+    "description": "Leadership: official information about the university."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "managers",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Full name",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Short name",
+        "value": "Admiral Ushakov State Maritime University",
+        "type": "text",
+        "required": true
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Leadership",
+        "headers": [
+          "Name",
+          "Position",
+          "Phone",
+          "Email"
+        ],
+        "rows": [
+          [
+            "Кондратьев Сергей Иванович",
+            "ректор, доктор технических наук, профессор",
+            "8 (8617) 76 78 00, 8 (8617) 71 75 25",
+            "mail@nsma.ru"
+          ],
+          [
+            "Хекерт Евгений Владимирович",
+            "проректор, доктор технических наук, профессор",
+            "8 (8617) 76 78 02, +7 (918) 34 73 817",
+            "zur_mga@nsma.ru"
+          ],
+          [
+            "Боран-Кешишьян Анастас Леонидович",
+            "проректор, кандидат технических наук, доцент",
+            "8 (8617) 76 78 30, +7 (918)11 44 443",
+            "Aumsu.stcw@gmail.com"
+          ],
+          [
+            "Панченко Сергей Васильевич",
+            "проректор, кандидат философских наук, доцент",
+            "8 (8617) 76 78 18, +79184930765",
+            "sv-panchenko@mail.ru"
+          ],
+          [
+            "Фисюренко Владимир Александрович",
+            "Директора института",
+            "8(8692)487439",
+            "sevgmu@yandex.ru"
+          ],
+          [
+            "Ющенко Алексей Викторович",
+            "Директора института",
+            "8(863)2633640",
+            ""
+          ],
+          [
+            "Кондратьев С. И.",
+            "профессор кафедры по совместительству",
+            "",
+            ""
+          ]
+        ]
+      }
+    ]
+  }
+}

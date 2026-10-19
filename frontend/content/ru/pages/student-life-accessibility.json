@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-80",
+  "slug": "accessibility",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/student-life/accessibility",
+  "sectionId": "student-life",
+  "title": "Доступная среда и ОВЗ",
+  "summary": "Доступная среда и поддержка студентов с ОВЗ.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Доступная среда и ОВЗ: раздел студенческой жизни университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные анонсы, документы и контакты публикуются ответственным подразделением."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Доступная среда и ОВЗ",
+    "description": "Доступная среда и поддержка студентов с ОВЗ."
+  },
+  "template": "default"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "event-1",
+  "slug": "den-otkrytyh-dverej",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "title": "Open Day",
+  "summary": "Programme presentations, laboratory tours and a meeting with the admissions office.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Programme presentations, laboratory tours and a meeting with the admissions office."
+    }
+  ],
+  "startAt": "2026-10-25T10:00:00.000Z",
+  "location": "Main building, 93 Prospekt Lenina",
+  "category": "приёмная кампания",
+  "orgUnitIds": [],
+  "seo": {
+    "title": "Open Day",
+    "description": "Programme presentations, laboratory tours and a meeting with the admissions office."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "en-page-58",
+  "slug": "methodical",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/methodical",
+  "sectionId": "education",
+  "title": "Learning materials",
+  "summary": "Academic and methodological support for the educational process.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The section contains methodological materials for teachers and students: curricula, programme descriptions and guidelines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Documents are available in the Documents section and the student portal."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Learning materials",
+    "description": "Academic and methodological support for the educational process."
+  },
+  "template": "default"
+}

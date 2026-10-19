@@ -1,0 +1,39 @@
+{
+  "id": "employee-327",
+  "slug": "samohvalova-d-d",
+  "fullName": "Самохвалова Д. Д.",
+  "displayName": "Самохвалова Д. Д.",
+  "position": "преподаватель кафедры по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее специалитет"
+  ],
+  "qualifications": [
+    "таможенное дело",
+    "-"
+  ],
+  "experienceYears": 1,
+  "isManager": false,
+  "order": 327,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Самохвалова Д. Д. — преподаватель кафедры по совместительств",
+    "description": "Самохвалова Д. Д., преподаватель кафедры по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

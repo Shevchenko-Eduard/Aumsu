@@ -1,0 +1,39 @@
+{
+  "id": "employee-243",
+  "slug": "mejzner-v-v",
+  "fullName": "Мейзнер В. В.",
+  "displayName": "Мейзнер В. В.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "русский язык и литература",
+    "-"
+  ],
+  "experienceYears": 33,
+  "isManager": false,
+  "order": 243,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Мейзнер В. В. — преподаватель",
+    "description": "Мейзнер В. В., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

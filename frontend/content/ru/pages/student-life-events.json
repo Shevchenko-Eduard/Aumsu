@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-73",
+  "slug": "events",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/student-life/events",
+  "sectionId": "student-life",
+  "title": "События",
+  "summary": "Календарь событий университета.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "События: раздел студенческой жизни университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные анонсы, документы и контакты публикуются ответственным подразделением."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "События",
+    "description": "Календарь событий университета."
+  },
+  "template": "default"
+}

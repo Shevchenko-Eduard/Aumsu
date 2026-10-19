@@ -1,0 +1,39 @@
+{
+  "id": "employee-96",
+  "slug": "grebennikov-i-i",
+  "fullName": "Гребенников И. И.",
+  "displayName": "Гребенников И. И.",
+  "position": "старший преподаватель цикла по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее, высшее специалитет"
+  ],
+  "qualifications": [
+    "эксплуатация судового электрооборудования и средств автоматики",
+    "-"
+  ],
+  "experienceYears": 0,
+  "isManager": false,
+  "order": 96,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Гребенников И. И. — старший преподаватель цикла по совместит",
+    "description": "Гребенников И. И., старший преподаватель цикла по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

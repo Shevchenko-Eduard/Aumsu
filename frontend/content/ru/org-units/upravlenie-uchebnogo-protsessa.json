@@ -1,0 +1,38 @@
+{
+  "id": "org-17",
+  "type": "administration",
+  "slug": "upravlenie-uchebnogo-protsessa",
+  "name": "Управление учебного процесса",
+  "path": "/about/structure/administrations/upravlenie-uchebnogo-protsessa",
+  "headTitle": "начальник управления",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Управление учебного процесса — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76‑78‑22 УЛК Север, 1 этаж",
+  "phones": [
+    "76‑78‑22"
+  ],
+  "emails": [
+    "gavrilikvs@nsma.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/upravlenie-uchebnogo-protsessa",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 17,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Управление учебного процесса",
+    "description": "Управление учебного процесса: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Гаврилик Василий Святославович",
+  "headPost": "начальник управления",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/Uprav_u4eb_proc.pdf"
+}

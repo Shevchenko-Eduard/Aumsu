@@ -1,0 +1,39 @@
+{
+  "id": "employee-335",
+  "slug": "serikova-n-v",
+  "fullName": "Серикова Н. В.",
+  "displayName": "Серикова Н. В.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "педиатрия",
+    "-"
+  ],
+  "experienceYears": 14,
+  "isManager": false,
+  "order": 335,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Серикова Н. В. — преподаватель",
+    "description": "Серикова Н. В., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

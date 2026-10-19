@@ -1,0 +1,31 @@
+{
+  "id": "en-page-98",
+  "slug": "visitors",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/contacts/visitors",
+  "sectionId": "contacts",
+  "title": "Visitor hours",
+  "summary": "Visitor rules and hours.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Visitor hours: university contact information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Check current phone numbers and office hours with the relevant unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Visitor hours",
+    "description": "Visitor rules and hours."
+  },
+  "template": "default"
+}

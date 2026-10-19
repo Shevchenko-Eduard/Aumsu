@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-65",
+  "slug": "graduate",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/graduate",
+  "sectionId": "science",
+  "title": "Аспирантура",
+  "summary": "Программы подготовки кадров высшей квалификации.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Аспирантура: информация о научной деятельности университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные сведения и документы публикуются ответственным подразделением."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Аспирантура",
+    "description": "Программы подготовки кадров высшей квалификации."
+  },
+  "template": "default"
+}

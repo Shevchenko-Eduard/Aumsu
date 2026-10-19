@@ -1,0 +1,39 @@
+{
+  "id": "org-30",
+  "type": "administration",
+  "slug": "otdel-doktorantury-i-aspirantury",
+  "name": "Department of Doctoral and Postgraduate Studies",
+  "shortName": "Department of Doctoral and Postgraduate Studies",
+  "path": "/about/structure/administrations/otdel-doktorantury-i-aspirantury",
+  "headTitle": "заведующий докторантурой и аспирантурой",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Department of Doctoral and Postgraduate Studies is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "76-78-82 УЛК Север, 3 этаж, ауд.331а",
+  "phones": [
+    "76-78-82"
+  ],
+  "emails": [
+    "aspirant@nsma.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/science/aspirantura",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 30,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Department of Doctoral and Postgraduate Studies",
+    "description": "Contacts and information about Department of Doctoral and Postgraduate Studies."
+  },
+  "head": "Шацкова Евгения Игоревна",
+  "headPost": "заведующий докторантурой и аспирантурой",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/aspirantura_doktornatura.pdf"
+}

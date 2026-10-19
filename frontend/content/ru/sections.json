@@ -1,0 +1,114 @@
+[
+  {
+    "id": "about",
+    "key": "about",
+    "title": "Университет",
+    "path": "/about",
+    "description": "История, структура, руководство, сотрудники и документы.",
+    "order": 1,
+    "visible": true,
+    "seo": {
+      "title": "Университет",
+      "description": "История, структура, руководство, сотрудники и документы."
+    },
+    "status": "published"
+  },
+  {
+    "id": "admissions",
+    "key": "admissions",
+    "title": "Поступление",
+    "path": "/admissions",
+    "description": "Уровни подготовки, правила, сроки, стоимость и подача документов.",
+    "order": 2,
+    "visible": true,
+    "seo": {
+      "title": "Поступление",
+      "description": "Уровни подготовки, правила, сроки, стоимость и подача документов."
+    },
+    "status": "published"
+  },
+  {
+    "id": "education",
+    "key": "education",
+    "title": "Образование",
+    "path": "/education",
+    "description": "Каталог программ, учебный процесс, библиотека и ДПО.",
+    "order": 3,
+    "visible": true,
+    "seo": {
+      "title": "Образование",
+      "description": "Каталог программ, учебный процесс, библиотека и ДПО."
+    },
+    "status": "published"
+  },
+  {
+    "id": "science",
+    "key": "science",
+    "title": "Наука",
+    "path": "/science",
+    "description": "Направления, лаборатории, конференции и журналы.",
+    "order": 4,
+    "visible": true,
+    "seo": {
+      "title": "Наука",
+      "description": "Направления, лаборатории, конференции и журналы."
+    },
+    "status": "published"
+  },
+  {
+    "id": "student-life",
+    "key": "student-life",
+    "title": "Студенческая жизнь",
+    "path": "/student-life",
+    "description": "События, культура, спорт, поддержка и карьера.",
+    "order": 5,
+    "visible": true,
+    "seo": {
+      "title": "Студенческая жизнь",
+      "description": "События, культура, спорт, поддержка и карьера."
+    },
+    "status": "published"
+  },
+  {
+    "id": "international",
+    "key": "international",
+    "title": "Международное сотрудничество",
+    "path": "/international",
+    "description": "Иностранным студентам, партнёры и мобильность.",
+    "order": 6,
+    "visible": true,
+    "seo": {
+      "title": "Международное сотрудничество",
+      "description": "Иностранным студентам, партнёры и мобильность."
+    },
+    "status": "published"
+  },
+  {
+    "id": "news",
+    "key": "news",
+    "title": "Новости",
+    "path": "/news",
+    "description": "Лента событий университета и архив.",
+    "order": 7,
+    "visible": true,
+    "seo": {
+      "title": "Новости",
+      "description": "Лента событий университета и архив."
+    },
+    "status": "published"
+  },
+  {
+    "id": "contacts",
+    "key": "contacts",
+    "title": "Контакты",
+    "path": "/contacts",
+    "description": "Приёмная комиссия, справочник и обратная связь.",
+    "order": 8,
+    "visible": true,
+    "seo": {
+      "title": "Контакты",
+      "description": "Приёмная комиссия, справочник и обратная связь."
+    },
+    "status": "published"
+  }
+]

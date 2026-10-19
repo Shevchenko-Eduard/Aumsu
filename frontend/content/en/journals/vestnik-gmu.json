@@ -1,0 +1,45 @@
+{
+  "id": "journal-1",
+  "slug": "vestnik-gmu",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "title": "Bulletin of the State Maritime University",
+  "issn": "2687-0001",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "The academic journal publishes articles on maritime transport, shipbuilding, environmental safety, economics and law."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is intended for researchers, teachers and maritime industry professionals."
+    }
+  ],
+  "editorialBoard": [],
+  "rulesDocumentIds": [],
+  "ethicsDocumentIds": [],
+  "issues": [
+    {
+      "year": 2026,
+      "number": "2",
+      "title": "Выпуск 2 (2026)"
+    },
+    {
+      "year": 2026,
+      "number": "1",
+      "title": "Выпуск 1 (2026)"
+    },
+    {
+      "year": 2025,
+      "number": "4",
+      "title": "Выпуск 4 (2025)"
+    }
+  ],
+  "seo": {
+    "title": "Bulletin of the State Maritime University",
+    "description": "The academic journal publishes articles on maritime transport, shipbuilding, environmental safety, economics and law."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "employee-194",
+  "slug": "kravchenko-a-i",
+  "fullName": "Кравченко А. И.",
+  "displayName": "Кравченко А. И.",
+  "position": "сташий преподаватель кафедры",
+  "degree": "кандидат педагогических наук",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "теория и методика преподавания иностранных языков и культур",
+    "-"
+  ],
+  "experienceYears": 11,
+  "isManager": false,
+  "order": 194,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Кравченко А. И. — сташий преподаватель кафедры",
+    "description": "Кравченко А. И., сташий преподаватель кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

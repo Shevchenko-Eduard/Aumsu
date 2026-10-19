@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-48",
+  "slug": "electronic",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/library/electronic",
+  "sectionId": "education",
+  "title": "Электронные ресурсы",
+  "summary": "Доступ к электронным библиотечным системам и базам данных.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Электронные ресурсы: информация библиотеки университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные сведения уточняйте у сотрудников библиотеки или на информационной стойке."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Электронные ресурсы",
+    "description": "Доступ к электронным библиотечным системам и базам данных."
+  },
+  "template": "default"
+}

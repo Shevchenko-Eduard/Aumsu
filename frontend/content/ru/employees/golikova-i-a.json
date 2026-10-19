@@ -1,0 +1,39 @@
+{
+  "id": "employee-84",
+  "slug": "golikova-i-a",
+  "fullName": "Голикова И. А.",
+  "displayName": "Голикова И. А.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "английский язык и дошкольная педагогика",
+    "-"
+  ],
+  "experienceYears": 30,
+  "isManager": false,
+  "order": 84,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Голикова И. А. — преподаватель",
+    "description": "Голикова И. А., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

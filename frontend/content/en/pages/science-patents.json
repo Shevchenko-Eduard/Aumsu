@@ -1,0 +1,31 @@
+{
+  "id": "en-page-69",
+  "slug": "patents",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/patents",
+  "sectionId": "science",
+  "title": "Patents",
+  "summary": "Intellectual property results.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Patents: information about research at the university."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current information and documents are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Patents",
+    "description": "Intellectual property results."
+  },
+  "template": "default"
+}

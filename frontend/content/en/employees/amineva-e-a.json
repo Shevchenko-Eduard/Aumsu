@@ -1,0 +1,40 @@
+{
+  "id": "employee-11",
+  "slug": "amineva-e-a",
+  "fullName": "Аминева Е. А.",
+  "displayName": "Аминева Е. А.",
+  "position": "доцент кафедры",
+  "degree": "кандидат физико-математических наук",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Теория вероятности и математическая статистика",
+    "Высшая математика"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "Ростовский государственный университет им. М.Л.Суслова в 1987 году по специальности математика",
+    "-"
+  ],
+  "experienceYears": 35,
+  "isManager": false,
+  "order": 11,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Аминева Е. А. — доцент кафедры",
+    "description": "Аминева Е. А., доцент кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

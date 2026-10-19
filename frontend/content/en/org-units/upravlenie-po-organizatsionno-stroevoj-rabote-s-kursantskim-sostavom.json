@@ -1,0 +1,38 @@
+{
+  "id": "org-11",
+  "type": "administration",
+  "slug": "upravlenie-po-organizatsionno-stroevoj-rabote-s-kursantskim-sostavom",
+  "name": "Department for Organisational and Cadet Affairs",
+  "shortName": "Department for Organisational and Cadet Affairs",
+  "path": "/about/structure/administrations/upravlenie-po-organizatsionno-stroevoj-rabote-s-kursantskim-sostavom",
+  "headTitle": "начальник управления",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Department for Organisational and Cadet Affairs is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "76-78-30",
+  "phones": [
+    "76-78-30"
+  ],
+  "emails": [
+    "puzirevmga@gmail.com"
+  ],
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 11,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Department for Organisational and Cadet Affairs",
+    "description": "Contacts and information about Department for Organisational and Cadet Affairs."
+  },
+  "head": "Пузырев Владимир Юрьевич",
+  "headPost": "начальник управления",
+  "regulationUrl": "https://aumsu.ru/sveden/struct#"
+}

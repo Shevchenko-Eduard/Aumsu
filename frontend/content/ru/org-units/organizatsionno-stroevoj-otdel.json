@@ -1,0 +1,38 @@
+{
+  "id": "org-26",
+  "type": "administration",
+  "slug": "organizatsionno-stroevoj-otdel",
+  "name": "Организационно-строевой отдел",
+  "path": "/about/structure/administrations/organizatsionno-stroevoj-otdel",
+  "headTitle": "начальник отдела",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Организационно-строевой отдел — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76-79-26 Учебный корпус №1, 1 этаж",
+  "phones": [
+    "76-79-26"
+  ],
+  "emails": [
+    "orso@nsma.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/sveden/struct/8-glavnaya-stranitsa/571-organizatsionno-stroevoj-otdel",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 26,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Организационно-строевой отдел",
+    "description": "Организационно-строевой отдел: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Федоренко Александр Васильевич",
+  "headPost": "начальник отдела",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/ORSO.pdf"
+}

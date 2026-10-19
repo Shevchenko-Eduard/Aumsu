@@ -1,0 +1,55 @@
+{
+  "id": "sveden-paid_edu",
+  "slug": "paid_edu",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/paid_edu",
+  "sectionId": "sveden",
+  "title": "Платное обучение",
+  "summary": "Платное обучение: официальные сведения.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Платное обучение: официальные сведения об образовательной организации."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Платное обучение — сведения",
+    "description": "Платное обучение: официальные сведения университета."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "paid_edu",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Полное наименование",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Сокращённое наименование",
+        "value": "ФГБОУ ВО «ГМУ им. адм. Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "paidEducation",
+        "label": "Платные образовательные услуги",
+        "value": "Платные образовательные услуги оказываются по договорам с физическими и юридическими лицами.",
+        "type": "text",
+        "required": true
+      }
+    ],
+    "tables": []
+  }
+}

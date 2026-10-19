@@ -1,0 +1,38 @@
+{
+  "id": "org-18",
+  "type": "administration",
+  "slug": "upravlenie-metodicheskoj-raboty-vnedreniya-novyh-obrazovatelnyh-tehnologij-i-mezhdunarodno",
+  "name": "Управление методической работы, внедрения новых образовательных технологий и международной деятельности",
+  "path": "/about/structure/administrations/upravlenie-metodicheskoj-raboty-vnedreniya-novyh-obrazovatelnyh-tehnologij-i-mezhdunarodno",
+  "headTitle": "начальник управления",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Управление методической работы, внедрения новых образовательных технологий и международной деятельности — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76-79-24 УЛК Север, 4эт., каб 417",
+  "phones": [
+    "76-79-24"
+  ],
+  "emails": [
+    "dm.studenikin@mail.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/upravlenie-metodicheskoj",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 18,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Управление методической работы, внедрения новых образователь",
+    "description": "Управление методической работы, внедрения новых образовательных технологий и международной деятельности: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Студеникин Дмитрий Евгеньевич",
+  "headPost": "начальник управления",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/Uprav_metod_rabotoy_i_vnedreniya_tehn.pdf"
+}

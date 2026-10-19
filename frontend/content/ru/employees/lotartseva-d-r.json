@@ -1,0 +1,39 @@
+{
+  "id": "employee-225",
+  "slug": "lotartseva-d-r",
+  "fullName": "Лотарцева Д. Р.",
+  "displayName": "Лотарцева Д. Р.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "Математика"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "математика",
+    "-"
+  ],
+  "experienceYears": 2,
+  "isManager": false,
+  "order": 225,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Лотарцева Д. Р. — преподаватель",
+    "description": "Лотарцева Д. Р., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "news-9",
+  "slug": "novyj-trenazhernyj-kompleks",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-08-10T09:00:00.000Z",
+  "publishedAt": "2026-08-10T09:00:00.000Z",
+  "title": "Training centre upgrades its equipment",
+  "summary": "New engine room simulators and virtual reality systems have been installed for emergency procedure training.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The university training centre has received new equipment. Engine room simulators have been upgraded and virtual reality scenarios added for emergency response training."
+    },
+    {
+      "type": "paragraph",
+      "text": "The upgrade will bring cadet training closer to real shipboard conditions."
+    }
+  ],
+  "categoryIds": [
+    "universitet"
+  ],
+  "tagIds": [],
+  "audiences": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Training centre upgrades its equipment",
+    "description": "New engine room simulators and virtual reality systems have been installed for emergency procedure training."
+  }
+}

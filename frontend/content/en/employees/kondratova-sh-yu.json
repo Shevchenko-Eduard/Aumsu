@@ -1,0 +1,48 @@
+{
+  "id": "employee-180",
+  "slug": "kondratova-sh-yu",
+  "fullName": "Кондратова Ш. Ю.",
+  "displayName": "Кондратова Ш. Ю.",
+  "position": "преподаватель",
+  "degree": "кандидат биологических наук",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Экология",
+    "Естествознание",
+    "Экология",
+    "Естествознание",
+    "Экология",
+    "Естествознание",
+    "Экология",
+    "Биология",
+    "Управление твердыми отходами, твердыми бытовыми отходами и радиоактивными отходами",
+    "Экология человека"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "учитель биологии и химии",
+    "-"
+  ],
+  "experienceYears": 16,
+  "isManager": false,
+  "order": 180,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Кондратова Ш. Ю. — преподаватель",
+    "description": "Кондратова Ш. Ю., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "en-page-19",
+  "slug": "administrations",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about/structure/administrations",
+  "sectionId": "about",
+  "title": "Administrations and offices",
+  "summary": "Administrations and offices of Admiral Ushakov State Maritime University.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "This section lists the university’s administrations and offices. Open a unit card for contacts, leadership and documents."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Administrations and offices",
+    "description": "Administrations and offices of Admiral Ushakov State Maritime University."
+  },
+  "template": "default"
+}

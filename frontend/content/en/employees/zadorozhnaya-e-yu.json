@@ -1,0 +1,40 @@
+{
+  "id": "employee-146",
+  "slug": "zadorozhnaya-e-yu",
+  "fullName": "Задорожная Е. Ю.",
+  "displayName": "Задорожная Е. Ю.",
+  "position": "доцент кафедры",
+  "degree": "кандидат филологических наук",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Иностранный язык",
+    "Деловой английский язык"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "преподаватель английского и французского языков, организация перевозок и управление на транспорте (водном),",
+    "-"
+  ],
+  "experienceYears": 10,
+  "isManager": false,
+  "order": 146,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Задорожная Е. Ю. — доцент кафедры",
+    "description": "Задорожная Е. Ю., доцент кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

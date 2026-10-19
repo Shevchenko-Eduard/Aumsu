@@ -1,0 +1,43 @@
+{
+  "id": "employee-226",
+  "slug": "luginets-t-v",
+  "fullName": "Лугинец Т. В.",
+  "displayName": "Лугинец Т. В.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Морской английский язык",
+    "Иностранный язык",
+    "Иностранный язык",
+    "Иностранный язык в профессиональной деятельности",
+    "Иностранный язык"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "иностранные языки",
+    "-"
+  ],
+  "experienceYears": 39,
+  "isManager": false,
+  "order": 226,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Лугинец Т. В. — преподаватель",
+    "description": "Лугинец Т. В., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

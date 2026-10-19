@@ -1,0 +1,31 @@
+{
+  "id": "en-page-99",
+  "slug": "feedback",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/contacts/feedback",
+  "sectionId": "contacts",
+  "title": "Feedback",
+  "summary": "Feedback form and data consent.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Feedback: university contact information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Check current phone numbers and office hours with the relevant unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Feedback",
+    "description": "Feedback form and data consent."
+  },
+  "template": "contact"
+}

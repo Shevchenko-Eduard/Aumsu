@@ -1,0 +1,44 @@
+{
+  "id": "en-page-118",
+  "slug": "cookies",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/cookies",
+  "sectionId": "about",
+  "title": "Cookie usage",
+  "summary": "Which cookies the website uses and how to manage consent.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The website uses essential cookies to keep the interface working and remember user preferences."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cookie categories"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Essential — keep the site working and remember accessibility settings.",
+        "Analytics — enabled only after user consent."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can change your decision by clearing site data in your browser settings."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Cookie usage",
+    "description": "Which cookies the website uses and how to manage consent."
+  },
+  "template": "default"
+}

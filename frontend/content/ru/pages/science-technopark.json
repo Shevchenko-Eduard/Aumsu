@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-64",
+  "slug": "technopark",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/technopark",
+  "sectionId": "science",
+  "title": "Технопарк",
+  "summary": "Технологическое предпринимательство и проекты.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Технопарк: информация о научной деятельности университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные сведения и документы публикуются ответственным подразделением."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Технопарк",
+    "description": "Технологическое предпринимательство и проекты."
+  },
+  "template": "default"
+}

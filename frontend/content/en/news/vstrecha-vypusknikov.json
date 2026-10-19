@@ -1,0 +1,31 @@
+{
+  "id": "news-8",
+  "slug": "vstrecha-vypusknikov",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-08-20T12:00:00.000Z",
+  "publishedAt": "2026-08-20T12:00:00.000Z",
+  "title": "Alumni reunion: 50 years of maritime tradition",
+  "summary": "Alumni of different years returned to their university to meet teachers and students.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The university hosted its annual alumni reunion. Guests visited the renovated laboratories, museum and classrooms and joined a round table on the development of maritime education."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alumni highlighted the importance of mentoring and proposed internship programmes for senior students."
+    }
+  ],
+  "categoryIds": [
+    "universitet"
+  ],
+  "tagIds": [],
+  "audiences": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Alumni reunion: 50 years of maritime tradition",
+    "description": "Alumni of different years returned to their university to meet teachers and students."
+  }
+}

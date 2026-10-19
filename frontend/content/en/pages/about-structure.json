@@ -1,0 +1,27 @@
+{
+  "id": "en-page-14",
+  "slug": "structure",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about/structure",
+  "sectionId": "about",
+  "title": "University structure",
+  "summary": "Faculties, institutes, colleges, departments and offices.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The university includes faculties, institutes, colleges, departments and offices. Select a unit to see contacts, leadership and areas of work."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "University structure",
+    "description": "Faculties, institutes, colleges, departments and offices."
+  },
+  "template": "default"
+}

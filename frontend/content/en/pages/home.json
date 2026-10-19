@@ -1,0 +1,27 @@
+{
+  "id": "en-page-1",
+  "slug": "home",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/",
+  "sectionId": "home",
+  "title": "Admiral Ushakov Maritime State University",
+  "summary": "Official website of Admiral F.F. Ushakov State Maritime University.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Admiral Ushakov State Maritime University is a leading maritime university in southern Russia."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "ГМУ им. адм. Ф.Ф. Ушакова — официальный сайт",
+    "description": "Поступление, программы обучения, наука и студенческая жизнь в Государственном морском университете имени адмирала Ф.Ф. Ушакова."
+  },
+  "template": "default"
+}

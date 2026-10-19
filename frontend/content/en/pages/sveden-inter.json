@@ -1,0 +1,27 @@
+{
+  "id": "en-page-115",
+  "slug": "inter",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/inter",
+  "sectionId": "sveden",
+  "title": "International cooperation",
+  "summary": "International cooperation: official information about Admiral Ushakov State Maritime University.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "International cooperation: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "International cooperation",
+    "description": "International cooperation: official information about Admiral Ushakov State Maritime University."
+  },
+  "template": "sveden"
+}

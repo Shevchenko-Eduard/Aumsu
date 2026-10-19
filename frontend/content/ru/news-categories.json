@@ -1,0 +1,50 @@
+[
+  {
+    "id": "universitet",
+    "slug": "universitet",
+    "title": "Университет",
+    "order": 1
+  },
+  {
+    "id": "nauka",
+    "slug": "nauka",
+    "title": "Наука",
+    "order": 2
+  },
+  {
+    "id": "obrazovanie",
+    "slug": "obrazovanie",
+    "title": "Образование",
+    "order": 3
+  },
+  {
+    "id": "student-life",
+    "slug": "student-life",
+    "title": "Студенческая жизнь",
+    "order": 4
+  },
+  {
+    "id": "mezhdunarodnoe",
+    "slug": "mezhdunarodnoe",
+    "title": "Международное",
+    "order": 5
+  },
+  {
+    "id": "priemnaya-kampaniya",
+    "slug": "priemnaya-kampaniya",
+    "title": "Приёмная кампания",
+    "order": 6
+  },
+  {
+    "id": "sport",
+    "slug": "sport",
+    "title": "Спорт",
+    "order": 7
+  },
+  {
+    "id": "kultura",
+    "slug": "kultura",
+    "title": "Культура",
+    "order": 8
+  }
+]

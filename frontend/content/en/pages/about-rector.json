@@ -1,0 +1,42 @@
+{
+  "id": "en-page-6",
+  "slug": "rector",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about/rector",
+  "sectionId": "about",
+  "title": "Rector",
+  "summary": "Sergey Kondratyev, Rector of Admiral Ushakov State Maritime University.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Rector is Sergey Ivanovich Kondratyev, Doctor of Technical Sciences and Professor. He leads the university’s strategic development and represents it in government and industry organisations."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Personal appointments"
+    },
+    {
+      "type": "paragraph",
+      "text": "Appointments are available by prior arrangement through the Rector’s Office."
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "Contacts",
+      "text": "Rector’s Office phone: +7 (8617) 76-78-00. Email: mail@nsma.ru."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Rector",
+    "description": "Sergey Kondratyev, Rector of Admiral Ushakov State Maritime University."
+  },
+  "template": "default"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-54",
+  "slug": "structure",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/library/structure",
+  "sectionId": "education",
+  "title": "Структура библиотеки",
+  "summary": "Отделы и залы библиотеки.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Структура библиотеки: информация библиотеки университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные сведения уточняйте у сотрудников библиотеки или на информационной стойке."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Структура библиотеки",
+    "description": "Отделы и залы библиотеки."
+  },
+  "template": "default"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "org-5",
+  "type": "institute",
+  "slug": "institut-morskogo-transportnogo-menedzhmenta-ekonomiki-i-prava",
+  "name": "Institute of Maritime Transport Management, Economics and Law",
+  "shortName": "Institute of Maritime Transport Management, Economics and Law",
+  "path": "/about/structure/institutes/institut-morskogo-transportnogo-menedzhmenta-ekonomiki-i-prava",
+  "headTitle": "декан",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Institute of Maritime Transport Management, Economics and Law is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "76-79-45 Учебный корпус №1, 1 этаж, 1-109.",
+  "phones": [
+    "76-79-45"
+  ],
+  "emails": [
+    "golubkina2011@yandex.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/institute-sea",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 5,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Institute of Maritime Transport Management, Economics and La",
+    "description": "Contacts and information about Institute of Maritime Transport Management, Economics and Law."
+  },
+  "head": "Голубкина Ксения Вячеславовна",
+  "headPost": "декан",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/polojenie_ob_institute.pdf"
+}

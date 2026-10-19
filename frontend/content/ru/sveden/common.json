@@ -1,0 +1,101 @@
+{
+  "id": "sveden-common",
+  "slug": "common",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/common",
+  "sectionId": "sveden",
+  "title": "Основные сведения",
+  "summary": "Основные сведения: официальные сведения.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Основные сведения: официальные сведения об образовательной организации."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Основные сведения — сведения",
+    "description": "Основные сведения: официальные сведения университета."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "common",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Полное наименование",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Сокращённое наименование",
+        "value": "ФГБОУ ВО «ГМУ им. адм. Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "regDate",
+        "label": "Дата создания",
+        "value": "1 сентября 1975 г.",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "address",
+        "label": "Адрес",
+        "value": "353924, Краснодарский край, г. Новороссийск, проспект Ленина, 93. Почтовый адрес: 353924, Краснодарский край, г. Новороссийск, проспект Ленина, 93.",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "website",
+        "label": "Сайт",
+        "value": "https://aumsu.ru",
+        "type": "link",
+        "required": true
+      },
+      {
+        "itemprop": "telephone",
+        "label": "Телефон",
+        "value": [
+          "+7(495)6261100",
+          "8 (8617) 71-75-25",
+          "71-75-25",
+          "+7 (863) 333-28-34",
+          "+7 (8692) 48-74-39"
+        ],
+        "type": "list",
+        "required": true
+      },
+      {
+        "itemprop": "email",
+        "label": "Электронная почта",
+        "value": [
+          "ud@morflot.ru",
+          "director@iwtsedov.ru",
+          "sevgmu@yandex.ru",
+          "mail@nsma.ru"
+        ],
+        "type": "list",
+        "required": true
+      },
+      {
+        "itemprop": "rector",
+        "label": "Ректор",
+        "value": "Кондратьев Сергей Иванович",
+        "type": "text",
+        "required": true
+      }
+    ],
+    "tables": []
+  }
+}

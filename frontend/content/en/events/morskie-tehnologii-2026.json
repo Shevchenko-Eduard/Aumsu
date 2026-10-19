@@ -1,0 +1,24 @@
+{
+  "id": "event-2",
+  "slug": "morskie-tehnologii-2026",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "title": "Maritime Technologies Conference",
+  "summary": "Research conference on digital shipping and sustainable transport.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Research conference on digital shipping and sustainable transport."
+    }
+  ],
+  "startAt": "2026-11-12T09:00:00.000Z",
+  "location": "Conference hall, ULK 2",
+  "category": "наука",
+  "orgUnitIds": [],
+  "seo": {
+    "title": "Maritime Technologies Conference",
+    "description": "Research conference on digital shipping and sustainable transport."
+  }
+}

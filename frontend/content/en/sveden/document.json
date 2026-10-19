@@ -1,0 +1,134 @@
+{
+  "id": "sveden-document",
+  "slug": "document",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/document",
+  "sectionId": "sveden",
+  "title": "Documents",
+  "summary": "Documents: official information.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Documents: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Documents — official information",
+    "description": "Documents: official information about the university."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "document",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Full name",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Short name",
+        "value": "Admiral Ushakov State Maritime University",
+        "type": "text",
+        "required": true
+      }
+    ],
+    "tables": [
+      {
+        "caption": "Documents",
+        "headers": [
+          "Document",
+          "Category",
+          "Date"
+        ],
+        "rows": [
+          [
+            "Устав университета",
+            "Устав",
+            "2024-01-10"
+          ],
+          [
+            "Лицензия на образовательную деятельность",
+            "Лицензии и аккредитации",
+            "2025-04-20"
+          ],
+          [
+            "Правила приёма ВО",
+            "Приёмная кампания",
+            "2025-06-01"
+          ],
+          [
+            "Правила приёма СПО",
+            "Приёмная кампания",
+            "2025-06-01"
+          ],
+          [
+            "План приёма ВО 2025",
+            "Приёмная кампания",
+            "2025-05-15"
+          ],
+          [
+            "Стоимость обучения ВО",
+            "Стоимость обучения",
+            "2025-06-01"
+          ],
+          [
+            "Стоимость обучения СПО",
+            "Стоимость обучения",
+            "2025-06-01"
+          ],
+          [
+            "Стоимость обучения магистратура",
+            "Стоимость обучения",
+            "2025-06-01"
+          ],
+          [
+            "Положение об институте",
+            "Локальные акты",
+            "2024-09-01"
+          ],
+          [
+            "Положение о морском колледже",
+            "Локальные акты",
+            "2024-09-01"
+          ],
+          [
+            "Положение о транспортном колледже",
+            "Локальные акты",
+            "2024-09-01"
+          ],
+          [
+            "Положение о военном учебном центре",
+            "Локальные акты",
+            "2024-09-01"
+          ],
+          [
+            "Правила приёма в аспирантуру",
+            "Аспирантура",
+            "2025-06-01"
+          ],
+          [
+            "Перечень специальностей по лицензии",
+            "Приёмная кампания",
+            "2025-05-15"
+          ],
+          [
+            "Политика обработки персональных данных",
+            "Правовые документы",
+            "2025-01-01"
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "en-page-9",
+  "slug": "documents",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about/documents",
+  "sectionId": "about",
+  "title": "University documents",
+  "summary": "Charter, licences, local acts, admission rules and other official documents.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "This section contains official university documents grouped by category. Use the filters to find what you need."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "University documents",
+    "description": "Charter, licences, local acts, admission rules and other official documents."
+  },
+  "template": "documents"
+}

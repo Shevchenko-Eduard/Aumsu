@@ -1,0 +1,44 @@
+{
+  "name": "aumsu-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "npm run seed && npm run artifacts && npm run validate:content && nuxt generate",
+    "postgenerate": "pagefind --site .output/public",
+    "preview": "nuxt preview",
+    "typecheck": "nuxt typecheck",
+    "lint": "eslint .",
+    "validate:content": "tsx scripts/validate-content.ts",
+    "seed": "node scripts/seed-content.mjs",
+    "artifacts": "node scripts/generate-artifacts.mjs",
+    "prepare": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/i18n": "^10.6.0",
+    "@pinia/nuxt": "^0.11.2",
+    "@primeuix/themes": "^2.0.0",
+    "nuxt": "^3.21.11",
+    "pagefind": "^1.5.2",
+    "pinia": "^3.0.3",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.4.1",
+    "vue": "^3.5.22",
+    "vue-router": "^4.6.3",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@nuxt/eslint": "^1.9.0",
+    "@types/node": "^24.9.1",
+    "eslint": "^9.38.0",
+    "prettier": "^3.6.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
+    "vue-tsc": "^3.1.1"
+  }
+}

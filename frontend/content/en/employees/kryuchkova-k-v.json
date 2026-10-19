@@ -1,0 +1,39 @@
+{
+  "id": "employee-201",
+  "slug": "kryuchkova-k-v",
+  "fullName": "Крючкова К. В.",
+  "displayName": "Крючкова К. В.",
+  "position": "преподаватель по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "экономика и управление на предприятиях; лингвистика",
+    "-"
+  ],
+  "experienceYears": 10,
+  "isManager": false,
+  "order": 201,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Крючкова К. В. — преподаватель по совместительству",
+    "description": "Крючкова К. В., преподаватель по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

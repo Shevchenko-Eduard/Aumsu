@@ -1,0 +1,48 @@
+{
+  "id": "employee-228",
+  "slug": "lyutikova-m-n",
+  "fullName": "Лютикова М. Н.",
+  "displayName": "Лютикова М. Н.",
+  "position": "доцент кафедры",
+  "degree": "кандидат технических наук",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Отраслевые информационные технологии",
+    "Информатика",
+    "Информатика",
+    "Информатика",
+    "Информатика",
+    "Робототехника",
+    "Методы искусственного интеллекта",
+    "Когнитивные технологии",
+    "Аналитическая обработка информации",
+    "Информатика"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "эксплуатация перегрузочного оборудования портов и транспортных терминалов",
+    "-"
+  ],
+  "experienceYears": 15,
+  "isManager": false,
+  "order": 228,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Лютикова М. Н. — доцент кафедры",
+    "description": "Лютикова М. Н., доцент кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

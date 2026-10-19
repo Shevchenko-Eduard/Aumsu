@@ -1,0 +1,47 @@
+{
+  "id": "employee-230",
+  "slug": "mazanko-e-v",
+  "fullName": "Мазанько Е. В.",
+  "displayName": "Мазанько Е. В.",
+  "position": "старший преподаватель кафедры",
+  "degree": "кандидат физико-математических наук",
+  "academicTitle": "доцент",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Международное частное право",
+    "Математика",
+    "Дискретная математика",
+    "Линейная алгебра и функции нескольких переменных",
+    "Теория вероятностей и математическая статистика",
+    "Математический анализ",
+    "Аналитическая геометрия",
+    "Математика",
+    "Математика"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "прикладная математика",
+    "-"
+  ],
+  "experienceYears": 23,
+  "isManager": false,
+  "order": 230,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Мазанько Е. В. — старший преподаватель кафедры",
+    "description": "Мазанько Е. В., старший преподаватель кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "employee-131",
+  "slug": "duhnich-e-i",
+  "fullName": "Духнич Е. И.",
+  "displayName": "Духнич Е. И.",
+  "position": "профессор кафедры",
+  "degree": "доктор технических наук",
+  "academicTitle": "профессор",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Защита информации",
+    "Теория принятия решений",
+    "Схемотехника",
+    "Математические основы программирования",
+    "Большие данные",
+    "Архитектура современных микропроцессоров и мультипроцессоров",
+    "Теория принятия решений",
+    "Математические основы программирования"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "математические и счетно-решающие приборы и устройства",
+    "-"
+  ],
+  "experienceYears": 51,
+  "isManager": false,
+  "order": 131,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Духнич Е. И. — профессор кафедры",
+    "description": "Духнич Е. И., профессор кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

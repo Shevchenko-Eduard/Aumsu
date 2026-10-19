@@ -1,0 +1,31 @@
+{
+  "id": "en-page-100",
+  "slug": "departments",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/contacts/departments",
+  "sectionId": "contacts",
+  "title": "Unit contacts",
+  "summary": "Contacts of faculties, institutes and offices.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Unit contacts: university contact information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Check current phone numbers and office hours with the relevant unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Unit contacts",
+    "description": "Contacts of faculties, institutes and offices."
+  },
+  "template": "default"
+}

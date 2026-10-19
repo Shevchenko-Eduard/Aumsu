@@ -1,0 +1,34 @@
+{
+  "locale": "ru",
+  "siteUrl": "https://aumsu.ru",
+  "siteName": "ГМУ им. адм. Ф.Ф. Ушакова",
+  "shortName": "ГМУ",
+  "defaultSeo": {
+    "titleTemplate": "%s — ГМУ им. адм. Ф.Ф. Ушакова",
+    "description": "Официальный сайт Государственного морского университета имени адмирала Ф.Ф. Ушакова",
+    "ogImage": "/media/og/default.jpg"
+  },
+  "contacts": {
+    "address": "353924, Краснодарский край, г. Новороссийск, проспект Ленина, 93",
+    "phones": [
+      "+7 (8617) 71-75-25"
+    ],
+    "emails": [
+      "mail@nsma.ru"
+    ]
+  },
+  "socialLinks": [
+    {
+      "label": "ВКонтакте",
+      "url": "https://vk.com/aumsu",
+      "icon": "vk"
+    },
+    {
+      "label": "Telegram",
+      "url": "https://t.me/aumsu",
+      "icon": "telegram"
+    }
+  ],
+  "quickLinks": [],
+  "externalServices": []
+}

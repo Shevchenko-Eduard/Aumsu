@@ -1,0 +1,40 @@
+{
+  "id": "org-4",
+  "type": "military-center",
+  "slug": "voennyj-uchebnyj-tsentr",
+  "name": "Military Training Centre",
+  "shortName": "Military Training Centre",
+  "path": "/about/structure/military-center",
+  "headTitle": "начальник военного учебного центра",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Military Training Centre is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "76‑78‑50, деж. 76‑78‑52 УЛК Север, 1эт",
+  "phones": [
+    "76‑78‑50",
+    "76‑78‑52"
+  ],
+  "emails": [
+    "izoktan@yandex.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/fakultet-voennogo-obucheniya",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 4,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Military Training Centre",
+    "description": "Contacts and information about Military Training Centre."
+  },
+  "head": "Гуляков Владимир Николаевич",
+  "headPost": "начальник военного учебного центра",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/VUC.pdf"
+}

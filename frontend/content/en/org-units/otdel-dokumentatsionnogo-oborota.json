@@ -1,0 +1,39 @@
+{
+  "id": "org-27",
+  "type": "administration",
+  "slug": "otdel-dokumentatsionnogo-oborota",
+  "name": "Document Management Department",
+  "shortName": "Document Management Department",
+  "path": "/about/structure/administrations/otdel-dokumentatsionnogo-oborota",
+  "headTitle": "начальник отдела",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Document Management Department is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "76‑78‑11 УЛК Север, 2 этаж, каб.214",
+  "phones": [
+    "76‑78‑11"
+  ],
+  "emails": [
+    "kancel@nsma.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/administrativno-pravovoe-upravlenie",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 27,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Document Management Department",
+    "description": "Contacts and information about Document Management Department."
+  },
+  "head": "Кулекина Елена Алексеевна",
+  "headPost": "начальник отдела",
+  "regulationUrl": "https://aumsu.ru/images/struktura/polozeniya/Polozhenie_o_kancelyarii.pdf"
+}

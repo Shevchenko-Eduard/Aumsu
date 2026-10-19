@@ -1,0 +1,46 @@
+{
+  "id": "en-page-56",
+  "slug": "legal-clinic",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/legal-clinic",
+  "sectionId": "education",
+  "title": "Legal clinic",
+  "summary": "Free legal aid and practical training for law students.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The university legal clinic provides free legal consultations and gives law students practical experience under faculty supervision."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Areas of assistance"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Civil law.",
+        "Labour law.",
+        "Family law.",
+        "Consumer protection."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Appointments are made using the contacts listed in the Contacts section."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Legal clinic",
+    "description": "Free legal aid and practical training for law students."
+  },
+  "template": "default"
+}

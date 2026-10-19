@@ -1,0 +1,31 @@
+{
+  "id": "en-page-97",
+  "slug": "phonebook",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/contacts/phonebook",
+  "sectionId": "contacts",
+  "title": "Phone directory",
+  "summary": "University unit phone numbers.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Phone directory: university contact information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Check current phone numbers and office hours with the relevant unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Phone directory",
+    "description": "University unit phone numbers."
+  },
+  "template": "default"
+}

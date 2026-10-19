@@ -1,0 +1,27 @@
+{
+  "id": "en-page-106",
+  "slug": "education",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/education",
+  "sectionId": "sveden",
+  "title": "Education",
+  "summary": "Education: official information about Admiral Ushakov State Maritime University.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Education: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Education",
+    "description": "Education: official information about Admiral Ushakov State Maritime University."
+  },
+  "template": "sveden"
+}

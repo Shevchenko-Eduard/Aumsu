@@ -1,0 +1,43 @@
+{
+  "id": "employee-45",
+  "slug": "birmenko-d-o",
+  "fullName": "Бирменко Д. О.",
+  "displayName": "Бирменко Д. О.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Раздел 06. Управление безопасностью на водном транспорте",
+    "Раздел 09. Использование электронных картографических навигационных информационных систем (ЭКНИС)",
+    "Раздел 06. Подготовка операторов ограниченного района ГМССБ",
+    "Эксплуатация судов в полярных водах",
+    "Безопасность судоходства С3.Б.10.05 Подготовка к борьбе с пожаром по расширенной программе"
+  ],
+  "education": [
+    "высшее специалитет"
+  ],
+  "qualifications": [
+    "судовождение",
+    "-"
+  ],
+  "experienceYears": 6,
+  "isManager": false,
+  "order": 45,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Бирменко Д. О. — преподаватель",
+    "description": "Бирменко Д. О., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

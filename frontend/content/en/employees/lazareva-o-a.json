@@ -1,0 +1,39 @@
+{
+  "id": "employee-213",
+  "slug": "lazareva-o-a",
+  "fullName": "Лазарева О. А.",
+  "displayName": "Лазарева О. А.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "-"
+  ],
+  "qualifications": [
+    "техническая эксплуатация транспортного радиооборудования",
+    "-"
+  ],
+  "experienceYears": 0,
+  "isManager": false,
+  "order": 213,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Лазарева О. А. — преподаватель",
+    "description": "Лазарева О. А., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "employee-332",
+  "slug": "senchenko-v-g",
+  "fullName": "Сенченко В. Г.",
+  "displayName": "Сенченко В. Г.",
+  "position": "профессор кафедры по совместительству",
+  "degree": "кандидат технических наук",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Автоматизация судовождения",
+    "Автоматизация судовождения",
+    "Технические средства судовождения"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "радиотехника",
+    "-"
+  ],
+  "experienceYears": 36,
+  "isManager": false,
+  "order": 332,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Сенченко В. Г. — профессор кафедры по совместительству",
+    "description": "Сенченко В. Г., профессор кафедры по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

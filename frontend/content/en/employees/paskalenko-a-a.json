@@ -1,0 +1,39 @@
+{
+  "id": "employee-286",
+  "slug": "paskalenko-a-a",
+  "fullName": "Паскаленко А. А.",
+  "displayName": "Паскаленко А. А.",
+  "position": "старший преподаватель цикла",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее, высшее специалитет"
+  ],
+  "qualifications": [
+    "эксплуатация судового электрооборудования и средств автоматики",
+    "-"
+  ],
+  "experienceYears": 2,
+  "isManager": false,
+  "order": 286,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Паскаленко А. А. — старший преподаватель цикла",
+    "description": "Паскаленко А. А., старший преподаватель цикла. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "org-5",
+  "type": "institute",
+  "slug": "institut-morskogo-transportnogo-menedzhmenta-ekonomiki-i-prava",
+  "name": "Институт морского транспортного менеджмента, экономики и права",
+  "path": "/about/structure/institutes/institut-morskogo-transportnogo-menedzhmenta-ekonomiki-i-prava",
+  "headTitle": "декан",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Институт морского транспортного менеджмента, экономики и права — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76-79-45 Учебный корпус №1, 1 этаж, 1-109.",
+  "phones": [
+    "76-79-45"
+  ],
+  "emails": [
+    "golubkina2011@yandex.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/institute-sea",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 5,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Институт морского транспортного менеджмента, экономики и пра",
+    "description": "Институт морского транспортного менеджмента, экономики и права: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Голубкина Ксения Вячеславовна",
+  "headPost": "декан",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/polojenie_ob_institute.pdf"
+}

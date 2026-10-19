@@ -1,0 +1,61 @@
+{
+  "id": "en-page-31",
+  "slug": "dates",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/admissions/dates",
+  "sectionId": "admissions",
+  "title": "Dates and stages",
+  "summary": "2026 admissions calendar: application dates, exams and enrolment.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The 2026 admissions campaign starts on 20 June. Closing dates depend on the study level and form."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Stage",
+        "Date"
+      ],
+      "rows": [
+        [
+          "Applications open",
+          "20 June 2026"
+        ],
+        [
+          "Applications close (budget, full-time)",
+          "25 July 2026"
+        ],
+        [
+          "Entrance examinations",
+          "July — August 2026"
+        ],
+        [
+          "Competition lists",
+          "per admissions office schedule"
+        ],
+        [
+          "Enrolment",
+          "August 2026"
+        ]
+      ],
+      "caption": "2026 admissions calendar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Exact dates for each level are published in the admission rules and on the relevant level pages."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Dates and stages",
+    "description": "2026 admissions calendar: application dates, exams and enrolment."
+  },
+  "template": "default"
+}

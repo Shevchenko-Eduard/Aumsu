@@ -1,0 +1,39 @@
+{
+  "id": "employee-376",
+  "slug": "toriya-t-g",
+  "fullName": "Тория Т. Г.",
+  "displayName": "Тория Т. Г.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее специалитет"
+  ],
+  "qualifications": [
+    "эксплуатация судовых энергетических установок",
+    "-"
+  ],
+  "experienceYears": 2,
+  "isManager": false,
+  "order": 376,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Тория Т. Г. — преподаватель",
+    "description": "Тория Т. Г., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

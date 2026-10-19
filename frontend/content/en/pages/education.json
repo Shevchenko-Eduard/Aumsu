@@ -1,0 +1,48 @@
+{
+  "id": "en-page-38",
+  "slug": "education",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education",
+  "sectionId": "education",
+  "title": "Education",
+  "summary": "Programme catalogue, study levels, academic process, library and continuing education.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The university offers vocational, higher and continuing education programmes. The catalogue can be filtered by level, study form and faculty."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Study levels"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Vocational education.",
+        "Bachelor's degree.",
+        "Specialist's degree.",
+        "Master's degree.",
+        "Postgraduate study.",
+        "Continuing professional education."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Students have access to the timetable, digital library, learning materials and the student portal."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Education",
+    "description": "Programme catalogue, study levels, academic process, library and continuing education."
+  },
+  "template": "default"
+}

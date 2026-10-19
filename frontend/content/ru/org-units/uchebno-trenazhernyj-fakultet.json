@@ -1,0 +1,38 @@
+{
+  "id": "org-6",
+  "type": "faculty",
+  "slug": "uchebno-trenazhernyj-fakultet",
+  "name": "Учебно-тренажёрный факультет",
+  "path": "/about/structure/faculties/uchebno-trenazhernyj-fakultet",
+  "headTitle": "Декан факультета",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Учебно-тренажёрный факультет — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "+7(918)061-15-20, 76 79 00 УЛК №2. Юг, 1, 2 этаж",
+  "phones": [
+    "+7(918)061-15-20"
+  ],
+  "emails": [
+    "ipk@aumsu.ru"
+  ],
+  "siteUrl": "https://ipk.aumsu.ru/",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 6,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Учебно-тренажёрный факультет",
+    "description": "Учебно-тренажёрный факультет: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Кондратьев Алексей Иванович",
+  "headPost": "Декан факультета",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/polojenie_ob_institute.pdf"
+}

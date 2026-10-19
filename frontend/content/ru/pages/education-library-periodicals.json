@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-50",
+  "slug": "periodicals",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/library/periodicals",
+  "sectionId": "education",
+  "title": "Периодические издания",
+  "summary": "Газеты, журналы и научная периодика.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Периодические издания: информация библиотеки университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные сведения уточняйте у сотрудников библиотеки или на информационной стойке."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Периодические издания",
+    "description": "Газеты, журналы и научная периодика."
+  },
+  "template": "default"
+}

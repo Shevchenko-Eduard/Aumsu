@@ -1,0 +1,39 @@
+{
+  "id": "employee-106",
+  "slug": "guk-a-v",
+  "fullName": "Гук А. В.",
+  "displayName": "Гук А. В.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее специалитет"
+  ],
+  "qualifications": [
+    "судовождение",
+    "-"
+  ],
+  "experienceYears": 2,
+  "isManager": false,
+  "order": 106,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Гук А. В. — преподаватель",
+    "description": "Гук А. В., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

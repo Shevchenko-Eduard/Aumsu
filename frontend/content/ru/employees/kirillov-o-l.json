@@ -1,0 +1,39 @@
+{
+  "id": "employee-166",
+  "slug": "kirillov-o-l",
+  "fullName": "Кириллов О. Л.",
+  "displayName": "Кириллов О. Л.",
+  "position": "доцент цикла",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "электронные вычислительные машины",
+    "-"
+  ],
+  "experienceYears": 0,
+  "isManager": false,
+  "order": 166,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Кириллов О. Л. — доцент цикла",
+    "description": "Кириллов О. Л., доцент цикла. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

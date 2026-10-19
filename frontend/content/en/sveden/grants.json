@@ -1,0 +1,60 @@
+{
+  "id": "sveden-grants",
+  "slug": "grants",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/grants",
+  "sectionId": "sveden",
+  "title": "Scholarships and support",
+  "summary": "Scholarships and support: official information.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Scholarships and support: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Scholarships and support — official information",
+    "description": "Scholarships and support: official information about the university."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "grants",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Full name",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Short name",
+        "value": "Admiral Ushakov State Maritime University",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "grants",
+        "label": "Scholarships and support",
+        "value": [
+          "State academic scholarship",
+          "Social scholarship",
+          "Increased scholarship",
+          "Material assistance"
+        ],
+        "type": "list",
+        "required": true
+      }
+    ],
+    "tables": []
+  }
+}

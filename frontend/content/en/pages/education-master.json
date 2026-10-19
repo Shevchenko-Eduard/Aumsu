@@ -1,0 +1,40 @@
+{
+  "id": "en-page-42",
+  "slug": "master",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/master",
+  "sectionId": "education",
+  "title": "Master's programmes",
+  "summary": "Overview of master programmes and the catalogue.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Master's programmes: programmes, study conditions and documents. The full list is available in the programme catalogue."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Current programmes and study forms.",
+        "Duration and tuition.",
+        "Documents and curricula."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Open the catalogue to filter programmes by level and faculty."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Master's programmes",
+    "description": "Overview of master programmes and the catalogue."
+  },
+  "template": "default"
+}

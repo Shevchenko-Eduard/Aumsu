@@ -1,0 +1,27 @@
+{
+  "id": "ru-page-93",
+  "slug": "archive",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/news/archive",
+  "sectionId": "news",
+  "title": "Архив новостей",
+  "summary": "Архив новостей университета по годам.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Архив содержит новости прошлых лет. Материалы архива не индексируются поисковыми системами."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Архив новостей",
+    "description": "Архив новостей университета по годам."
+  },
+  "template": "archive"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "employee-273",
+  "slug": "obuhova-e-a",
+  "fullName": "Обухова Е. А.",
+  "displayName": "Обухова Е. А.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее специалитет"
+  ],
+  "qualifications": [
+    "математика",
+    "-"
+  ],
+  "experienceYears": 1,
+  "isManager": false,
+  "order": 273,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Обухова Е. А. — преподаватель",
+    "description": "Обухова Е. А., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

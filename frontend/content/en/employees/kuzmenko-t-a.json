@@ -1,0 +1,39 @@
+{
+  "id": "employee-206",
+  "slug": "kuzmenko-t-a",
+  "fullName": "Кузьменко Т. А.",
+  "displayName": "Кузьменко Т. А.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "история с дополнительной специальностью юриспруденция",
+    "-"
+  ],
+  "experienceYears": 6,
+  "isManager": false,
+  "order": 206,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Кузьменко Т. А. — преподаватель",
+    "description": "Кузьменко Т. А., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

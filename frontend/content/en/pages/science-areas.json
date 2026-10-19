@@ -1,0 +1,31 @@
+{
+  "id": "en-page-61",
+  "slug": "areas",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/areas",
+  "sectionId": "science",
+  "title": "Research areas and schools",
+  "summary": "Research areas, schools and teams.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Research areas and schools: information about research at the university."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current information and documents are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Research areas and schools",
+    "description": "Research areas, schools and teams."
+  },
+  "template": "default"
+}

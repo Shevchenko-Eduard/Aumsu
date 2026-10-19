@@ -1,0 +1,31 @@
+{
+  "id": "en-page-57",
+  "slug": "mobility",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/mobility",
+  "sectionId": "education",
+  "title": "Academic mobility",
+  "summary": "Incoming and outgoing mobility, student and staff exchange.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The university develops academic mobility through exchange programmes, internships and joint projects for students and staff."
+    },
+    {
+      "type": "paragraph",
+      "text": "Information about available programmes is published in the International section."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Academic mobility",
+    "description": "Incoming and outgoing mobility, student and staff exchange."
+  },
+  "template": "default"
+}

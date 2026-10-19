@@ -1,0 +1,39 @@
+{
+  "id": "employee-83",
+  "slug": "gistseva-l-n",
+  "fullName": "Гисцева Л. Н.",
+  "displayName": "Гисцева Л. Н.",
+  "position": "преподаватель по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее, высшее магистратура"
+  ],
+  "qualifications": [
+    "экономика и управление на предприятии, прядение натуральных и химических волокон, юриспруденция",
+    "-"
+  ],
+  "experienceYears": 1,
+  "isManager": false,
+  "order": 83,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Гисцева Л. Н. — преподаватель по совместительству",
+    "description": "Гисцева Л. Н., преподаватель по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "employee-274",
+  "slug": "oganesyan-s-r",
+  "fullName": "Оганесян С. Р.",
+  "displayName": "Оганесян С. Р.",
+  "position": "старший преподаватель кафедры по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее бакалавриат"
+  ],
+  "qualifications": [
+    "экономика",
+    "-"
+  ],
+  "experienceYears": 5,
+  "isManager": false,
+  "order": 274,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Оганесян С. Р. — старший преподаватель кафедры по совместите",
+    "description": "Оганесян С. Р., старший преподаватель кафедры по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

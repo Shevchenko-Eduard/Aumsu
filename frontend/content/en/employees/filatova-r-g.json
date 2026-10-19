@@ -1,0 +1,39 @@
+{
+  "id": "employee-391",
+  "slug": "filatova-r-g",
+  "fullName": "Филатова Р. Г.",
+  "displayName": "Филатова Р. Г.",
+  "position": "доцент кафедры",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Технические средства судовождения"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "гигроскопические приборы и устройств",
+    "-"
+  ],
+  "experienceYears": 44,
+  "isManager": false,
+  "order": 391,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Филатова Р. Г. — доцент кафедры",
+    "description": "Филатова Р. Г., доцент кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

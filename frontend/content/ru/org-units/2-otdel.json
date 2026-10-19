@@ -1,0 +1,38 @@
+{
+  "id": "org-24",
+  "type": "administration",
+  "slug": "2-otdel",
+  "name": "2 отдел",
+  "path": "/about/structure/administrations/2-otdel",
+  "headTitle": "Начальник",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "2 отдел — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76‑79‑72 УЛК №1. Общежитие №1 1 этаж",
+  "phones": [
+    "76‑79‑72"
+  ],
+  "emails": [
+    "ihnenko@nsma.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/sveden/struct/8-glavnaya-stranitsa/569-2-otdel",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 24,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "2 отдел",
+    "description": "2 отдел: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Ихненко Юлия Александровна",
+  "headPost": "Начальник",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/Polojenie_2_otdel.pdf"
+}

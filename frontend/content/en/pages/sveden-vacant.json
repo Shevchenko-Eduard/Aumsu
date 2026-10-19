@@ -1,0 +1,27 @@
+{
+  "id": "en-page-114",
+  "slug": "vacant",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/vacant",
+  "sectionId": "sveden",
+  "title": "Vacant places",
+  "summary": "Vacant places: official information about Admiral Ushakov State Maritime University.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Vacant places: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Vacant places",
+    "description": "Vacant places: official information about Admiral Ushakov State Maritime University."
+  },
+  "template": "sveden"
+}

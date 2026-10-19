@@ -1,0 +1,48 @@
+{
+  "id": "employee-43",
+  "slug": "bereza-i-g",
+  "fullName": "Берёза И. Г.",
+  "displayName": "Берёза И. Г.",
+  "position": "профессор кафедры",
+  "degree": "доктор технических наук",
+  "academicTitle": "профессор",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Экология",
+    "Экология",
+    "Основы инженерных методов защиты гидросферы",
+    "Очистные сооружения",
+    "Комплексное использование водных ресурсов М1.В1.ДВ.03.02 Экологические показатели технологических процессов",
+    "Преддипломная",
+    "Экология",
+    "Экология",
+    "Экология",
+    "Экология"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "водоснабжение и канализация",
+    "-"
+  ],
+  "experienceYears": 39,
+  "isManager": false,
+  "order": 43,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Берёза И. Г. — профессор кафедры",
+    "description": "Берёза И. Г., профессор кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

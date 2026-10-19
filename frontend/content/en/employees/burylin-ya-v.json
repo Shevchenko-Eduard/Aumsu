@@ -1,0 +1,40 @@
+{
+  "id": "employee-61",
+  "slug": "burylin-ya-v",
+  "fullName": "Бурылин Я. В.",
+  "displayName": "Бурылин Я. В.",
+  "position": "доцент кафедры по совместительству",
+  "degree": "кандидат технических наук",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Поиск и спасание на море",
+    "Математические основы судовождения"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "судовождение",
+    "-"
+  ],
+  "experienceYears": 4,
+  "isManager": false,
+  "order": 61,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Бурылин Я. В. — доцент кафедры по совместительству",
+    "description": "Бурылин Я. В., доцент кафедры по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

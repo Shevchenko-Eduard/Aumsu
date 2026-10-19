@@ -1,0 +1,31 @@
+{
+  "id": "en-page-68",
+  "slug": "grants",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/grants",
+  "sectionId": "science",
+  "title": "Grants",
+  "summary": "Grant programmes and competitions.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Grants: information about research at the university."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current information and documents are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Grants",
+    "description": "Grant programmes and competitions."
+  },
+  "template": "default"
+}

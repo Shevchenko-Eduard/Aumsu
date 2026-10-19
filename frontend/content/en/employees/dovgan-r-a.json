@@ -1,0 +1,39 @@
+{
+  "id": "employee-125",
+  "slug": "dovgan-r-a",
+  "fullName": "Довгань Р. А.",
+  "displayName": "Довгань Р. А.",
+  "position": "старший преподаватель кафедры по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "техническая эксплуатация транспортного радиооборудования",
+    "-"
+  ],
+  "experienceYears": 4,
+  "isManager": false,
+  "order": 125,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Довгань Р. А. — старший преподаватель кафедры по совместител",
+    "description": "Довгань Р. А., старший преподаватель кафедры по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

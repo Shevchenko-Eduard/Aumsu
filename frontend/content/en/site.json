@@ -1,0 +1,34 @@
+{
+  "locale": "en",
+  "siteUrl": "https://aumsu.ru",
+  "siteName": "Admiral Ushakov Maritime State University",
+  "shortName": "AMSU",
+  "defaultSeo": {
+    "titleTemplate": "%s — Admiral Ushakov Maritime State University",
+    "description": "Official website of Admiral F.F. Ushakov State Maritime University",
+    "ogImage": "/media/og/default.jpg"
+  },
+  "contacts": {
+    "address": "93 Prospekt Lenina, Novorossiysk, Krasnodar Krai, 353924, Russia",
+    "phones": [
+      "+7 (8617) 71-75-25"
+    ],
+    "emails": [
+      "mail@nsma.ru"
+    ]
+  },
+  "socialLinks": [
+    {
+      "label": "VK",
+      "url": "https://vk.com/aumsu",
+      "icon": "vk"
+    },
+    {
+      "label": "Telegram",
+      "url": "https://t.me/aumsu",
+      "icon": "telegram"
+    }
+  ],
+  "quickLinks": [],
+  "externalServices": []
+}

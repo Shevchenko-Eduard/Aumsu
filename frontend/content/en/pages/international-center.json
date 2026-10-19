@@ -1,0 +1,31 @@
+{
+  "id": "en-page-91",
+  "slug": "center",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/international/center",
+  "sectionId": "international",
+  "title": "International Education Centre",
+  "summary": "Contacts, services and language support.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "International Education Centre: information about the university’s international activities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contacts and current documents are published by the International Office."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "International Education Centre",
+    "description": "Contacts, services and language support."
+  },
+  "template": "default"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "employee-117",
+  "slug": "demkina-a-s",
+  "fullName": "Демкина А. С.",
+  "displayName": "Демкина А. С.",
+  "position": "преподаватель по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее магистратура"
+  ],
+  "qualifications": [
+    "управление водным транспортом и гидрографическое обследование судоходства",
+    "-"
+  ],
+  "experienceYears": 0,
+  "isManager": false,
+  "order": 117,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Демкина А. С. — преподаватель по совместительству",
+    "description": "Демкина А. С., преподаватель по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

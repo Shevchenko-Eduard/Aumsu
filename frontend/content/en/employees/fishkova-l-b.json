@@ -1,0 +1,46 @@
+{
+  "id": "employee-396",
+  "slug": "fishkova-l-b",
+  "fullName": "Фишкова Л. Б.",
+  "displayName": "Фишкова Л. Б.",
+  "position": "доцент кафедры",
+  "degree": "кандидат педагогических наук",
+  "academicTitle": "доцент",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Морской технический английский язык",
+    "Морской английский язык",
+    "Морской английский язык",
+    "Управление социально-трудовыми отношениями в судовых экипажах",
+    "Иностранный язык",
+    "Морской технический английский язык",
+    "Психологические основы управления судовым экипажем",
+    "Иностранный язык"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "английский и французский языки",
+    "-"
+  ],
+  "experienceYears": 42,
+  "isManager": false,
+  "order": 396,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Фишкова Л. Б. — доцент кафедры",
+    "description": "Фишкова Л. Б., доцент кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

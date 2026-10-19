@@ -1,0 +1,40 @@
+{
+  "id": "org-1",
+  "type": "faculty",
+  "slug": "fakultet-ekspluatatsii-vodnogo-transporta-i-sudovozhdeniya-fevtisv",
+  "name": "Faculty of Water Transport Operation and Navigation (FWTON)",
+  "shortName": "Faculty of Water Transport Operation and Navigation (FWTON)",
+  "path": "/about/structure/faculties/fakultet-ekspluatatsii-vodnogo-transporta-i-sudovozhdeniya-fevtisv",
+  "headTitle": "декан факультета",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Faculty of Water Transport Operation and Navigation (FWTON) is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "76‑78‑24, деканат: 76‑78‑25 УЛК №2. Юг, 4 этаж, ауд.432, доп. УК Север, 413",
+  "phones": [
+    "76‑78‑24",
+    "76‑78‑25"
+  ],
+  "emails": [
+    "an.popov.mga@gmail.com"
+  ],
+  "siteUrl": "https://aumsu.ru/fakultet-ekspluatatsii-vodnogo-transporta-i-sudovozhdeniya",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 1,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Faculty of Water Transport Operation and Navigation (FWTON)",
+    "description": "Contacts and information about Faculty of Water Transport Operation and Navigation (FWTON)."
+  },
+  "head": "Попов Анатолий Николаевич",
+  "headPost": "декан факультета",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/polojenie_ob_institute.pdf"
+}

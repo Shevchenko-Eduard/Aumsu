@@ -1,0 +1,31 @@
+{
+  "id": "news-5",
+  "slug": "pobeda-na-olimpiade",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-09-15T14:00:00.000Z",
+  "publishedAt": "2026-09-15T14:00:00.000Z",
+  "title": "Ushakovka cadets win international olympiad",
+  "summary": "The university team took first place in the team event in maritime affairs and navigation.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A team of cadets from Admiral Ushakov State Maritime University took first place at the international maritime olympiad. The competition included navigation plotting, collision regulations and simulator tasks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Congratulations to the participants and their mentors!"
+    }
+  ],
+  "categoryIds": [
+    "student-life"
+  ],
+  "tagIds": [],
+  "audiences": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Ushakovka cadets win international olympiad",
+    "description": "The university team took first place in the team event in maritime affairs and navigation."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "employee-63",
+  "slug": "bykadorova-e-s",
+  "fullName": "Быкадорова Е. С.",
+  "displayName": "Быкадорова Е. С.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее, высшее бакалавриат"
+  ],
+  "qualifications": [
+    "юриспруденция",
+    "-"
+  ],
+  "experienceYears": 0,
+  "isManager": false,
+  "order": 63,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Быкадорова Е. С. — преподаватель",
+    "description": "Быкадорова Е. С., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

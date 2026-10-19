@@ -1,0 +1,39 @@
+{
+  "id": "employee-46",
+  "slug": "birmenko-o-a",
+  "fullName": "Бирменко О. А.",
+  "displayName": "Бирменко О. А.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "радиотехника",
+    "-"
+  ],
+  "experienceYears": 2,
+  "isManager": false,
+  "order": 46,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Бирменко О. А. — преподаватель",
+    "description": "Бирменко О. А., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

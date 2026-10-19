@@ -1,0 +1,103 @@
+{
+  "id": "program-9",
+  "slug": "23-02-04-tehnicheskaya-ekspluatatsiya-podemno-transportnyh-stroitel-9",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "code": "23.02.04",
+  "name": "Technical Operation of Lifting, Transport, Construction and Road Machinery (by Industry) — based on basic general education",
+  "level": "college",
+  "facultyId": "org-7",
+  "departmentIds": [],
+  "forms": [
+    "full-time"
+  ],
+  "duration": "2 years 10 months",
+  "languages": [
+    "ru"
+  ],
+  "budgetPlaces": 33,
+  "paidPlaces": 28,
+  "tuition": [
+    {
+      "amount": 122000,
+      "currency": "RUB",
+      "year": 2026,
+      "form": "full-time"
+    }
+  ],
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "The programme prepares specialists in technical operation of lifting, transport, construction and road machinery (by industry) — based on basic general education for the maritime and transport industry. Students gain practical skills in modern laboratories and training centres."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you will study"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Professional disciplines and applied projects",
+        "Work with industry digital tools",
+        "Teamwork and production practice",
+        "Safety and environmental standards"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Admission"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entrance examinations depend on the chosen level. The minimum score and the number of places are updated annually by the admissions office."
+    }
+  ],
+  "curriculumDocumentIds": [],
+  "annotationDocumentIds": [],
+  "admission": {
+    "exams": [
+      {
+        "subject": "Mathematics",
+        "minScore": 39
+      },
+      {
+        "subject": "Russian language",
+        "minScore": 40
+      },
+      {
+        "subject": "Profile subject",
+        "minScore": 44
+      }
+    ],
+    "budgetPlaces": 33,
+    "paidPlaces": 28,
+    "tuition": [
+      {
+        "amount": 122000,
+        "currency": "RUB",
+        "year": 2026
+      }
+    ],
+    "deadlines": [
+      {
+        "label": "Start of applications",
+        "date": "2026-06-20"
+      },
+      {
+        "label": "End of applications (budget)",
+        "date": "2026-07-25"
+      }
+    ]
+  },
+  "accreditation": "State accreditation",
+  "seo": {
+    "title": "Technical Operation of Lifting, Transport, Construction and ",
+    "description": "Programme 23.02.04: admission, duration, places and tuition at Admiral Ushakov Maritime State University."
+  }
+}

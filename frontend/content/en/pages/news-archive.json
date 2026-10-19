@@ -1,0 +1,27 @@
+{
+  "id": "en-page-93",
+  "slug": "archive",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/news/archive",
+  "sectionId": "news",
+  "title": "News archive",
+  "summary": "University news archive by year.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The archive contains news from previous years. Archived materials are not indexed by search engines."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "News archive",
+    "description": "University news archive by year."
+  },
+  "template": "archive"
+}

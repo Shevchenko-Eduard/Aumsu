@@ -1,0 +1,70 @@
+{
+  "id": "en-page-117",
+  "slug": "privacy",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/privacy",
+  "sectionId": "about",
+  "title": "Personal data processing policy",
+  "summary": "How the university processes and protects personal data on the website.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "This policy defines how Admiral Ushakov State Maritime University processes personal data of website users."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What data is processed"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Data voluntarily provided in feedback forms.",
+        "Technical data about website visits.",
+        "Data required to process a request."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Purposes"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Responding to a user request.",
+        "Improving the website.",
+        "Compliance with legal requirements."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Your rights"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may request correction, blocking or deletion of your personal data by contacting the university by email."
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "Demo mode",
+      "text": "In this demo site forms do not transfer data to a server."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Personal data processing policy",
+    "description": "How the university processes and protects personal data on the website."
+  },
+  "template": "default"
+}

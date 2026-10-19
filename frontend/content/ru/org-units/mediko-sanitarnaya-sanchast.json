@@ -1,0 +1,39 @@
+{
+  "id": "org-25",
+  "type": "administration",
+  "slug": "mediko-sanitarnaya-sanchast",
+  "name": "Медико-санитарная санчасть",
+  "path": "/about/structure/administrations/mediko-sanitarnaya-sanchast",
+  "headTitle": "начальник медсанчасти",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Медико-санитарная санчасть — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "+7 (8617) 76 79 39; +7(918) 040 35 69 Учебный корпус №1, цокольный этаж",
+  "phones": [
+    "+7 (8617) 76 79 39",
+    "+7(918) 040 35 69"
+  ],
+  "emails": [
+    "med@nsma.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/sveden/struct/8-glavnaya-stranitsa/570-mediko-sanitarnaya-sanchast",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 25,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Медико-санитарная санчасть",
+    "description": "Медико-санитарная санчасть: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Калмаков Роман Леонидович",
+  "headPost": "начальник медсанчасти",
+  "regulationUrl": "https://aumsu.ru/images/struktura/polozeniya/Polojenie_MCC.pdf"
+}

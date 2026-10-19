@@ -1,0 +1,73 @@
+:root {
+  --p-primary-color: var(--color-primary-700);
+  --p-primary-contrast-color: #ffffff;
+  --p-primary-hover-color: var(--color-primary-900);
+  --p-primary-active-color: var(--color-primary-950);
+  --p-surface-0: #ffffff;
+  --p-surface-50: #f5f7fa;
+  --p-surface-100: #e6eff7;
+  --p-surface-200: #d7dee6;
+  --p-surface-300: #aebbc9;
+  --p-surface-400: #8a99a8;
+  --p-surface-500: #5a6b7b;
+  --p-surface-600: #455463;
+  --p-surface-700: #2e3b47;
+  --p-surface-800: #1e2934;
+  --p-surface-900: #14202b;
+  --p-surface-950: #0b2a4a;
+  --p-content-border-radius: 8px;
+  --p-focus-ring-color: var(--color-focus);
+  --p-focus-ring-width: 3px;
+  --p-focus-ring-offset: 2px;
+  --p-form-field-border-radius: 8px;
+  --p-form-field-padding-x: 0.85rem;
+  --p-form-field-padding-y: 0.65rem;
+}
+
+.p-button {
+  font-family: var(--font-sans);
+  font-weight: 700;
+}
+
+.p-button:focus-visible {
+  outline: 3px solid var(--color-focus);
+  outline-offset: 2px;
+}
+
+.p-inputtext,
+.p-textarea {
+  width: 100%;
+  font-family: var(--font-sans);
+}
+
+.p-accordion {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  background: var(--color-bg);
+}
+
+.p-accordionpanel {
+  border-bottom: 1px solid var(--color-border);
+}
+
+.p-accordionpanel:last-child {
+  border-bottom: 0;
+}
+
+.p-accordionheader {
+  padding: 16px 20px;
+  color: var(--color-primary-900);
+  font-family: var(--font-sans);
+  font-size: 0.98rem;
+  font-weight: 700;
+}
+
+.p-accordioncontent-content {
+  padding: 0 20px 18px;
+  color: var(--color-text-muted);
+}
+
+.p-checkbox-box {
+  border-color: var(--color-border-strong);
+}

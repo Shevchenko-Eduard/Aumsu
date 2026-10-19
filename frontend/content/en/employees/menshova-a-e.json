@@ -1,0 +1,39 @@
+{
+  "id": "employee-246",
+  "slug": "menshova-a-e",
+  "fullName": "Меньшова А. Е.",
+  "displayName": "Меньшова А. Е.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "среднее профессиональное"
+  ],
+  "qualifications": [
+    "физическая кльтура",
+    "-"
+  ],
+  "experienceYears": 3,
+  "isManager": false,
+  "order": 246,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Меньшова А. Е. — преподаватель",
+    "description": "Меньшова А. Е., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

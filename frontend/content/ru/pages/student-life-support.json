@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-79",
+  "slug": "support",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/student-life/support",
+  "sectionId": "student-life",
+  "title": "Социальная поддержка",
+  "summary": "Помощь студентам и сотрудникам.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Социальная поддержка: раздел студенческой жизни университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные анонсы, документы и контакты публикуются ответственным подразделением."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Социальная поддержка",
+    "description": "Помощь студентам и сотрудникам."
+  },
+  "template": "default"
+}

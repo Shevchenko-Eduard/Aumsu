@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-77",
+  "slug": "dormitory",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/student-life/dormitory",
+  "sectionId": "student-life",
+  "title": "Общежитие",
+  "summary": "Правила проживания, стоимость и контакты.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Общежитие: раздел студенческой жизни университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные анонсы, документы и контакты публикуются ответственным подразделением."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Общежитие",
+    "description": "Правила проживания, стоимость и контакты."
+  },
+  "template": "default"
+}

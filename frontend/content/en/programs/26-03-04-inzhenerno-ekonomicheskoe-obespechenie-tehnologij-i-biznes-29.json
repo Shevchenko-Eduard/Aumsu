@@ -1,0 +1,104 @@
+{
+  "id": "program-29",
+  "slug": "26-03-04-inzhenerno-ekonomicheskoe-obespechenie-tehnologij-i-biznes-29",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "code": "26.03.04",
+  "name": "Engineering and Economic Support of Water Transport Technologies and Business Processes",
+  "level": "bachelor",
+  "profile": "Инженерно-экономическое обеспечение бизнес-процессов морского транспорта",
+  "facultyId": "org-1",
+  "departmentIds": [],
+  "forms": [
+    "full-time"
+  ],
+  "duration": "4 years",
+  "languages": [
+    "ru"
+  ],
+  "budgetPlaces": 40,
+  "paidPlaces": 38,
+  "tuition": [
+    {
+      "amount": 206000,
+      "currency": "RUB",
+      "year": 2026,
+      "form": "full-time"
+    }
+  ],
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "The programme prepares specialists in engineering and economic support of water transport technologies and business processes for the maritime and transport industry. Students gain practical skills in modern laboratories and training centres."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "What you will study"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Professional disciplines and applied projects",
+        "Work with industry digital tools",
+        "Teamwork and production practice",
+        "Safety and environmental standards"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Admission"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entrance examinations depend on the chosen level. The minimum score and the number of places are updated annually by the admissions office."
+    }
+  ],
+  "curriculumDocumentIds": [],
+  "annotationDocumentIds": [],
+  "admission": {
+    "exams": [
+      {
+        "subject": "Mathematics",
+        "minScore": 39
+      },
+      {
+        "subject": "Russian language",
+        "minScore": 40
+      },
+      {
+        "subject": "Profile subject",
+        "minScore": 44
+      }
+    ],
+    "budgetPlaces": 40,
+    "paidPlaces": 38,
+    "tuition": [
+      {
+        "amount": 206000,
+        "currency": "RUB",
+        "year": 2026
+      }
+    ],
+    "deadlines": [
+      {
+        "label": "Start of applications",
+        "date": "2026-06-20"
+      },
+      {
+        "label": "End of applications (budget)",
+        "date": "2026-07-25"
+      }
+    ]
+  },
+  "accreditation": "State accreditation",
+  "seo": {
+    "title": "Engineering and Economic Support of Water Transport Technolo",
+    "description": "Programme 26.03.04: admission, duration, places and tuition at Admiral Ushakov Maritime State University."
+  }
+}

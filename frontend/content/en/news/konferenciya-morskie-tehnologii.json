@@ -1,0 +1,46 @@
+{
+  "id": "news-4",
+  "slug": "konferenciya-morskie-tehnologii",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-09-28T09:00:00.000Z",
+  "publishedAt": "2026-09-28T09:00:00.000Z",
+  "title": "Maritime Technologies: university hosts research conference",
+  "summary": "Researchers discussed digitalisation of shipping, environmental safety and engineering education.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The international research conference “Maritime Technologies and Sustainable Transport” took place in Novorossiysk, bringing together universities, shipping companies and industry associations."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Key topics"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Digital twins of ships and ports.",
+        "Emissions reduction and green energy.",
+        "Training for autonomous shipping.",
+        "Cybersecurity of maritime systems."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Conference materials will be published in the proceedings and made available in the Research section."
+    }
+  ],
+  "categoryIds": [
+    "nauka"
+  ],
+  "tagIds": [],
+  "audiences": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Maritime Technologies: university hosts research conference",
+    "description": "Researchers discussed digitalisation of shipping, environmental safety and engineering education."
+  }
+}

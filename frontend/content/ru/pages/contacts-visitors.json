@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-98",
+  "slug": "visitors",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/contacts/visitors",
+  "sectionId": "contacts",
+  "title": "Приём посетителей",
+  "summary": "Правила и время приёма посетителей.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Приём посетителей: контактная информация университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные телефоны и режим работы уточняйте у подразделения."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Приём посетителей",
+    "description": "Правила и время приёма посетителей."
+  },
+  "template": "default"
+}

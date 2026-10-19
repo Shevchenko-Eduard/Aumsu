@@ -1,0 +1,45 @@
+{
+  "id": "news-3",
+  "slug": "laboratoriya-cifrovoj-navigacii",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-05T09:00:00.000Z",
+  "publishedAt": "2026-10-05T09:00:00.000Z",
+  "title": "Digital Navigation Laboratory opened",
+  "summary": "The new facility combines ECDIS simulators, route modelling and research in intelligent transport systems.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "A digital navigation laboratory has opened at the university. It supports cadet training and applied research in intelligent transport systems."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Facilities"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "ECDIS and integrated bridge simulators.",
+        "Route modelling software.",
+        "Workstations for vessel traffic data analysis."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The laboratory is used in navigation and water transport management programmes and in joint projects with industry partners."
+    }
+  ],
+  "categoryIds": [
+    "nauka"
+  ],
+  "tagIds": [],
+  "audiences": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Digital Navigation Laboratory opened",
+    "description": "The new facility combines ECDIS simulators, route modelling and research in intelligent transport systems."
+  }
+}

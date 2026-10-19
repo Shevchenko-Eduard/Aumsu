@@ -1,0 +1,39 @@
+{
+  "id": "org-21",
+  "type": "administration",
+  "slug": "upravlenie-po-personalu-i-kontrolyu",
+  "name": "Department of Personnel and Control",
+  "shortName": "Department of Personnel and Control",
+  "path": "/about/structure/administrations/upravlenie-po-personalu-i-kontrolyu",
+  "headTitle": "начальник управления",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Department of Personnel and Control is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "76-78-06 УЛК Север, 2 этаж, каб.217",
+  "phones": [
+    "76-78-06"
+  ],
+  "emails": [
+    "milinnovoros@gmail.com"
+  ],
+  "siteUrl": "https://aumsu.ru/sveden/struct/8-glavnaya-stranitsa/554-upravlenie-po-bezopasnosti-i-kontrolyu",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 21,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Department of Personnel and Control",
+    "description": "Contacts and information about Department of Personnel and Control."
+  },
+  "head": "Милин Алексей Викторович",
+  "headPost": "начальник управления",
+  "regulationUrl": "https://aumsu.ru/images/struktura/polozeniya/Polojenie_ob_personal_i_kontrol.pdf"
+}

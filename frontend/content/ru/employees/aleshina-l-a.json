@@ -1,0 +1,39 @@
+{
+  "id": "employee-9",
+  "slug": "aleshina-l-a",
+  "fullName": "Алешина Л. А.",
+  "displayName": "Алешина Л. А.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "математики и физика",
+    "-"
+  ],
+  "experienceYears": 36,
+  "isManager": false,
+  "order": 9,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Алешина Л. А. — преподаватель",
+    "description": "Алешина Л. А., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

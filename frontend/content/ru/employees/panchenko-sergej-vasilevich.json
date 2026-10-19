@@ -1,0 +1,36 @@
+{
+  "id": "employee-manager-4",
+  "slug": "panchenko-sergej-vasilevich",
+  "fullName": "Панченко Сергей Васильевич",
+  "displayName": "Панченко Сергей Васильевич",
+  "position": "проректор, кандидат философских наук, доцент",
+  "unitIds": [],
+  "emails": [
+    "sv-panchenko@mail.ru"
+  ],
+  "phones": [
+    "8 (8617) 76 78 18",
+    "+79184930765"
+  ],
+  "photoUrl": "https://aumsu.ru/images/sovet/panchenko.jpg",
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [],
+  "education": [],
+  "qualifications": [],
+  "isManager": true,
+  "managerCategory": "rector",
+  "order": 4,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Панченко Сергей Васильевич — проректор, кандидат философских",
+    "description": "Панченко Сергей Васильевич, проректор, кандидат философских наук, доцент. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "employee-65",
+  "slug": "vanyushenko-k-a",
+  "fullName": "Ванюшенко К. А.",
+  "displayName": "Ванюшенко К. А.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее специалитет"
+  ],
+  "qualifications": [
+    "педагог профессионального обучения",
+    "-"
+  ],
+  "experienceYears": 3,
+  "isManager": false,
+  "order": 65,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Ванюшенко К. А. — преподаватель",
+    "description": "Ванюшенко К. А., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

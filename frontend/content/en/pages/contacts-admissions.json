@@ -1,0 +1,31 @@
+{
+  "id": "en-page-96",
+  "slug": "admissions",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/contacts/admissions",
+  "sectionId": "contacts",
+  "title": "Admissions office",
+  "summary": "Contacts, office hours and applications.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Admissions office: university contact information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Check current phone numbers and office hours with the relevant unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Admissions office",
+    "description": "Contacts, office hours and applications."
+  },
+  "template": "default"
+}

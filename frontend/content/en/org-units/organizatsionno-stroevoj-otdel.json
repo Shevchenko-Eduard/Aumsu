@@ -1,0 +1,39 @@
+{
+  "id": "org-26",
+  "type": "administration",
+  "slug": "organizatsionno-stroevoj-otdel",
+  "name": "Organisational and Cadet Department",
+  "shortName": "Organisational and Cadet Department",
+  "path": "/about/structure/administrations/organizatsionno-stroevoj-otdel",
+  "headTitle": "начальник отдела",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Organisational and Cadet Department is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "76-79-26 Учебный корпус №1, 1 этаж",
+  "phones": [
+    "76-79-26"
+  ],
+  "emails": [
+    "orso@nsma.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/sveden/struct/8-glavnaya-stranitsa/571-organizatsionno-stroevoj-otdel",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 26,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Organisational and Cadet Department",
+    "description": "Contacts and information about Organisational and Cadet Department."
+  },
+  "head": "Федоренко Александр Васильевич",
+  "headPost": "начальник отдела",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/ORSO.pdf"
+}

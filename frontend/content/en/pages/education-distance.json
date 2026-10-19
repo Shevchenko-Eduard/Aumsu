@@ -1,0 +1,31 @@
+{
+  "id": "en-page-59",
+  "slug": "distance",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/distance",
+  "sectionId": "education",
+  "title": "Part-time and distance learning",
+  "summary": "Part-time programmes and e-learning.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The university offers part-time programmes using electronic learning technologies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Timetables, materials and consultations are available in the learning portal."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Part-time and distance learning",
+    "description": "Part-time programmes and e-learning."
+  },
+  "template": "default"
+}

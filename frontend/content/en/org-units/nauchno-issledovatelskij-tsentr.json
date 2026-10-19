@@ -1,0 +1,39 @@
+{
+  "id": "org-31",
+  "type": "administration",
+  "slug": "nauchno-issledovatelskij-tsentr",
+  "name": "Research Centre",
+  "shortName": "Research Centre",
+  "path": "/about/structure/administrations/nauchno-issledovatelskij-tsentr",
+  "headTitle": "исполнительный директор",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Research Centre is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "76‑78‑37 УЛК Север, 3 этаж, каб. 317",
+  "phones": [
+    "76‑78‑37"
+  ],
+  "emails": [
+    "danzewitsch@rambler.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/sveden/struct/institutes/nauchno-issledovatelskij-institut",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 31,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Research Centre",
+    "description": "Contacts and information about Research Centre."
+  },
+  "head": "Данцевич Игорь Михайлович",
+  "headPost": "исполнительный директор",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/NII.pdf"
+}

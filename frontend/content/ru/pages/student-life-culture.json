@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-74",
+  "slug": "culture",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/student-life/culture",
+  "sectionId": "student-life",
+  "title": "Культура",
+  "summary": "Творческие коллективы, концерты и культурные проекты.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Культура: раздел студенческой жизни университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные анонсы, документы и контакты публикуются ответственным подразделением."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Культура",
+    "description": "Творческие коллективы, концерты и культурные проекты."
+  },
+  "template": "default"
+}

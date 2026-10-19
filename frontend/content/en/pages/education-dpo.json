@@ -1,0 +1,40 @@
+{
+  "id": "en-page-45",
+  "slug": "dpo",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/dpo",
+  "sectionId": "education",
+  "title": "Continuing education",
+  "summary": "Continuing professional programmes.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Continuing education: programmes, study conditions and documents. The full list is available in the programme catalogue."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Current programmes and study forms.",
+        "Duration and tuition.",
+        "Documents and curricula."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Open the catalogue to filter programmes by level and faculty."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Continuing education",
+    "description": "Continuing professional programmes."
+  },
+  "template": "default"
+}

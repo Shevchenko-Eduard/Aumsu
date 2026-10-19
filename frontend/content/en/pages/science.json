@@ -1,0 +1,47 @@
+{
+  "id": "en-page-60",
+  "slug": "science",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science",
+  "sectionId": "science",
+  "title": "Research",
+  "summary": "Research areas, laboratories, conferences, grants and university journals.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Research at the university covers maritime transport, shipbuilding, environmental safety, economics and law."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Key areas"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Digital navigation and intelligent transport systems.",
+        "Environmental safety and sustainable development.",
+        "Marine power plants.",
+        "Transport economics and management.",
+        "Maritime law."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The section covers laboratories, conferences, grant programmes and academic journals."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Research",
+    "description": "Research areas, laboratories, conferences, grants and university journals."
+  },
+  "template": "default"
+}

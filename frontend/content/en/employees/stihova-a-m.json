@@ -1,0 +1,48 @@
+{
+  "id": "employee-351",
+  "slug": "stihova-a-m",
+  "fullName": "Стихова А. М.",
+  "displayName": "Стихова А. М.",
+  "position": "доцент кафедры",
+  "degree": "кандидат педагогических наук",
+  "academicTitle": "доцент",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Общая и неорганическая химия",
+    "Химия",
+    "Химия",
+    "Химия",
+    "Технология обработки воды на судах",
+    "Технология обработки воды на судах",
+    "Технология использования топлива, масел и воды в СЭУ",
+    "Технология использования топлива, масел и воды в СЭУ",
+    "Химия",
+    "Общая и неорганическая химия"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "Химия",
+    "-"
+  ],
+  "experienceYears": 22,
+  "isManager": false,
+  "order": 351,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Стихова А. М. — доцент кафедры",
+    "description": "Стихова А. М., доцент кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

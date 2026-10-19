@@ -1,0 +1,46 @@
+{
+  "id": "en-page-7",
+  "slug": "academic-council",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about/academic-council",
+  "sectionId": "about",
+  "title": "Academic council",
+  "summary": "The collegial governing body: membership, meetings and decisions.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Academic Council is the collegial governing body of the university, addressing education, research and administrative matters."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Main tasks"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Approval of degree programmes and curricula.",
+        "Research and academic promotion matters.",
+        "Infrastructure development decisions.",
+        "Support for student initiatives."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Meetings follow the council’s annual plan. Minutes and decisions are published in the Documents section."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Academic council",
+    "description": "The collegial governing body: membership, meetings and decisions."
+  },
+  "template": "default"
+}

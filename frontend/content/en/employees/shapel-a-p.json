@@ -1,0 +1,39 @@
+{
+  "id": "employee-415",
+  "slug": "shapel-a-p",
+  "fullName": "Шапель А. П.",
+  "displayName": "Шапель А. П.",
+  "position": "старший преподаватель кафедры по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее - магистратура"
+  ],
+  "qualifications": [
+    "информационные системы и технологии",
+    "-"
+  ],
+  "experienceYears": 0,
+  "isManager": false,
+  "order": 415,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Шапель А. П. — старший преподаватель кафедры по совместитель",
+    "description": "Шапель А. П., старший преподаватель кафедры по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "org-7",
+  "type": "college",
+  "slug": "morskoj-kolledzh",
+  "name": "Maritime College",
+  "shortName": "Maritime College",
+  "path": "/about/structure/colleges/morskoj-kolledzh",
+  "headTitle": "Начальник колледжа",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Maritime College is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "76-79-88 Учебный корпус №1, 4 этаж, ауд.424, 416",
+  "phones": [
+    "76-79-88"
+  ],
+  "emails": [
+    "mk.aumsu@gmail.com"
+  ],
+  "siteUrl": "https://aumsu.ru/sveden/struct/fakultety/8-glavnaya-stranitsa/300-morskoj-kolledzh",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 7,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Maritime College",
+    "description": "Contacts and information about Maritime College."
+  },
+  "head": "Баталов Валентин Петрович",
+  "headPost": "Начальник колледжа",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/polojenie_o_mk.pdf"
+}

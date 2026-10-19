@@ -1,0 +1,47 @@
+{
+  "id": "en-page-5",
+  "slug": "strategy",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about/strategy",
+  "sectionId": "about",
+  "title": "Development strategy",
+  "summary": "Priorities: education quality, research, digitalisation and international partnership.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The development strategy aims to strengthen the university’s position in maritime education and research, modernise infrastructure and expand international cooperation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Priority areas"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Improving degree programmes and practical training.",
+        "Developing research schools and applied projects.",
+        "Digital transformation of learning and administration.",
+        "International academic mobility.",
+        "Creating a modern campus environment."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Progress is reviewed annually by the academic council."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Development strategy",
+    "description": "Priorities: education quality, research, digitalisation and international partnership."
+  },
+  "template": "default"
+}

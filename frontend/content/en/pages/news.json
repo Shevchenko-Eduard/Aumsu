@@ -1,0 +1,27 @@
+{
+  "id": "en-page-92",
+  "slug": "news",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/news",
+  "sectionId": "news",
+  "title": "News",
+  "summary": "University news: admissions, research, education and student life.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The latest university news: admissions, research, sport and culture."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "News",
+    "description": "University news: admissions, research, education and student life."
+  },
+  "template": "default"
+}

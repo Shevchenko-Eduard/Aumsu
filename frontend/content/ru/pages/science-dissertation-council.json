@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-66",
+  "slug": "dissertation-council",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/dissertation-council",
+  "sectionId": "science",
+  "title": "Диссертационный совет",
+  "summary": "Состав, документы и защиты диссертаций.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Диссертационный совет: информация о научной деятельности университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные сведения и документы публикуются ответственным подразделением."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Диссертационный совет",
+    "description": "Состав, документы и защиты диссертаций."
+  },
+  "template": "default"
+}

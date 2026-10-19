@@ -1,0 +1,27 @@
+{
+  "id": "en-page-116",
+  "slug": "catering",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/catering",
+  "sectionId": "sveden",
+  "title": "Catering",
+  "summary": "Catering: official information about Admiral Ushakov State Maritime University.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Catering: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Catering",
+    "description": "Catering: official information about Admiral Ushakov State Maritime University."
+  },
+  "template": "sveden"
+}

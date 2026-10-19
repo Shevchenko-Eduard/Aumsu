@@ -1,0 +1,132 @@
+[
+  {
+    "id": "faq-1",
+    "question": "How do I apply?",
+    "answer": [
+      {
+        "type": "paragraph",
+        "text": "The main route is the applicant portal. You can also apply in person at the admissions office or by post. Check the document list and entrance examinations before applying."
+      }
+    ],
+    "category": "Admissions",
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "id": "faq-2",
+    "question": "What are the 2026 application deadlines?",
+    "answer": [
+      {
+        "type": "paragraph",
+        "text": "Applications open on 20 June. Closing dates depend on the study level and form. Current dates are published in Admissions → Dates."
+      }
+    ],
+    "category": "Admissions",
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": "faq-3",
+    "question": "Can I apply for several programmes?",
+    "answer": [
+      {
+        "type": "paragraph",
+        "text": "Yes, where permitted by the admission rules. You may compete for several programmes and study forms within the established limits."
+      }
+    ],
+    "category": "Admissions",
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": "faq-4",
+    "question": "Are individual achievements considered?",
+    "answer": [
+      {
+        "type": "paragraph",
+        "text": "Yes. Olympiad winners, athletes and volunteers may receive additional points. The full list and confirmation rules are published in the admission rules."
+      }
+    ],
+    "category": "Admissions",
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": "faq-5",
+    "question": "Is accommodation available?",
+    "answer": [
+      {
+        "type": "paragraph",
+        "text": "Yes, the university provides dormitory accommodation. See Admissions → Dormitory for prices, check-in rules and documents."
+      }
+    ],
+    "category": "Admissions",
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": "faq-6",
+    "question": "How can I find the tuition fee?",
+    "answer": [
+      {
+        "type": "paragraph",
+        "text": "Tuition depends on the level, programme and study form. Current documents are published in the Tuition section."
+      }
+    ],
+    "category": "Admissions",
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": "faq-7",
+    "question": "Can international citizens apply?",
+    "answer": [
+      {
+        "type": "paragraph",
+        "text": "Yes. Separate rules and deadlines apply to international applicants. See Admissions → International and the International section."
+      }
+    ],
+    "category": "Admissions",
+    "order": 7,
+    "status": "published"
+  },
+  {
+    "id": "faq-8",
+    "question": "What entrance examinations will I take?",
+    "answer": [
+      {
+        "type": "paragraph",
+        "text": "The list depends on the programme. School leavers usually submit Unified State Exam results; vocational and university graduates may take internal exams."
+      }
+    ],
+    "category": "Admissions",
+    "order": 8,
+    "status": "published"
+  },
+  {
+    "id": "faq-9",
+    "question": "Where is the timetable?",
+    "answer": [
+      {
+        "type": "paragraph",
+        "text": "The current timetable is published in Education → Timetable and in the student portal."
+      }
+    ],
+    "category": "Admissions",
+    "order": 9,
+    "status": "published"
+  },
+  {
+    "id": "faq-10",
+    "question": "How do I contact the admissions office?",
+    "answer": [
+      {
+        "type": "paragraph",
+        "text": "Phone: +7 (8617) 71-75-25, email: pcom@nsma.ru. Address: 93 Prospekt Lenina, Novorossiysk."
+      }
+    ],
+    "category": "Admissions",
+    "order": 10,
+    "status": "published"
+  }
+]

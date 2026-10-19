@@ -1,0 +1,27 @@
+{
+  "id": "en-page-109",
+  "slug": "employees",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/employees",
+  "sectionId": "sveden",
+  "title": "Teaching staff",
+  "summary": "Teaching staff: official information about Admiral Ushakov State Maritime University.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Teaching staff: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Teaching staff",
+    "description": "Teaching staff: official information about Admiral Ushakov State Maritime University."
+  },
+  "template": "sveden"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "employee-288",
+  "slug": "pataj-m-m",
+  "fullName": "Патай М. М.",
+  "displayName": "Патай М. М.",
+  "position": "старший преподаватель кафедры по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "финансы и кредит; юриспруденция",
+    "-"
+  ],
+  "experienceYears": 9,
+  "isManager": false,
+  "order": 288,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Патай М. М. — старший преподаватель кафедры по совместительс",
+    "description": "Патай М. М., старший преподаватель кафедры по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

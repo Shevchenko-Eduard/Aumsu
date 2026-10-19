@@ -1,0 +1,31 @@
+{
+  "id": "en-page-54",
+  "slug": "structure",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/library/structure",
+  "sectionId": "education",
+  "title": "Library structure",
+  "summary": "Library departments and reading rooms.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Library structure: university library information."
+    },
+    {
+      "type": "paragraph",
+      "text": "For current details, contact the library staff or the information desk."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Library structure",
+    "description": "Library departments and reading rooms."
+  },
+  "template": "default"
+}

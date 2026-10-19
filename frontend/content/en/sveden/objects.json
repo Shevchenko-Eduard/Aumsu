@@ -1,0 +1,67 @@
+{
+  "id": "sveden-objects",
+  "slug": "objects",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/objects",
+  "sectionId": "sveden",
+  "title": "Facilities and equipment",
+  "summary": "Facilities and equipment: official information.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Facilities and equipment: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Facilities and equipment — official information",
+    "description": "Facilities and equipment: official information about the university."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "objects",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Full name",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Short name",
+        "value": "Admiral Ushakov State Maritime University",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "address",
+        "label": "Campus address",
+        "value": "93 Prospekt Lenina, Novorossiysk, Krasnodar Krai, 353924, Russia",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "amenityFeature",
+        "label": "Facilities",
+        "value": [
+          "Training laboratories",
+          "Library and reading rooms",
+          "Sports facilities",
+          "Dormitory"
+        ],
+        "type": "list",
+        "required": true
+      }
+    ],
+    "tables": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "employee-195",
+  "slug": "kravchenko-n-a",
+  "fullName": "Кравченко Н. А.",
+  "displayName": "Кравченко Н. А.",
+  "position": "старший преподаватель цикла",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Производственная практика",
+    "Научно-исследовательская работа на борту судна",
+    "Судовая электроника и силовая преобразовательная техника"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "эксплуатация электрооборудования и автоматики судов",
+    "-"
+  ],
+  "experienceYears": 17,
+  "isManager": false,
+  "order": 195,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Кравченко Н. А. — старший преподаватель цикла",
+    "description": "Кравченко Н. А., старший преподаватель цикла. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

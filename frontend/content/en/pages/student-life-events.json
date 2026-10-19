@@ -1,0 +1,31 @@
+{
+  "id": "en-page-73",
+  "slug": "events",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/student-life/events",
+  "sectionId": "student-life",
+  "title": "Events",
+  "summary": "University events calendar.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Events: student life section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current announcements, documents and contacts are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Events",
+    "description": "University events calendar."
+  },
+  "template": "default"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "en-page-104",
+  "slug": "struct",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/struct",
+  "sectionId": "sveden",
+  "title": "Structure and governance",
+  "summary": "Structure and governance: official information about Admiral Ushakov State Maritime University.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Structure and governance: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Structure and governance",
+    "description": "Structure and governance: official information about Admiral Ushakov State Maritime University."
+  },
+  "template": "sveden"
+}

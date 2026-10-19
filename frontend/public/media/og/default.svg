@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06182a"/>
+      <stop offset="0.62" stop-color="#0f3459"/>
+      <stop offset="1" stop-color="#175286"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.18" r="0.55">
+      <stop offset="0" stop-color="#c58a1a" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#c58a1a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <g opacity="0.09" stroke="#ffffff">
+    <path d="M0 120h1200M0 240h1200M0 360h1200M0 480h1200"/>
+    <path d="M120 0v630M240 0v630M360 0v630M480 0v630M600 0v630M720 0v630M840 0v630M960 0v630M1080 0v630"/>
+  </g>
+  <circle cx="965" cy="315" r="205" fill="none" stroke="#ffffff" stroke-opacity="0.16"/>
+  <circle cx="965" cy="315" r="255" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-dasharray="8 18"/>
+  <image href="/media/logo.svg" x="870" y="220" width="190" height="190" opacity="0.96"/>
+  <text x="96" y="205" fill="#d9a23a" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="5">ГОСУДАРСТВЕННЫЙ МОРСКОЙ УНИВЕРСИТЕТ</text>
+  <text x="96" y="305" fill="#ffffff" font-family="Georgia, serif" font-size="62" font-weight="700">ГМУ им. адм.</text>
+  <text x="96" y="378" fill="#ffffff" font-family="Georgia, serif" font-size="62" font-weight="700">Ф.Ф. Ушакова</text>
+  <text x="96" y="455" fill="#bcd5e9" font-family="Arial, sans-serif" font-size="28">Морское образование, которое ведёт к цели</text>
+  <rect x="96" y="500" width="96" height="4" fill="#c58a1a"/>
+  <text x="96" y="552" fill="#8faec8" font-family="Arial, sans-serif" font-size="20">aumsu.ru · Новороссийск · с 1975 года</text>
+</svg>

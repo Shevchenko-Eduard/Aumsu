@@ -1,0 +1,43 @@
+{
+  "id": "employee-135",
+  "slug": "elsakova-a-v",
+  "fullName": "Елсакова А. В.",
+  "displayName": "Елсакова А. В.",
+  "position": "старший преподаватель кафедры по совместительству, преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Языки программирования",
+    "Информатика",
+    "Информатика",
+    "Информатика",
+    "Информатика"
+  ],
+  "education": [
+    "высшее, специалитет, информационные системы и технологии, инженер"
+  ],
+  "qualifications": [
+    "информационные системы и технологии",
+    "-"
+  ],
+  "experienceYears": 12,
+  "isManager": false,
+  "order": 135,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Елсакова А. В. — старший преподаватель кафедры по совместите",
+    "description": "Елсакова А. В., старший преподаватель кафедры по совместительству, преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

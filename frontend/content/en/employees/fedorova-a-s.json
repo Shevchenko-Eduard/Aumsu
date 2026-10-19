@@ -1,0 +1,39 @@
+{
+  "id": "employee-386",
+  "slug": "fedorova-a-s",
+  "fullName": "Федорова А. С.",
+  "displayName": "Федорова А. С.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее специалитет"
+  ],
+  "qualifications": [
+    "география",
+    "-"
+  ],
+  "experienceYears": 6,
+  "isManager": false,
+  "order": 386,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Федорова А. С. — преподаватель",
+    "description": "Федорова А. С., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

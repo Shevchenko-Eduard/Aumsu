@@ -1,0 +1,31 @@
+{
+  "id": "en-page-90",
+  "slug": "staff",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/international/staff",
+  "sectionId": "international",
+  "title": "For staff",
+  "summary": "Opportunities for teachers and staff.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "For staff: information about the university’s international activities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contacts and current documents are published by the International Office."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "For staff",
+    "description": "Opportunities for teachers and staff."
+  },
+  "template": "default"
+}

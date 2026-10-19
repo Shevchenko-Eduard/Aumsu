@@ -1,0 +1,39 @@
+{
+  "id": "employee-78",
+  "slug": "galyan-z-a",
+  "fullName": "Галян З. А.",
+  "displayName": "Галян З. А.",
+  "position": "ассистент кафедры",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее магистратура"
+  ],
+  "qualifications": [
+    "экономика",
+    "-"
+  ],
+  "experienceYears": 2,
+  "isManager": false,
+  "order": 78,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Галян З. А. — ассистент кафедры",
+    "description": "Галян З. А., ассистент кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

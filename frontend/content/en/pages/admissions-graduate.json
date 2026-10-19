@@ -1,0 +1,48 @@
+{
+  "id": "en-page-26",
+  "slug": "graduate",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/admissions/graduate",
+  "sectionId": "admissions",
+  "title": "Postgraduate study",
+  "summary": "Postgraduate admission: fields, exams, deadlines and supervisors.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Postgraduate study: current deadlines, entrance examinations and places are published by the admissions office."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Key information"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Examinations depend on the chosen programme.",
+        "Individual achievements are considered under the admission rules.",
+        "Documents can be submitted through the applicant portal.",
+        "Tuition is published separately for each programme."
+      ]
+    },
+    {
+      "type": "callout",
+      "tone": "info",
+      "title": "Admissions office",
+      "text": "Phone: +7 (8617) 71-75-25. Email: pcom@nsma.ru."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Postgraduate study",
+    "description": "Postgraduate admission: fields, exams, deadlines and supervisors."
+  },
+  "template": "default"
+}

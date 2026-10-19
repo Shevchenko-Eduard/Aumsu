@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-52",
+  "slug": "rules",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/library/rules",
+  "sectionId": "education",
+  "title": "Правила пользования",
+  "summary": "Порядок записи, выдачи и возврата изданий.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Правила пользования: информация библиотеки университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные сведения уточняйте у сотрудников библиотеки или на информационной стойке."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Правила пользования",
+    "description": "Порядок записи, выдачи и возврата изданий."
+  },
+  "template": "default"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "employee-156",
+  "slug": "ignatenko-a-v",
+  "fullName": "Игнатенко А. В.",
+  "displayName": "Игнатенко А. В.",
+  "position": "старший преподаватель кафедры по совместительству, доцент, начальник цикла, ио начальника судомеханического факультета",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "эксплуатация электрооборудования и автоматика судов",
+    "-"
+  ],
+  "experienceYears": 20,
+  "isManager": false,
+  "order": 156,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Игнатенко А. В. — старший преподаватель кафедры по совместит",
+    "description": "Игнатенко А. В., старший преподаватель кафедры по совместительству, доцент, начальник цикла, ио начальника судомеханического факультета. Контакты и сведения о с"
+  }
+}

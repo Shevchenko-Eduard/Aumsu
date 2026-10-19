@@ -1,0 +1,40 @@
+{
+  "id": "employee-143",
+  "slug": "zhukovets-o-yu",
+  "fullName": "Жуковец О. Ю.",
+  "displayName": "Жуковец О. Ю.",
+  "position": "доцент кафедры",
+  "degree": "кандидат философских наук",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Культурология",
+    "Культурология"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "культурология",
+    "-"
+  ],
+  "experienceYears": 24,
+  "isManager": false,
+  "order": 143,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Жуковец О. Ю. — доцент кафедры",
+    "description": "Жуковец О. Ю., доцент кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

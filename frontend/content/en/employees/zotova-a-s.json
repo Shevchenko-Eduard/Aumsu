@@ -1,0 +1,39 @@
+{
+  "id": "employee-149",
+  "slug": "zotova-a-s",
+  "fullName": "Зотова А. С.",
+  "displayName": "Зотова А. С.",
+  "position": "преподаватель по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "сестринское дело",
+    "-"
+  ],
+  "experienceYears": 0,
+  "isManager": false,
+  "order": 149,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Зотова А. С. — преподаватель по совместительству",
+    "description": "Зотова А. С., преподаватель по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

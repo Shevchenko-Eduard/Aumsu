@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-55",
+  "slug": "hours",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/library/hours",
+  "sectionId": "education",
+  "title": "Часы работы",
+  "summary": "Режим работы библиотеки и читальных залов.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Часы работы: информация библиотеки университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные сведения уточняйте у сотрудников библиотеки или на информационной стойке."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Часы работы",
+    "description": "Режим работы библиотеки и читальных залов."
+  },
+  "template": "default"
+}

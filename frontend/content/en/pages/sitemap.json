@@ -1,0 +1,27 @@
+{
+  "id": "en-page-101",
+  "slug": "sitemap",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sitemap",
+  "sectionId": "about",
+  "title": "Site map",
+  "summary": "A complete list of website sections and pages.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The site map helps you find the section you need. Main sections are available in the menu; the full list is below."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Site map",
+    "description": "A complete list of website sections and pages."
+  },
+  "template": "default"
+}

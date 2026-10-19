@@ -1,0 +1,39 @@
+{
+  "id": "employee-66",
+  "slug": "vasagan-i-yu",
+  "fullName": "Васаган И. Ю.",
+  "displayName": "Васаган И. Ю.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее бакалавриат"
+  ],
+  "qualifications": [
+    "педагогическое образование",
+    "-"
+  ],
+  "experienceYears": 5,
+  "isManager": false,
+  "order": 66,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Васаган И. Ю. — преподаватель",
+    "description": "Васаган И. Ю., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

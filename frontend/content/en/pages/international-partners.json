@@ -1,0 +1,31 @@
+{
+  "id": "en-page-87",
+  "slug": "partners",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/international/partners",
+  "sectionId": "international",
+  "title": "Partners",
+  "summary": "Partner universities and organisations.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Partners: information about the university’s international activities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contacts and current documents are published by the International Office."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Partners",
+    "description": "Partner universities and organisations."
+  },
+  "template": "default"
+}

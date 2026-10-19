@@ -1,0 +1,47 @@
+{
+  "id": "employee-129",
+  "slug": "dudnik-v-v",
+  "fullName": "Дудник В. В.",
+  "displayName": "Дудник В. В.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Иностранный язык",
+    "Иностранный язык",
+    "Иностранный язык",
+    "Иностранный язык в профессиональной деятельности",
+    "Морской английский язык",
+    "Иностранный язык",
+    "Иностранный язык",
+    "Иностранный язык",
+    "Иностранный язык"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "филология",
+    "-"
+  ],
+  "experienceYears": 16,
+  "isManager": false,
+  "order": 129,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Дудник В. В. — преподаватель",
+    "description": "Дудник В. В., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

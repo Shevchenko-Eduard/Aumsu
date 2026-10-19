@@ -1,0 +1,27 @@
+{
+  "id": "en-page-39",
+  "slug": "programs",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/programs",
+  "sectionId": "education",
+  "title": "Programme catalogue",
+  "summary": "All university programmes with filters by level, study form and faculty.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Select a programme to see its code, study form and duration, places, tuition and entrance examinations."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Programme catalogue",
+    "description": "All university programmes with filters by level, study form and faculty."
+  },
+  "template": "catalog"
+}

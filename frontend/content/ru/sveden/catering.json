@@ -1,0 +1,55 @@
+{
+  "id": "sveden-catering",
+  "slug": "catering",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/catering",
+  "sectionId": "sveden",
+  "title": "Питание",
+  "summary": "Питание: официальные сведения.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Питание: официальные сведения об образовательной организации."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Питание — сведения",
+    "description": "Питание: официальные сведения университета."
+  },
+  "template": "sveden",
+  "sveden": {
+    "section": "catering",
+    "itemtype": "https://schema.org/EducationalOrganization",
+    "fields": [
+      {
+        "itemprop": "fullName",
+        "label": "Полное наименование",
+        "value": "Федеральное государственное бюджетное образовательное учреждение высшего образования «Государственный морской университет имени адмирала Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "shortName",
+        "label": "Сокращённое наименование",
+        "value": "ФГБОУ ВО «ГМУ им. адм. Ф.Ф. Ушакова».",
+        "type": "text",
+        "required": true
+      },
+      {
+        "itemprop": "catering",
+        "label": "Питание",
+        "value": "На территории кампуса работают столовые и буфеты.",
+        "type": "text",
+        "required": true
+      }
+    ],
+    "tables": []
+  }
+}

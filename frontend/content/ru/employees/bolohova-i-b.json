@@ -1,0 +1,39 @@
+{
+  "id": "employee-48",
+  "slug": "bolohova-i-b",
+  "fullName": "Болохова И. Б.",
+  "displayName": "Болохова И. Б.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "английский и немецкие языки",
+    "-"
+  ],
+  "experienceYears": 38,
+  "isManager": false,
+  "order": 48,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Болохова И. Б. — преподаватель",
+    "description": "Болохова И. Б., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

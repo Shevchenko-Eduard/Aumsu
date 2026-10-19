@@ -1,0 +1,45 @@
+{
+  "id": "en-page-11",
+  "slug": "projects",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about/projects",
+  "sectionId": "about",
+  "title": "University projects",
+  "summary": "Navigation School, Big University and other strategic projects.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The university runs projects that develop maritime education, research and the urban environment."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Navigation School"
+    },
+    {
+      "type": "paragraph",
+      "text": "The project supports early career guidance for school students and preparation for maritime study."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Big University"
+    },
+    {
+      "type": "paragraph",
+      "text": "The initiative brings together educational, research and infrastructure projects with partners."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "University projects",
+    "description": "Navigation School, Big University and other strategic projects."
+  },
+  "template": "default"
+}

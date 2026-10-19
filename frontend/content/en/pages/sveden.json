@@ -1,0 +1,27 @@
+{
+  "id": "en-page-102",
+  "slug": "sveden",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden",
+  "sectionId": "sveden",
+  "title": "Information about the educational organisation",
+  "summary": "Mandatory information about Admiral Ushakov State Maritime University.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "This section contains mandatory information about the educational organisation in accordance with Russian legislation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Information about the educational organisation",
+    "description": "Mandatory information about Admiral Ushakov State Maritime University."
+  },
+  "template": "default"
+}

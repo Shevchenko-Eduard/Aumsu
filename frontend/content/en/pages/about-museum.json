@@ -1,0 +1,31 @@
+{
+  "id": "en-page-10",
+  "slug": "museum",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about/museum",
+  "sectionId": "about",
+  "title": "University museum",
+  "summary": "University history, exhibits, photographs and archival materials.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The museum preserves the university’s history through documents, photographs, awards and objects related to maritime traditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exhibition covers the founding of the school, the development of the university and the achievements of its graduates."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "University museum",
+    "description": "University history, exhibits, photographs and archival materials."
+  },
+  "template": "default"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ru-page-101",
+  "slug": "sitemap",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sitemap",
+  "sectionId": "about",
+  "title": "Карта сайта",
+  "summary": "Полный перечень разделов и страниц сайта.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Карта сайта помогает быстро найти нужный раздел. Основные разделы доступны в меню, а полный список страниц — ниже."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Карта сайта",
+    "description": "Полный перечень разделов и страниц сайта."
+  },
+  "template": "default"
+}

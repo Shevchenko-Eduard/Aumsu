@@ -1,0 +1,40 @@
+{
+  "id": "employee-313",
+  "slug": "ptushkin-s-l",
+  "fullName": "Птушкин С. Л.",
+  "displayName": "Птушкин С. Л.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Основы безопасности жизнедеятельности",
+    "Основы безопасности жизнедеятельности"
+  ],
+  "education": [
+    "высшее бакалавриат"
+  ],
+  "qualifications": [
+    "юриспруденция",
+    "-"
+  ],
+  "experienceYears": 4,
+  "isManager": false,
+  "order": 313,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Птушкин С. Л. — преподаватель",
+    "description": "Птушкин С. Л., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

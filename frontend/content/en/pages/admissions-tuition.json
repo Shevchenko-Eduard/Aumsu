@@ -1,0 +1,64 @@
+{
+  "id": "en-page-33",
+  "slug": "tuition",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/admissions/tuition",
+  "sectionId": "admissions",
+  "title": "Tuition",
+  "summary": "Tuition by level, programme and study form.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Tuition depends on the study level, programme and form. Current documents are published by the admissions office."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Level",
+        "Full-time",
+        "Part-time"
+      ],
+      "rows": [
+        [
+          "Bachelor / specialist",
+          "from RUB 142,000 per year",
+          "from RUB 58,000 per year"
+        ],
+        [
+          "Master",
+          "from RUB 155,000 per year",
+          "from RUB 65,000 per year"
+        ],
+        [
+          "Vocational",
+          "from RUB 98,000 per year",
+          "—"
+        ],
+        [
+          "Postgraduate",
+          "from RUB 155,000 per year",
+          "—"
+        ]
+      ],
+      "caption": "Indicative tuition, 2026/2027 academic year"
+    },
+    {
+      "type": "callout",
+      "tone": "warning",
+      "title": "Important",
+      "text": "The table is indicative. Exact tuition is stated in official documents and on programme cards."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Tuition",
+    "description": "Tuition by level, programme and study form."
+  },
+  "template": "default"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "employee-259",
+  "slug": "mukonina-s-s",
+  "fullName": "Муконина С. С.",
+  "displayName": "Муконина С. С.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "прикладная математика",
+    "-"
+  ],
+  "experienceYears": 11,
+  "isManager": false,
+  "order": 259,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Муконина С. С. — преподаватель",
+    "description": "Муконина С. С., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

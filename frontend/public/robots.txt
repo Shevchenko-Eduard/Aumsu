@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /search
+Disallow: /en/search
+Disallow: /news/archive
+Disallow: /en/news/archive
+Sitemap: https://aumsu.ru/sitemap.xml

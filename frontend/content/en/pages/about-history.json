@@ -1,0 +1,47 @@
+{
+  "id": "en-page-3",
+  "slug": "history",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about/history",
+  "sectionId": "about",
+  "title": "History",
+  "summary": "From the Novorossiysk Higher Engineering Maritime School to a state maritime university.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The university’s history began in 1975 with the founding of the Novorossiysk Higher Engineering Maritime School. Over the decades it has become a major educational and research centre for the maritime industry."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Key dates"
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "1975 — founding of the Novorossiysk Higher Engineering Maritime School.",
+        "1990s — transformation into the State Maritime Academy.",
+        "2000s — university status and expansion of degree programmes.",
+        "2010s — international cooperation and simulator facilities.",
+        "2020s — digitalisation of education and research."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Today the university bears the name of Admiral Fyodor Ushakov, whose traditions of professionalism, responsibility and respect for the sea shape the institution."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "History",
+    "description": "From the Novorossiysk Higher Engineering Maritime School to a state maritime university."
+  },
+  "template": "default"
+}

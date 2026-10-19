@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Карта — ГМУ им. адм. Ф.Ф. Ушакова</title>
+    <link rel="stylesheet" href="/vendor/leaflet/leaflet.css" />
+    <style>
+      :root {
+        --pin: #c58a1a;
+        --navy: #0b2a4a;
+        --text: #14202b;
+        --muted: #5a6b7b;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        background: #eef3f7;
+        color: var(--text);
+        font-family: "PT Sans", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+      }
+
+      #map {
+        width: 100%;
+        height: 100%;
+        min-height: 260px;
+      }
+
+      .university-pin-wrap {
+        background: transparent;
+        border: 0;
+      }
+
+      .university-pin {
+        position: relative;
+        width: 38px;
+        height: 38px;
+        border: 3px solid #fff;
+        border-radius: 50% 50% 50% 4px;
+        background: var(--pin);
+        box-shadow: 0 8px 22px rgba(6, 24, 42, 0.28);
+        transform: rotate(-45deg);
+      }
+
+      .university-pin span {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background: #fff;
+        transform: translate(-50%, -50%);
+      }
+
+      .leaflet-popup-content-wrapper {
+        border-radius: 10px;
+        box-shadow: 0 14px 36px rgba(6, 24, 42, 0.2);
+      }
+
+      .leaflet-popup-content {
+        margin: 14px 16px;
+        line-height: 1.45;
+      }
+
+      .map-popup__title {
+        display: block;
+        margin-bottom: 3px;
+        color: var(--navy);
+        font-size: 14px;
+        font-weight: 700;
+      }
+
+      .map-popup__address {
+        display: block;
+        color: var(--muted);
+        font-size: 12px;
+      }
+
+      .map-popup__link {
+        display: inline-block;
+        margin-top: 8px;
+        color: var(--navy);
+        font-size: 12px;
+        font-weight: 700;
+        text-decoration: underline;
+        text-underline-offset: 2px;
+      }
+
+      .leaflet-tile-pane {
+        filter: grayscale(0.82) brightness(1.08) contrast(0.92) saturate(0.7);
+      }
+
+      .leaflet-control-zoom a {
+        color: var(--navy) !important;
+      }
+
+      .leaflet-control-attribution {
+        font-size: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map" role="application" aria-label="Карта расположения университета"></div>
+
+    <script src="/vendor/leaflet/leaflet.js"></script>
+    <script>
+      ;(() => {
+        const params = new URLSearchParams(window.location.search)
+        const isEn = params.get('lang') === 'en'
+        document.documentElement.lang = isEn ? 'en' : 'ru'
+
+        const labels = {
+          title: isEn ? 'Admiral Ushakov Maritime State University' : 'ГМУ им. адм. Ф.Ф. Ушакова',
+          address: isEn
+            ? '93 Prospekt Lenina, Novorossiysk, Krasnodar Krai'
+            : 'проспект Ленина, 93, Новороссийск',
+          link: isEn ? 'Open in Yandex Maps' : 'Открыть в Яндекс Картах',
+          map: isEn ? 'Map of the university location' : 'Карта расположения университета'
+        }
+
+        const mapElement = document.getElementById('map')
+        mapElement.setAttribute('aria-label', labels.map)
+
+        const coordinates = [44.6838601, 37.7927716]
+        const map = L.map(mapElement, {
+          center: coordinates,
+          zoom: 16,
+          scrollWheelZoom: false,
+          zoomControl: false,
+          attributionControl: false
+        })
+
+        L.control.zoom({ position: 'topright' }).addTo(map)
+
+        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution:
+            '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors',
+          maxZoom: 19
+        }).addTo(map)
+
+        const icon = L.divIcon({
+          className: 'university-pin-wrap',
+          html: '<div class="university-pin"><span></span></div>',
+          iconSize: [38, 38],
+          iconAnchor: [19, 38],
+          popupAnchor: [0, -38]
+        })
+
+        const marker = L.marker(coordinates, {
+          icon,
+          title: labels.title,
+          alt: labels.title,
+          keyboard: true
+        }).addTo(map)
+
+        marker.bindPopup(
+          '<span class="map-popup__title">' +
+            labels.title +
+            '</span><span class="map-popup__address">' +
+            labels.address +
+            '</span><a class="map-popup__link" href="https://yandex.ru/maps/?text=%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%2C%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0%2C%2093" target="_blank" rel="noopener noreferrer">' +
+            labels.link +
+            '</a>'
+        )
+
+        setTimeout(() => map.invalidateSize(), 100)
+      })()
+    </script>
+  </body>
+</html>

@@ -1,0 +1,39 @@
+{
+  "id": "employee-215",
+  "slug": "lebedeva-n-s",
+  "fullName": "Лебедева Н. С.",
+  "displayName": "Лебедева Н. С.",
+  "position": "старший преподаватель по совместительству, преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее бакалавриат"
+  ],
+  "qualifications": [
+    "педагогическое образование",
+    "-"
+  ],
+  "experienceYears": 2,
+  "isManager": false,
+  "order": 215,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Лебедева Н. С. — старший преподаватель по совместительству, ",
+    "description": "Лебедева Н. С., старший преподаватель по совместительству, преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

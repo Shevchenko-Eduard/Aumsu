@@ -1,0 +1,38 @@
+{
+  "id": "org-7",
+  "type": "college",
+  "slug": "morskoj-kolledzh",
+  "name": "Морской колледж",
+  "path": "/about/structure/colleges/morskoj-kolledzh",
+  "headTitle": "Начальник колледжа",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Морской колледж — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76-79-88 Учебный корпус №1, 4 этаж, ауд.424, 416",
+  "phones": [
+    "76-79-88"
+  ],
+  "emails": [
+    "mk.aumsu@gmail.com"
+  ],
+  "siteUrl": "https://aumsu.ru/sveden/struct/fakultety/8-glavnaya-stranitsa/300-morskoj-kolledzh",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 7,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Морской колледж",
+    "description": "Морской колледж: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Баталов Валентин Петрович",
+  "headPost": "Начальник колледжа",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/polojenie_o_mk.pdf"
+}

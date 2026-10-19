@@ -1,0 +1,39 @@
+{
+  "id": "employee-224",
+  "slug": "lopatin-a-s",
+  "fullName": "Лопатин А. С.",
+  "displayName": "Лопатин А. С.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Прикладное программирование"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "прикладная математики и информатика",
+    "-"
+  ],
+  "experienceYears": 3,
+  "isManager": false,
+  "order": 224,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Лопатин А. С. — преподаватель",
+    "description": "Лопатин А. С., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

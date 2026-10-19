@@ -1,0 +1,31 @@
+{
+  "id": "en-page-66",
+  "slug": "dissertation-council",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/dissertation-council",
+  "sectionId": "science",
+  "title": "Dissertation council",
+  "summary": "Membership, documents and thesis defences.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Dissertation council: information about research at the university."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current information and documents are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Dissertation council",
+    "description": "Membership, documents and thesis defences."
+  },
+  "template": "default"
+}

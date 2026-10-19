@@ -1,0 +1,73 @@
+[
+  {
+    "key": "lkabit",
+    "title": "Личный кабинет абитуриента",
+    "titleEn": "Applicant portal",
+    "url": "https://lkabit.aumsu.ru:98/",
+    "external": true,
+    "embed": false
+  },
+  {
+    "key": "lkstudent",
+    "title": "Личный кабинет студента",
+    "titleEn": "Student portal",
+    "url": "https://lk.aumsu.ru/",
+    "external": true,
+    "embed": false
+  },
+  {
+    "key": "portal",
+    "title": "Образовательный портал",
+    "titleEn": "Learning portal",
+    "url": "https://edu.aumsu.ru/",
+    "external": true,
+    "embed": false
+  },
+  {
+    "key": "schedule",
+    "title": "Расписание занятий",
+    "titleEn": "Timetable",
+    "url": "https://conference.aumsu.ru/",
+    "external": true,
+    "embed": true,
+    "embedKind": "iframe",
+    "fallbackUrl": "https://conference.aumsu.ru/"
+  },
+  {
+    "key": "payment",
+    "title": "Оплата обучения",
+    "titleEn": "Tuition payment",
+    "url": "https://pay.aumsu.ru/",
+    "external": true,
+    "embed": false
+  },
+  {
+    "key": "library",
+    "title": "Электронная библиотека",
+    "titleEn": "Digital library",
+    "url": "https://library.aumsu.ru/",
+    "external": true,
+    "embed": false
+  },
+  {
+    "key": "tour",
+    "title": "Виртуальный тур",
+    "titleEn": "Virtual tour",
+    "url": "https://aumsu.ru/",
+    "external": true,
+    "embed": true,
+    "embedKind": "iframe",
+    "fallbackUrl": "https://aumsu.ru/"
+  },
+  {
+    "key": "map",
+    "title": "Карта и схема проезда",
+    "titleEn": "Map and directions",
+    "url": "https://yandex.ru/maps/?text=Новороссийск%2C%20проспект%20Ленина%2C%2093",
+    "external": true,
+    "embed": true,
+    "embedKind": "iframe",
+    "embedUrl": "/map.html",
+    "fallbackUrl": "https://yandex.ru/maps/?text=Новороссийск%2C%20проспект%20Ленина%2C%2093"
+  }
+]

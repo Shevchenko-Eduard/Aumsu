@@ -1,0 +1,40 @@
+{
+  "id": "journal-2",
+  "slug": "morskie-tehnologii",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "title": "Maritime Technologies and Sustainable Development",
+  "issn": "2687-0002",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "The journal focuses on digital shipping, intelligent transport systems and sustainable development."
+    },
+    {
+      "type": "paragraph",
+      "text": "It publishes applied research results and reviews."
+    }
+  ],
+  "editorialBoard": [],
+  "rulesDocumentIds": [],
+  "ethicsDocumentIds": [],
+  "issues": [
+    {
+      "year": 2026,
+      "number": "1",
+      "title": "Выпуск 1 (2026)"
+    },
+    {
+      "year": 2025,
+      "number": "2",
+      "title": "Выпуск 2 (2025)"
+    }
+  ],
+  "seo": {
+    "title": "Maritime Technologies and Sustainable Development",
+    "description": "The journal focuses on digital shipping, intelligent transport systems and sustainable development."
+  }
+}

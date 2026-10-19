@@ -1,0 +1,31 @@
+{
+  "id": "news-6",
+  "slug": "regata-ushakovka",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-09-08T08:00:00.000Z",
+  "publishedAt": "2026-09-08T08:00:00.000Z",
+  "title": "Sailing regatta brings together cadets and alumni",
+  "summary": "The traditional regatta took place in Novorossiysk waters with crews from the university and alumni of different years.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The university’s traditional sailing regatta took place in the waters of Novorossiysk, with cadets, teachers and alumni competing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Winners received cups and commemorative medals. The next regatta is planned for spring 2027."
+    }
+  ],
+  "categoryIds": [
+    "student-life"
+  ],
+  "tagIds": [],
+  "audiences": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Sailing regatta brings together cadets and alumni",
+    "description": "The traditional regatta took place in Novorossiysk waters with crews from the university and alumni of different years."
+  }
+}

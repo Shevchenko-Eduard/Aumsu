@@ -1,0 +1,39 @@
+{
+  "id": "employee-301",
+  "slug": "ponomareva-s-yu",
+  "fullName": "Пономарева С. Ю.",
+  "displayName": "Пономарева С. Ю.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "английский и немецкие языки",
+    "-"
+  ],
+  "experienceYears": 26,
+  "isManager": false,
+  "order": 301,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Пономарева С. Ю. — преподаватель",
+    "description": "Пономарева С. Ю., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

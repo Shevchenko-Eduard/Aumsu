@@ -1,0 +1,27 @@
+{
+  "id": "en-page-94",
+  "slug": "video",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/news/video",
+  "sectionId": "news",
+  "title": "Video",
+  "summary": "Video materials about university life.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Videos about university life, events and study programmes."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Video",
+    "description": "Video materials about university life."
+  },
+  "template": "default"
+}

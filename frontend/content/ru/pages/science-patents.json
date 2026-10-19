@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-69",
+  "slug": "patents",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/science/patents",
+  "sectionId": "science",
+  "title": "Патентное обеспечение",
+  "summary": "Результаты интеллектуальной деятельности.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Патентное обеспечение: информация о научной деятельности университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные сведения и документы публикуются ответственным подразделением."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Патентное обеспечение",
+    "description": "Результаты интеллектуальной деятельности."
+  },
+  "template": "default"
+}

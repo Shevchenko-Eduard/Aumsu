@@ -1,0 +1,38 @@
+{
+  "id": "org-22",
+  "type": "administration",
+  "slug": "upravlenie-vnutrennej-bezopasnosti",
+  "name": "Управление внутренней безопасности",
+  "path": "/about/structure/administrations/upravlenie-vnutrennej-bezopasnosti",
+  "headTitle": "начальник управления",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Управление внутренней безопасности — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "71-72-73 УЛК Север, 2 этаж, каб.209",
+  "phones": [
+    "71-72-73"
+  ],
+  "emails": [
+    "sharko@nsma.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/sveden/struct/upravleniya/8-glavnaya-stranitsa/699-upravlenie-rezhima-i-okhrany-truda",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 22,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Управление внутренней безопасности",
+    "description": "Управление внутренней безопасности: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Лукьянов Игорь Юрьевич",
+  "headPost": "начальник управления",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/Polojenie_UBIK.pdf"
+}

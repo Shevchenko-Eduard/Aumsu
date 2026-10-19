@@ -1,0 +1,31 @@
+{
+  "id": "en-page-89",
+  "slug": "mobility",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/international/mobility",
+  "sectionId": "international",
+  "title": "Academic mobility",
+  "summary": "Incoming and outgoing mobility.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Academic mobility: information about the university’s international activities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contacts and current documents are published by the International Office."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Academic mobility",
+    "description": "Incoming and outgoing mobility."
+  },
+  "template": "default"
+}

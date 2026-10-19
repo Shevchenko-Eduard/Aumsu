@@ -1,0 +1,36 @@
+{
+  "id": "employee-manager-1",
+  "slug": "kondratev-sergej-ivanovich",
+  "fullName": "Кондратьев Сергей Иванович",
+  "displayName": "Кондратьев Сергей Иванович",
+  "position": "ректор, доктор технических наук, профессор",
+  "unitIds": [],
+  "emails": [
+    "mail@nsma.ru"
+  ],
+  "phones": [
+    "8 (8617) 76 78 00",
+    "8 (8617) 71 75 25"
+  ],
+  "photoUrl": "https://aumsu.ru/images/sovet/kondratiev.jpg",
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [],
+  "education": [],
+  "qualifications": [],
+  "isManager": true,
+  "managerCategory": "rector",
+  "order": 1,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Кондратьев Сергей Иванович — ректор, доктор технических наук",
+    "description": "Кондратьев Сергей Иванович, ректор, доктор технических наук, профессор. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

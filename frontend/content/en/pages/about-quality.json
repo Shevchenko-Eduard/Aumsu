@@ -1,0 +1,37 @@
+{
+  "id": "en-page-13",
+  "slug": "quality",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/about/quality",
+  "sectionId": "about",
+  "title": "Quality policy",
+  "summary": "Principles for ensuring education quality and continuous improvement.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The quality policy sets out the university’s commitment to high-quality education and continuous improvement."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Focus on students and employers.",
+        "Systematic monitoring of education quality.",
+        "Faculty development.",
+        "Transparency of results."
+      ]
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Quality policy",
+    "description": "Principles for ensuring education quality and continuous improvement."
+  },
+  "template": "default"
+}

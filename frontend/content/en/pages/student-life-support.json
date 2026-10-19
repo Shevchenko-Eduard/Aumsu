@@ -1,0 +1,31 @@
+{
+  "id": "en-page-79",
+  "slug": "support",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/student-life/support",
+  "sectionId": "student-life",
+  "title": "Social support",
+  "summary": "Support for students and staff.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Social support: student life section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Current announcements, documents and contacts are published by the responsible unit."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Social support",
+    "description": "Support for students and staff."
+  },
+  "template": "default"
+}

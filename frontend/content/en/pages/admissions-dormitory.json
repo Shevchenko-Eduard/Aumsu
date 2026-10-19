@@ -1,0 +1,45 @@
+{
+  "id": "en-page-34",
+  "slug": "dormitory",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/admissions/dormitory",
+  "sectionId": "admissions",
+  "title": "Dormitory",
+  "summary": "Check-in rules, accommodation fees and documents for non-local students.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The university provides dormitory accommodation for non-local and international students. Places are allocated according to student categories and available capacity."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How to check in"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Submit an application to the faculty or student affairs office.",
+        "Prepare your passport, enrolment certificate and medical documents.",
+        "Read the accommodation and safety rules."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Accommodation fees and contacts are available in Student Life → Dormitory."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Dormitory",
+    "description": "Check-in rules, accommodation fees and documents for non-local students."
+  },
+  "template": "default"
+}

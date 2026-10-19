@@ -1,0 +1,27 @@
+{
+  "id": "en-page-113",
+  "slug": "budget",
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/sveden/budget",
+  "sectionId": "sveden",
+  "title": "Financial and economic activity",
+  "summary": "Financial and economic activity: official information about Admiral Ushakov State Maritime University.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Financial and economic activity: official information about the educational organisation."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Financial and economic activity",
+    "description": "Financial and economic activity: official information about Admiral Ushakov State Maritime University."
+  },
+  "template": "sveden"
+}

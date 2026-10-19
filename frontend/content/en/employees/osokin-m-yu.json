@@ -1,0 +1,42 @@
+{
+  "id": "employee-279",
+  "slug": "osokin-m-yu",
+  "fullName": "Осокин М. Ю.",
+  "displayName": "Осокин М. Ю.",
+  "position": "старший преподаватель кафедры",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Основы судовождения",
+    "Навигация и лоция",
+    "Основы судовождения",
+    "Навигация, лоция и электронная картография С3.Б.09.01 Навигация и лоция"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "штурманская военно-морского флота",
+    "-"
+  ],
+  "experienceYears": 20,
+  "isManager": false,
+  "order": 279,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Осокин М. Ю. — старший преподаватель кафедры",
+    "description": "Осокин М. Ю., старший преподаватель кафедры. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

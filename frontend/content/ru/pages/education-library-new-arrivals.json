@@ -1,0 +1,31 @@
+{
+  "id": "ru-page-51",
+  "slug": "new-arrivals",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/education/library/new-arrivals",
+  "sectionId": "education",
+  "title": "Новые поступления",
+  "summary": "Новые книги и материалы в фонде библиотеки.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Новые поступления: информация библиотеки университета."
+    },
+    {
+      "type": "paragraph",
+      "text": "Актуальные сведения уточняйте у сотрудников библиотеки или на информационной стойке."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Новые поступления",
+    "description": "Новые книги и материалы в фонде библиотеки."
+  },
+  "template": "default"
+}

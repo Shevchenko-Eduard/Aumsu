@@ -1,0 +1,41 @@
+{
+  "id": "employee-184",
+  "slug": "koneva-i-n",
+  "fullName": "Конева И. Н.",
+  "displayName": "Конева И. Н.",
+  "position": "старший преподаватель кафедры, преподаватель по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "Связи с обществен-ностью в органах власти",
+    "Деловые коммуникации",
+    "Связи с общественностью в органах власти"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "прикладная математика",
+    "-"
+  ],
+  "experienceYears": 24,
+  "isManager": false,
+  "order": 184,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Конева И. Н. — старший преподаватель кафедры, преподаватель ",
+    "description": "Конева И. Н., старший преподаватель кафедры, преподаватель по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "org-29",
+  "type": "administration",
+  "slug": "otdel-kadrov",
+  "name": "Отдел кадров",
+  "path": "/about/structure/administrations/otdel-kadrov",
+  "headTitle": "начальник отдела кадров",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Отдел кадров — подразделение Государственного морского университета имени адмирала Ф.Ф. Ушакова. Подразделение координирует образовательную, научную и административную работу по своему направлению."
+    }
+  ],
+  "address": "76‑78‑19 УЛК Север, 2 этаж, каб.224",
+  "phones": [
+    "76‑78‑19"
+  ],
+  "emails": [
+    "ok@aumsu.ru"
+  ],
+  "siteUrl": "https://aumsu.ru/upravlenie-po-rabote-s-filialami-i-kadrami",
+  "workingHours": "Пн–Пт, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 29,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Отдел кадров",
+    "description": "Отдел кадров: контакты, руководитель, документы и направления работы."
+  },
+  "head": "Седых Елена Юрьевна",
+  "headPost": "начальник отдела кадров",
+  "regulationUrl": "https://aumsu.ru/images/struktura/polozeniya/Polojenie_otdel_kadrov.pdf"
+}

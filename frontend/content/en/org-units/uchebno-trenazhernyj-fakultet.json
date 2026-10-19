@@ -1,0 +1,39 @@
+{
+  "id": "org-6",
+  "type": "faculty",
+  "slug": "uchebno-trenazhernyj-fakultet",
+  "name": "Training and Simulator Faculty",
+  "shortName": "Training and Simulator Faculty",
+  "path": "/about/structure/faculties/uchebno-trenazhernyj-fakultet",
+  "headTitle": "Декан факультета",
+  "description": [
+    {
+      "type": "paragraph",
+      "text": "Training and Simulator Faculty is part of Admiral Ushakov Maritime State University. The unit coordinates education, research and administrative work in its area."
+    }
+  ],
+  "address": "+7(918)061-15-20, 76 79 00 УЛК №2. Юг, 1, 2 этаж",
+  "phones": [
+    "+7(918)061-15-20"
+  ],
+  "emails": [
+    "ipk@aumsu.ru"
+  ],
+  "siteUrl": "https://ipk.aumsu.ru/",
+  "workingHours": "Mon–Fri, 8:30–17:00",
+  "programIds": [],
+  "employeeIds": [],
+  "documentIds": [],
+  "order": 6,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Training and Simulator Faculty",
+    "description": "Contacts and information about Training and Simulator Faculty."
+  },
+  "head": "Кондратьев Алексей Иванович",
+  "headPost": "Декан факультета",
+  "regulationUrl": "https://aumsu.ru/images/education/Polojeniya/polojenie_ob_institute.pdf"
+}

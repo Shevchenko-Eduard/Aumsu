@@ -1,0 +1,39 @@
+{
+  "id": "employee-161",
+  "slug": "kalinina-a-v",
+  "fullName": "Калинина А. В.",
+  "displayName": "Калинина А. В.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Персональные данные публикуются при наличии согласия. Контактные данные предоставляются соответствующим подразделением."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее"
+  ],
+  "qualifications": [
+    "юриспруденция",
+    "-"
+  ],
+  "experienceYears": 7,
+  "isManager": false,
+  "order": 161,
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Калинина А. В. — преподаватель",
+    "description": "Калинина А. В., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

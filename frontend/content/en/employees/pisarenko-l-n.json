@@ -1,0 +1,39 @@
+{
+  "id": "employee-294",
+  "slug": "pisarenko-l-n",
+  "fullName": "Писаренко Л. Н.",
+  "displayName": "Писаренко Л. Н.",
+  "position": "преподаватель",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "История"
+  ],
+  "education": [
+    "высшее, высшее магистратура"
+  ],
+  "qualifications": [
+    "русский язык и литература, техносферная безопасность",
+    "-"
+  ],
+  "experienceYears": 7,
+  "isManager": false,
+  "order": 294,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Писаренко Л. Н. — преподаватель",
+    "description": "Писаренко Л. Н., преподаватель. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}

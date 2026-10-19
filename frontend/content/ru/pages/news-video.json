@@ -1,0 +1,27 @@
+{
+  "id": "ru-page-94",
+  "slug": "video",
+  "status": "published",
+  "locale": "ru",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "publishedAt": "2026-10-19T12:00:00.000Z",
+  "path": "/news/video",
+  "sectionId": "news",
+  "title": "Видео",
+  "summary": "Видеоматериалы о жизни университета.",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Видеоролики о жизни университета, событиях и образовательных программах."
+    }
+  ],
+  "audiences": [],
+  "tags": [],
+  "relatedIds": [],
+  "seo": {
+    "title": "Видео",
+    "description": "Видеоматериалы о жизни университета."
+  },
+  "template": "default"
+}

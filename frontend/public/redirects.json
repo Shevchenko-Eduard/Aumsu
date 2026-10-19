@@ -1,0 +1,1737 @@
+[
+  {
+    "from": "/2016-03-02-12-08-28",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/abitur",
+    "to": "/admissions",
+    "status": 301
+  },
+  {
+    "from": "/abitur/8-glavnaya-stranitsa/667-posledovatelnost-dejstvij-dlya-zaklyucheniya-dogovora-i-oplaty-obucheniya",
+    "to": "/admissions",
+    "status": 301
+  },
+  {
+    "from": "/abitur/aspirant",
+    "to": "/admissions/graduate",
+    "status": 301
+  },
+  {
+    "from": "/abitur/bachelor",
+    "to": "/admissions/bachelor",
+    "status": 301
+  },
+  {
+    "from": "/abitur/magistr",
+    "to": "/admissions/master",
+    "status": 301
+  },
+  {
+    "from": "/abitur/special",
+    "to": "/admissions/specialist",
+    "status": 301
+  },
+  {
+    "from": "/abitur/special/8-glavnaya-stranitsa/25-stoimost-obucheniya-na-2012-god",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/abitur/spo",
+    "to": "/admissions/college",
+    "status": 301
+  },
+  {
+    "from": "/administrativno-pravovoe-upravlenie",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/archiv_news",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/arkhiv-nomerov",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/arkhiv-novostej",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/bu",
+    "to": "/about",
+    "status": 301
+  },
+  {
+    "from": "/bulliten",
+    "to": "/education/library",
+    "status": 301
+  },
+  {
+    "from": "/chasy-raboty-biblioteki",
+    "to": "/education/library",
+    "status": 301
+  },
+  {
+    "from": "/component/content/8-glavnaya-stranitsa/22-dovuzovskaya-podgotovka",
+    "to": "/admissions",
+    "status": 301
+  },
+  {
+    "from": "/component/content/article/8-glavnaya-stranitsa/219-karta-sajta",
+    "to": "/about/sitemap",
+    "status": 301
+  },
+  {
+    "from": "/component/content/article/8-glavnaya-stranitsa/234-video-new",
+    "to": "/news/video",
+    "status": 301
+  },
+  {
+    "from": "/component/content/article/8-glavnaya-stranitsa/312-protivodejstvie-korruptsii",
+    "to": "/about/anti-corruption",
+    "status": 301
+  },
+  {
+    "from": "/component/content/article/8-glavnaya-stranitsa/313-komissiya",
+    "to": "/about/anti-corruption",
+    "status": 301
+  },
+  {
+    "from": "/component/content/article/8-glavnaya-stranitsa/314-obratnaya-svyaz",
+    "to": "/contacts/feedback",
+    "status": 301
+  },
+  {
+    "from": "/component/content/article/8-glavnaya-stranitsa/315-pravila-rassmotreniya",
+    "to": "/about/anti-corruption",
+    "status": 301
+  },
+  {
+    "from": "/component/content/article/8-glavnaya-stranitsa/381-navigatskaya-shkola",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/component/content/article/8-glavnaya-stranitsa/445-komissiya-po-soblyudeniyu-trebovanij",
+    "to": "/about/anti-corruption",
+    "status": 301
+  },
+  {
+    "from": "/component/content/article/8-glavnaya-stranitsa/486-razdel-dlya-lits-s-ovz-i-invalidnostyu",
+    "to": "/student-life/accessibility",
+    "status": 301
+  },
+  {
+    "from": "/component/content/article/8-glavnaya-stranitsa/565-otdel-menedzhmenta-kachestva",
+    "to": "/about/quality",
+    "status": 301
+  },
+  {
+    "from": "/component/content/article/8-glavnaya-stranitsa/568-bukhgalteriya",
+    "to": "/about",
+    "status": 301
+  },
+  {
+    "from": "/component/content/article/8-glavnaya-stranitsa/695-priem-posetitelej",
+    "to": "/contacts/visitors",
+    "status": 301
+  },
+  {
+    "from": "/component/content/article/8-glavnaya-stranitsa/80-redaktsionno-izdatelskij-otdel",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport",
+    "to": "/student-life",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/fotogalereya",
+    "to": "/student-life",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/galereya-pamyati",
+    "to": "/student-life",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/kultura",
+    "to": "/student-life",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/molodezhnaya-organizatsiya",
+    "to": "/student-life",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej",
+    "to": "/student-life",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/8-glavnaya-stranitsa/557-pkpkpk",
+    "to": "/student-life",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/eksponaty",
+    "to": "/student-life",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotoekspozitsi",
+    "to": "/student-life",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/559-arkhiv-2016",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/642-arkhiv-2017",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/661-arkhiv-2018",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/682-arkhiv-2020",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/698-2020-arkhiv",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/715-arkhiv-2021",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/744-arkhiv-2023",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/744-arkhiv-2024",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/753-metodika-organizatsii-raboty-flota-v-linejnom-sudokhodstve-po-tekhniko-ekspluatatsionnym-parametram-i-kriteriyam-energoeffektivnosti",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/754-metod-filtratsii-apparatnykh-pogreshnostej-sudovykh-inertsialnykh-navigatsionnykh-sistem-na-osnove-prognosticheskikh-pravil-teorii-khaosa",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/755-attestatsionnoe-delo-zhuka-sergeya-sergeevicha",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/756-attestatsionnoe-delo-golovan-tatyany-viktorovny",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/757-studencheskoe-nauchnoe-soobshchestvo-lex",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/761-upravlenie-sudnom-na-osnove-otsenivaniya-mnozhestv-dostizhimosti",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/763-pedagogicheskoe-obespechenie-ergaticheskoj-obuchayushchej-sredy-v-obrazovatelnom-prostranstve-morskogo-vuza",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/766-archive-2024",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/muzej/fotogazeta/8-glavnaya-stranitsa/arkhiv-2022",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/sobytiya",
+    "to": "/student-life",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/sport",
+    "to": "/student-life/sport",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/video",
+    "to": "/student-life/video",
+    "status": 301
+  },
+  {
+    "from": "/culture_sport/vospitatelnaya-rabota",
+    "to": "/student-life",
+    "status": 301
+  },
+  {
+    "from": "/education/2021-02-19-11-46-58",
+    "to": "/education/distance",
+    "status": 301
+  },
+  {
+    "from": "/education/2021-02-19-11-46-58/8-glavnaya-stranitsa/620-raspisanie_zf",
+    "to": "/education/distance",
+    "status": 301
+  },
+  {
+    "from": "/education/2021-02-19-11-46-58/ob-yavleniya",
+    "to": "/education/distance",
+    "status": 301
+  },
+  {
+    "from": "/education/2021-02-19-11-46-58/prikazy",
+    "to": "/education/distance",
+    "status": 301
+  },
+  {
+    "from": "/education/2021-02-19-11-46-58/raspisanie-2020-2021",
+    "to": "/education/distance",
+    "status": 301
+  },
+  {
+    "from": "/education/2021-02-19-11-46-58/uchebno-metodicheskoe-obespechenie",
+    "to": "/education/distance",
+    "status": 301
+  },
+  {
+    "from": "/education/abiturientam",
+    "to": "/admissions/international",
+    "status": 301
+  },
+  {
+    "from": "/education/abiturientam/8-glavnaya-stranitsa/277-priem-inostrannykh-grazhdan-i-lits-bez-grazhdanstva",
+    "to": "/admissions/international",
+    "status": 301
+  },
+  {
+    "from": "/education/bakalavriat",
+    "to": "/education/bachelor",
+    "status": 301
+  },
+  {
+    "from": "/education/biblioteka",
+    "to": "/education/library",
+    "status": 301
+  },
+  {
+    "from": "/education/magistratura",
+    "to": "/education/master",
+    "status": 301
+  },
+  {
+    "from": "/education/magistratura/fotogalereya",
+    "to": "/education/master",
+    "status": 301
+  },
+  {
+    "from": "/education/magistratura/kontakty",
+    "to": "/education/master",
+    "status": 301
+  },
+  {
+    "from": "/education/magistratura/normativno-pravovaya-baza",
+    "to": "/education/master",
+    "status": 301
+  },
+  {
+    "from": "/education/magistratura/obv_mag",
+    "to": "/education/master",
+    "status": 301
+  },
+  {
+    "from": "/education/magistratura/per_mag",
+    "to": "/education/master",
+    "status": 301
+  },
+  {
+    "from": "/education/magistratura/portfolio",
+    "to": "/education/master",
+    "status": 301
+  },
+  {
+    "from": "/education/magistratura/poryadok_mag",
+    "to": "/education/master",
+    "status": 301
+  },
+  {
+    "from": "/education/magistratura/stoimost-obucheniya",
+    "to": "/education/master",
+    "status": 301
+  },
+  {
+    "from": "/education/magistratura/svedeniya-o-rezultatakh-nauchnoj-i-nauchno-issledovatelskoj-deyatelnosti-rukovoditelej-programm-magistratury",
+    "to": "/education/master",
+    "status": 301
+  },
+  {
+    "from": "/education/magistratura/uchebno-metodicheskoe-obespechenie",
+    "to": "/education/master",
+    "status": 301
+  },
+  {
+    "from": "/education/magistratura/uchebnyj-protsess",
+    "to": "/education/master",
+    "status": 301
+  },
+  {
+    "from": "/education/specialitet",
+    "to": "/education/specialist",
+    "status": 301
+  },
+  {
+    "from": "/ekonomicheskaya-teoriya-i-mirovaya-ekonomika-etime",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/ekonomika-i-menedzhment-e-i-m",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/elektronnaya-biblioteka",
+    "to": "/education/library",
+    "status": 301
+  },
+  {
+    "from": "/etika-publikatsij",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/fakultet-ekspluatatsii-vodnogo-transporta-i-sudovozhdeniya",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/fakultet-voennogo-obucheniya",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/finansy-i-kredit-f-i-k-na-mt",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/fiz-vospitaniya-i-sporta-fv",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/fspoidp",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/fspoidp/morskoj-kolledzh",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/fspoidp/morskoj-kolledzh/kontakty",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/fspoidp/morskoj-kolledzh/normativno-pravovaya-baza",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/fspoidp/morskoj-kolledzh/ob-yavleniya",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/fspoidp/morskoj-kolledzh/poryadok-priema",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/fspoidp/morskoj-kolledzh/uchebno-metodicheskoe-obespechenie",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/fspoidp/morskoj-kolledzh/zaochnoe-otdelenie",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/fspoidp/navigatskaya-shkola",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/fspoidp/transportnyj-kolledzh",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/fspoidp/transportnyj-kolledzh/akkr-med-spec",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/fspoidp/transportnyj-kolledzh/kontakty",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/fspoidp/transportnyj-kolledzh/normativno-pravovaya-baza",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/fspoidp/transportnyj-kolledzh/uchebno-metodicheskoe-obespechenie",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/grazhdanskoe-i-mezhdunarodnoe-pravo",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/http-www-aumsu-ru-images-library-spisok_doc-pdf",
+    "to": "/education/library",
+    "status": 301
+  },
+  {
+    "from": "/ikonkurs",
+    "to": "/science/conferences",
+    "status": 301
+  },
+  {
+    "from": "/index.php/abiturientu",
+    "to": "/admissions",
+    "status": 301
+  },
+  {
+    "from": "/index.php/elektronnaya-biblioteka",
+    "to": "/education/library/electronic",
+    "status": 301
+  },
+  {
+    "from": "/index.php/nauka",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/index.php/obrazovanie",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/institute-sea",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/institute-sea/8-glavnaya-stranitsa/215-kafedra-teorii-i-istorii-gosudarstva-i-prava",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/institute-sea/8-glavnaya-stranitsa/216-kafedra-tamozhennoe-pravo",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/institute-sea/8-glavnaya-stranitsa/280-kafedra-grazhdanskoe-i-mezhdunarodnoe-pravo",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/international_action",
+    "to": "/international",
+    "status": 301
+  },
+  {
+    "from": "/international_action/inostrannym-studentam",
+    "to": "/international",
+    "status": 301
+  },
+  {
+    "from": "/international_action/mezhdunarodnoe-sotrudnichestvo",
+    "to": "/international",
+    "status": 301
+  },
+  {
+    "from": "/international_action/mezhdunarodnoe-sotrudnichestvo/8-glavnaya-stranitsa/524-mezhdunarodnye-programmy-i-granty",
+    "to": "/international",
+    "status": 301
+  },
+  {
+    "from": "/international_action/mezhdunarodnye-proekty",
+    "to": "/international",
+    "status": 301
+  },
+  {
+    "from": "/international_action/sotrudnikam-gmu",
+    "to": "/international",
+    "status": 301
+  },
+  {
+    "from": "/international_action/studentam-gmu",
+    "to": "/international",
+    "status": 301
+  },
+  {
+    "from": "/international_action/tsentr-mezhdunarodnogo-obrazovaniya",
+    "to": "/international",
+    "status": 301
+  },
+  {
+    "from": "/istoriya-biblioteki",
+    "to": "/education/library",
+    "status": 301
+  },
+  {
+    "from": "/istoriya-i-filosofiya-if",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/istoriya-universiteta",
+    "to": "/about/history",
+    "status": 301
+  },
+  {
+    "from": "/kafedra-bespilotnykh-transportnykh-sistem",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/kafedra-ekspluatatsiya-sudovykh-mekhanicheskikh-ustanovok",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/kafedra-fiziki",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/kafedra-inostrannyj-yazyk-iya",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/kafedra-mekhaniki",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/kafedra-pod-emno-transportnykh-mashin-i-kompleksov",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/kafedra-sau-i-oit",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/kafedra-sudovoj-elektroavtomatiki",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/kafedra-sudovozhdenie",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/kafedra-vysshaya-matematika-vm",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/kulturologiya",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/metodicheskie-ukazaniya",
+    "to": "/education/library",
+    "status": 301
+  },
+  {
+    "from": "/mezhbibliotechnyj-abonement",
+    "to": "/education/library",
+    "status": 301
+  },
+  {
+    "from": "/morskoe-pravo",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/nauka",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/nii_gmu",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/o-rektore",
+    "to": "/about/rector",
+    "status": 301
+  },
+  {
+    "from": "/o-zhurnale",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/obrawenie",
+    "to": "/about",
+    "status": 301
+  },
+  {
+    "from": "/obrazovanie",
+    "to": "/education",
+    "status": 301
+  },
+  {
+    "from": "/p_inform_etem",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/periodicheskie-izdaniya-otkrytogo-dostupa",
+    "to": "/education/library",
+    "status": 301
+  },
+  {
+    "from": "/periodika",
+    "to": "/education/library",
+    "status": 301
+  },
+  {
+    "from": "/podpiski",
+    "to": "/education/library",
+    "status": 301
+  },
+  {
+    "from": "/polozhenie-o-retsenzirovanii",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/pravila-opublikovaniya",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/pravila-polzovaniya-bibliotekoj",
+    "to": "/education/library",
+    "status": 301
+  },
+  {
+    "from": "/raspisanie-zanyatij",
+    "to": "/education/schedule",
+    "status": 301
+  },
+  {
+    "from": "/redaktsiya",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/redkollegiya",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/reiit",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/reiit/kruglye-stoly",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/reiit/kruglye-stoly/8-glavnaya-stranitsa/588-sovremennye-zadachi-informatsionnykh-tekhnologij-v-transportnoj-otrasli-rossii",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/reiit/kruglye-stoly/8-glavnaya-stranitsa/595-master-klass-po-informatsionnoj-sisteme-1s-its",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/reiit/kruglye-stoly/8-glavnaya-stranitsa/617-master-klass-po-razrabotke-kartograficheskikh-prilozhenij-sredstvami-here",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/reiit/novosti-i-sobytiya",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/reiit/novosti-i-sobytiya/8-glavnaya-stranitsa/631-proforientatsionnaya-vstrecha-s-osnovatelem-kompanii-softlex",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/reiit/novosti-i-sobytiya/8-glavnaya-stranitsa/635-edinyj-urok-tsifrovoj-ekonomiki",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/sb-o-zhurnale",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/sbm-pravila-napravleniya",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/sbm-pravila-napravleniya/pravila-napravleniya",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/sbm-pravila-napravleniya/pravila-opublikovaniya",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/sbm-pravila-napravleniya/pravila-retsenzirovaniya",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/kandidatskie-ekzameny",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/kontakty",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/normativno-pravovaya-baza",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/ob-yavleniya",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/perechen-napravlenij-podgotovki-spetsialnostej",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/poryadok-priema-v-aspiranturu",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/poryadok-priema-v-aspiranturu/8-glavnaya-stranitsa/265-obraztsy-dokumentov-dlya-postupayushchikh",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/poryadok-priema-v-aspiranturu/8-glavnaya-stranitsa/266-formy-i-pravila-provedeniya-vstupitelnykh-ispytanij",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/poryadok-priema-v-aspiranturu/8-glavnaya-stranitsa/267-usloviya-konkursa",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/poryadok-priema-v-aspiranturu/8-glavnaya-stranitsa/268-osobennosti-provedeniya-vstupitelnykh-ispytanij",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/poryadok-priema-v-aspiranturu/8-glavnaya-stranitsa/269-pravila-priema-v-aspiranturu-inostrannykh-grazhdan",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/poryadok-priema-v-aspiranturu/8-glavnaya-stranitsa/270-apelyaciya-aspirantura",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/poryadok-priema-v-aspiranturu/8-glavnaya-stranitsa/329-informatsiya-ob-elektronnykh-adresakh",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/poryadok-priema-v-aspiranturu/8-glavnaya-stranitsa/330-informatsiya-o-pochtovykh-adresakh",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/poryadok-priema-v-aspiranturu/8-glavnaya-stranitsa/331-informatsiya-o-nalichii-obshchezhitij",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/priem_aspirant",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/prikreplenie-dlya-podgotovki-dissertatsii",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/programmy-vstupitelnykh-ispytani",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/stoimost-obucheniya",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/uchebno-metodicheskoe-obespechenie_asp",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/aspirantura/uchebnyj-protsess",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/159-d-223-007-01",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/159-d-223-007-01-po-zashchite-doktorskikh-i-kandidatskikh-dissertatsij-po-spetsialnostyam-05-08-05-i-05-22-19",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/160-ob-yavleniya-o-zashchite-dissertatsij",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/162-zashchita-dissertatsii-on-line",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/247-predstavlenie-dissertatsij",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/373-attestatsionnye-dela",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/703-formirovanie-professionalnoj-napravlennosti-u-kursantov-morskogo-vuza-na-osnove-tsennostnogo-podkhoda",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/706-45-2-002-01-po-zashchite-doktorskikh-i-kandidatskikh-dissertatsij-po-spetsialnostyam-2-5-20-i-2-9-7",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/708-attestatsionnoe-delo-shtanko-aleksandr-nikolaevich",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/709-attestatsionnoe-delo-trishin-nikolaj-vladimirovich",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/710-attestatsionnoe-delo-ishchejkin-grigorij-yurevich",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/711-attestatsionnoe-delo-dzhavuktsyan-marspet-lernikovich",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/712-attestatsionnoe-delo-filatov-viktor-ivanovich",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/713-identifikatsiya-i-adaptatsiya-protsessov-upravleniya-manevrami-sudna",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/714-sovershenstvovanie-upravleniya-dvizheniem-buksirnoj-sistemy-pri-vypolnenii-morskoj-buksirovki",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/718-opredelenie-i-kontrol-mestopolozheniya-sudna-s-pomoshchyu-nechetkoj-logiki",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/719-avtomatizirovannaya-sistema-upravleniya-dvizheniem-sudna-pri-otkaze-rulevogo-ustrojstva",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/720-tekhnologiya-intellektualnogo-analiza-i-sinteza-dlya-resheniya-kompleksa-zadach-optimizatsii-rejsa-morskogo-sudna",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/727-attestatsionnoe-delo-ignatenko-georgij-vladimirovich",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/729-sistema-upravleniya-vybrosami-oksidov-ugleroda-s-otrabotavshimi-gazami-sudovykh-energeticheskikh-ustanovok",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/736-attestatsionnoe-delo-ignatenko-georgij-vladimirovich",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/736-attestatsionnoe-delo-selezen-yaroslav-yurevich",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/738-attestatsionnoe-delo",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/739-intellektualnaya-tekhnologiya-opredeleniya-podrajonov-poiska-pri-planirovanii-poiskovo-spasatelnykh-operatsij-na-more",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/740-otsenka-tekhnicheskogo-sostoyaniya-vysokooborotnykh-dvigatelej-morskikh-sudov-na-osnove-kontrolya-i-obobshcheniya-teplofizicheskikh-parametrov-v-ekspluatatsii",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/746-attestatsionnoye-delo-shatskova-yevgeniya-igorevna",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/747-flotatsionnaya-ochistka-sudovykh-lyalnykh-vod-s-ispolzovaniem-vysokomolekulyarnykh-flokulyantov",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/749-45-2-002-02-po-zashchite-doktorskikh-i-kandidatskikh-dissertatsij-po-spetsialnostyam-5-8-7",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/750-attestatsionnye-dela-2",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/752-attestatsionnoe-delo-bajbakova-ruslana-anatolevicha",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/753-metodika-organizatsii-raboty-flota-v-linejnom-sudokhodstve-po-tekhniko-ekspluatatsionnym-parametram-i-kriteriyam-energoeffektivnosti",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/754-metod-filtratsii-apparatnykh-pogreshnostej-sudovykh-inertsialnykh-navigatsionnykh-sistem-na-osnove-prognosticheskikh-pravil-teorii-khaosa",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/755-attestatsionnoe-delo-zhuka-sergeya-sergeevicha",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/756-attestatsionnoe-delo-golovan-tatyany-viktorovny",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/758-attestatsionnoe-delo-chekalina-viktora-vladimirovicha",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/760-attestatsionnoe-delo-zhuka-aleksandra-sergeevicha",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/761-upravlenie-sudnom-na-osnove-otsenivaniya-mnozhestv-dostizhimosti",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/8-glavnaya-stranitsa/763-pedagogicheskoe-obespechenie-ergaticheskoj-obuchayushchej-sredy-v-obrazovatelnom-prostranstve-morskogo-vuza",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/dissertatsionnyj-sovet/videozapisi-zasedanij-dissertatsionnogo-soveta",
+    "to": "/science/dissertation-council",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty",
+    "to": "/science/conferences",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/174-konkurs-molodye-uchenye-transportnoj-otrosli-2011",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/175-molodye-uchenye-transportnoj-otrasli-2010",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/176-prognozirovanie-nachalnoj-stadii-ustalostnogo-razrusheniya-sudovykh-grebnykh-valov",
+    "to": "/science/conferences",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/177-sovremennye-sistemy-kontroliruemogo-povysheniya-bezopasnosti-morskogo-transporta",
+    "to": "/science/conferences",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/178-razvitie-metodov-teorii-nadezhnosti-i-vozmozhnosti-ikh-primeneniya-k-informatsionnym-sistemam",
+    "to": "/science/conferences",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/179-sistemy-prinyatiya-reshenij-v-sudovozhdenii",
+    "to": "/science/conferences",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/180-napravlenie-ekonomicheskie-nauki-menedzhment-povyshenie-konkurentosposobnosti-rossijskikh-portov-azovo-chernomorskogo-bassejna",
+    "to": "/science/conferences",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/181-napravlenie-ekonomicheskie-nauki-marketing-kriterii-i-metody-otsenki-privlekatelnosti-transportnogo-rynka",
+    "to": "/science/conferences",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/182-napravlenie-ekonomicheskie-nauki-ekonomicheskaya-teoriya-vyzovy-21-veka-i-strategiya-razvitiya-ekonomicheskoj-situatsii-v-strane",
+    "to": "/science/conferences",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/183-napravlenie-morskoj-i-vnutrennij-transport-optimalnaya-otsenka-parametrov-nadezhnosti-elementov-elektroenergeticheskikh-agregatov-dlya-ekspluatatsii-v-avtonomnom-rezhime-na-morskom-transporte",
+    "to": "/science/conferences",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/195-molodie-uchen-2012",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/196-molodie-uchen-2012-turkin",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/197-molodie-uchen-2012-dubik",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/198-molodie-uchen-2012-lickevich",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/199-molodie-uchen-2012-panamareva",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/241-molodye-uchenye-transportnoj-otrasli-2013",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/242-napravlenie-ekologiya-na-transporte-razrabotka-tekhnologii-doochistki-sudovykh-neftesoderzhashchikh-vod",
+    "to": "/science/conferences",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/243-napravlenie-transportnaya-bezopasnost-k-voprosu-obledeneniya-sudov-v-tsemesskoj-bukhte-v-usloviyakh-bory",
+    "to": "/science/conferences",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/244-napravlenie-morskoj-i-vnutrennij-vodnyj-transport-sovershenstvovanie-ekspluatatsii-sudovykh-sredneoborotnykh-dvigatelej-na-osnove-issledovaniya-vliyaniya-razlichnykh-faktorov-na-abrazivnyj-iznos-elementov-protochnoj-chasti-radialno-osevykh-turbin-turbokom",
+    "to": "/science/conferences",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/301-molodye-uchenye-transportnoj-otrasli-2014",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/442-novoe-pokolenie-v-nauke-2016",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/8-glavnaya-stranitsa/449-novoe-pokolenie-v-nauke-2017",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/science/konferentsii-konkursy-granty/ikonkurs",
+    "to": "/science/conferences",
+    "status": 301
+  },
+  {
+    "from": "/science/nauchnye-napravleniya-i-shkoly/nauchno-issledovatelskaya-laboratoriya",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/nauchnyj-dajdzhest/nauka-v-universitete",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/nauchnyj-dajdzhest/studencheskaya-nauka-v-universitete",
+    "to": "/science",
+    "status": 301
+  },
+  {
+    "from": "/science/zhurnaly-universiteta",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/sistema-katalogov-i-kartotek",
+    "to": "/education/library",
+    "status": 301
+  },
+  {
+    "from": "/spec",
+    "to": "/education/specialist",
+    "status": 301
+  },
+  {
+    "from": "/spec/8-glavnaya-stranitsa/30-ege-v-2012-godu",
+    "to": "/news/archive",
+    "status": 301
+  },
+  {
+    "from": "/spisok-periodicheskikh-izdanij-v-elektronnom-formate-na-2022g",
+    "to": "/education/library",
+    "status": 301
+  },
+  {
+    "from": "/stipendiaty-rossii",
+    "to": "/about",
+    "status": 301
+  },
+  {
+    "from": "/strategicheskij-plan-razvitiya-universiteta",
+    "to": "/about/strategy",
+    "status": 301
+  },
+  {
+    "from": "/strategicheskij-plan-razvitiya-universiteta/8-glavnaya-stranitsa/309-plan-razvitiya",
+    "to": "/about/strategy",
+    "status": 301
+  },
+  {
+    "from": "/struktura-biblioteki",
+    "to": "/education/library",
+    "status": 301
+  },
+  {
+    "from": "/sudomekhanicheskij-fakultet",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/sudoproizvodstvo",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/sveden/8-glavnaya-stranitsa/724-f-a-q",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/budget",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/catering",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/common",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/document",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/document/8-glavnaya-stranitsa/246-lokalnye-normativnye-akty",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/document/8-glavnaya-stranitsa/672-obraztsy-dogovorov",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/document/8-glavnaya-stranitsa/764-formy-i-rezultaty-oprosov",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/education",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/education/8-glavnaya-stranitsa/352-rezultaty-priema",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/education/8-glavnaya-stranitsa/379-realizuemye-obrazovatelnye-programmy",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/edustandarts",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/employees",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/grants",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/inter",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/managers",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/managers/8-glavnaya-stranitsa/695-priem-posetitelej",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/objects",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/paid_edu",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/8-glavnaya-stranitsa/554-upravlenie-po-bezopasnosti-i-kontrolyu",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/8-glavnaya-stranitsa/569-2-otdel",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/8-glavnaya-stranitsa/570-mediko-sanitarnaya-sanchast",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/8-glavnaya-stranitsa/571-organizatsionno-stroevoj-otdel",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/8-glavnaya-stranitsa/745-yuridicheskiy_otdel",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/fakultety",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/fakultety/8-glavnaya-stranitsa/255-spo",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/fakultety/8-glavnaya-stranitsa/300-morskoj-kolledzh",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/fakultety/8-glavnaya-stranitsa/546-transportnyj-kolledzh",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/filialy",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/institutes",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/institutes/institut-morskogo-transportnogo-menedzhmenta-ekonomiki-i-prava",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/institutes/nauchno-issledovatelskij-institut",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/upravleniya",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/upravleniya/748-upravlenie-po-investitsionnomu-proektirovaniyu",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/upravleniya/8-glavnaya-stranitsa/376-upravlenie-praktiki-i-trudoustrojstva",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/upravleniya/8-glavnaya-stranitsa/554-upravlenie-po-bezopasnosti-i-kontrolyu",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/upravleniya/8-glavnaya-stranitsa/699-upravlenie-rezhima-i-okhrany-truda",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/struct/upravleniya/8-glavnaya-stranitsa/748-upravlenie-po-investitsionnomu-proektirovaniyu",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/sveden/vacant",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/svedeniya-m",
+    "to": "/sveden",
+    "status": 301
+  },
+  {
+    "from": "/tehnologiya-transportnyh-processov-i-upravlenie-vodnym-transportom",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/Tehnologiya-transportnyh-processov-i-upravlenie-vodnym-transportom",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/tekhnicheskaya-ekspluatatsiya-transportnogo-radiooborudovaniya",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/telefonnyj-spravochnik",
+    "to": "/contacts/phonebook",
+    "status": 301
+  },
+  {
+    "from": "/telefonnyj-spravochnik/8-glavnaya-stranitsa/204-tel-ipk",
+    "to": "/contacts/phonebook",
+    "status": 301
+  },
+  {
+    "from": "/telefonnyj-spravochnik/8-glavnaya-stranitsa/256-telefonnyj-spravochnik-zaochniy",
+    "to": "/contacts/phonebook",
+    "status": 301
+  },
+  {
+    "from": "/telefonnyj-spravochnik/8-glavnaya-stranitsa/257-spo-telephon",
+    "to": "/contacts/phonebook",
+    "status": 301
+  },
+  {
+    "from": "/telefonnyj-spravochnik/8-glavnaya-stranitsa/94-fakultet-sudovozhdeniya-i-radioelektroniki",
+    "to": "/contacts/phonebook",
+    "status": 301
+  },
+  {
+    "from": "/telefonnyj-spravochnik/8-glavnaya-stranitsa/95-5675678587568",
+    "to": "/contacts/phonebook",
+    "status": 301
+  },
+  {
+    "from": "/trebovaniya-k-publikatsiyam",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/uchenyj-sovet",
+    "to": "/about/academic-council",
+    "status": 301
+  },
+  {
+    "from": "/upravlenie-bezopasnosti-i-kontrolya",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/upravlenie-informatsionnykh-tekhnologij",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/upravlenie-kapitalnogo-remonta-i-ekspluatatsii-zdanij-i-sooruzhenij",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/upravlenie-metodicheskoj",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/upravlenie-metodicheskoj/8-glavnaya-stranitsa/307-normativnye-dokumenty-umr",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/upravlenie-mezhdunarodnoj-deyatelnosti",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/upravlenie-mezhdunarodnoj-deyatelnosti/8-glavnaya-stranitsa/278-otdel-plavatelnoj-praktiki-i-trudoustrojstva-oppit",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/upravlenie-mezhdunarodnoj-deyatelnosti/8-glavnaya-stranitsa/279-otdel-beregovoj-praktiki-i-sodejstviya-trudoustrojstvu",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/upravlenie-mezhdunarodnoj-deyatelnosti/8-glavnaya-stranitsa/288-tsentr-mezhdunarodnogo-obrazovaniya",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/upravlenie-nauchno-issledovatelskoj-deyatelnosti",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/upravlenie-obshchikh-voprosov-deyatelnosti",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/upravlenie-po-rabote-s-filialami-i-kadrami",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/upravlenie-po-rabote-s-filialami-i-kadrami/8-glavnaya-stranitsa/67-otdel-kadrov",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/upravlenie-snabzheniya",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/upravlenie-uchebnogo-protsessa",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/upravlenie-vospitatelnoj-raboty-i-molodezhnoj-politiki",
+    "to": "/about/structure",
+    "status": 301
+  },
+  {
+    "from": "/vypuski",
+    "to": "/science/journals",
+    "status": 301
+  },
+  {
+    "from": "/yuzhnyj-tsentr-organizatsii-uchebnykh-praktik",
+    "to": "/about",
+    "status": 301
+  },
+  {
+    "from": "/zaochnyj-fakultet",
+    "to": "/education/distance",
+    "status": 301
+  },
+  {
+    "from": "/zaochnyj-fakultet/8-glavnaya-stranitsa/556-obyavleniya_zf",
+    "to": "/education/distance",
+    "status": 301
+  },
+  {
+    "from": "/zaochnyj-fakultet/8-glavnaya-stranitsa/620-raspisanie_zf",
+    "to": "/education/distance",
+    "status": 301
+  },
+  {
+    "from": "/zaochnyj-fakultet/ob-yavleniya",
+    "to": "/education/distance",
+    "status": 301
+  },
+  {
+    "from": "/zaochnyj-fakultet/obespechenie-zf",
+    "to": "/education/distance",
+    "status": 301
+  },
+  {
+    "from": "/zaochnyj-fakultet/raspisanie-2020-2021",
+    "to": "/education/distance",
+    "status": 301
+  },
+  {
+    "from": "/zf_znakomstvo",
+    "to": "/education/distance",
+    "status": 301
+  }
+]

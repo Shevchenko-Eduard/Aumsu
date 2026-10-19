@@ -1,0 +1,39 @@
+{
+  "id": "employee-395",
+  "slug": "fishenko-a-m",
+  "fullName": "Фишенко А. М.",
+  "displayName": "Фишенко А. М.",
+  "position": "старший преподаватель кафедры по совместительству",
+  "degree": "-",
+  "academicTitle": "-",
+  "unitIds": [],
+  "emails": [],
+  "phones": [],
+  "bio": [
+    {
+      "type": "paragraph",
+      "text": "Personal data is published in accordance with consent. Contact details are provided by the relevant department."
+    }
+  ],
+  "disciplines": [
+    "-"
+  ],
+  "education": [
+    "высшее специалитет"
+  ],
+  "qualifications": [
+    "эксплуатация судового электрооборудования и средств автоматики",
+    "-"
+  ],
+  "experienceYears": 0,
+  "isManager": false,
+  "order": 395,
+  "status": "published",
+  "locale": "en",
+  "createdAt": "2026-10-19T12:00:00.000Z",
+  "updatedAt": "2026-10-19T12:00:00.000Z",
+  "seo": {
+    "title": "Фишенко А. М. — старший преподаватель кафедры по совместител",
+    "description": "Фишенко А. М., старший преподаватель кафедры по совместительству. Контакты и сведения о сотруднике ГМУ им. адм. Ф.Ф. Ушакова."
+  }
+}
