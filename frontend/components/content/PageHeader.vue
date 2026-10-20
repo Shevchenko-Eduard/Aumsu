@@ -50,6 +50,7 @@ withDefaults(
 
 .page-header--navy::after {
   position: absolute;
+  pointer-events: none;
   right: -80px;
   bottom: -160px;
   width: 460px;

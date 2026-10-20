@@ -277,6 +277,7 @@ usePageSeo({
 
 .home-hero__pattern {
   position: absolute;
+  pointer-events: none;
   inset: 0;
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px),
@@ -342,6 +343,7 @@ usePageSeo({
 
 .home-hero__visual {
   position: relative;
+  pointer-events: none;
   display: flex;
   align-items: center;
   justify-content: center;
