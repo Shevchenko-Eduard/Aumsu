@@ -10,7 +10,7 @@ RUN cd frontend && npm ci --no-audit --no-fund
 COPY frontend/ ./frontend/
 COPY specs/ ./specs/
 
-ARG NUXT_PUBLIC_SITE_URL=https://aumsu.ru
+ARG NUXT_PUBLIC_SITE_URL=http://localhost
 ENV NUXT_PUBLIC_SITE_URL=${NUXT_PUBLIC_SITE_URL}
 ENV NODE_ENV=production
 

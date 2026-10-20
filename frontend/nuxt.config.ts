@@ -43,6 +43,7 @@ export default defineNuxtConfig({
   },
   nitro: {
     prerender: {
+      concurrency: 10,
       routes: prerenderRoutes,
       crawlLinks: true,
       failOnError: false
@@ -61,6 +62,19 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
         { rel: 'apple-touch-icon', href: '/media/logo.svg' }
       ]
+    }
+  },
+  vite: {
+    build: {
+      rollupOptions: {
+        output: {
+          manualChunks(id) {
+            if (id.includes('node_modules')) {
+              return 'vendor';
+            }
+          }
+        }
+      }
     }
   },
   eslint: {

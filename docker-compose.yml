@@ -4,7 +4,7 @@ services:
       context: .
       dockerfile: Dockerfile
       args:
-        NUXT_PUBLIC_SITE_URL: ${NUXT_PUBLIC_SITE_URL:-https://aumsu.ru}
+        NUXT_PUBLIC_SITE_URL: ${NUXT_PUBLIC_SITE_URL:-http://localhost}
     image: aumsu-frontend:latest
     ports:
       - "${PORT:-3000}:3000"
