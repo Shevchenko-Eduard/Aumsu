@@ -42,13 +42,25 @@ export default defineNuxtConfig({
     detectBrowserLanguage: false
   },
   nitro: {
+    minify: true, 
     prerender: {
-      concurrency: 4,
-      interval: 100,
+      concurrency: 1,
+      // interval: 100,
       routes: prerenderRoutes,
       crawlLinks: true,
-      failOnError: false
-    }
+      failOnError: false,
+      ignore: ['/employees', '/employees/**'] 
+    },
+    rollupConfig: {
+      output: {
+        // Минимизирует размер чанков Nitro, склеивая пустые и мелкие модули
+        experimentalMinChunkSize: 1000 
+      }
+    },
+  },
+  routeRules: {
+    // Сотрудники будут загружаться на клиенте через API динамически
+    '/employees/**': { ssr: false } 
   },
   app: {
     head: {
