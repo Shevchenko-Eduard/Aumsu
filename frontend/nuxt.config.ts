@@ -42,25 +42,11 @@ export default defineNuxtConfig({
     detectBrowserLanguage: false
   },
   nitro: {
-    minify: true, 
     prerender: {
-      concurrency: 1,
-      // interval: 100,
       routes: prerenderRoutes,
       crawlLinks: true,
-      failOnError: false,
-      ignore: ['/employees', '/employees/**'] 
-    },
-    rollupConfig: {
-      output: {
-        // Минимизирует размер чанков Nitro, склеивая пустые и мелкие модули
-        experimentalMinChunkSize: 1000 
-      }
-    },
-  },
-  routeRules: {
-    // Сотрудники будут загружаться на клиенте через API динамически
-    '/employees/**': { ssr: false } 
+      failOnError: false
+    }
   },
   app: {
     head: {
@@ -75,32 +61,6 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
         { rel: 'apple-touch-icon', href: '/media/logo.svg' }
       ]
-    }
-  },
-  vite: {
-    build: {
-      rollupOptions: {
-        output: {
-          manualChunks(id) {
-            if (id.includes('node_modules')) {
-              return 'vendor';
-            }
-          }
-        },
-        treeshake: {
-          // Заменяет moduleSideEffects: false из пресета smallest
-          moduleSideEffects: false, 
-          // Заменяет propertyReadSideEffects: false из пресета smallest
-          propertyReadSideEffects: false, 
-          // Разрешаем обрабатывать аннотации чистых функций
-          annotations: true 
-        }
-      },
-      sourcemap: false,
-      assetsInlineLimit: 0,
-      cssCodeSplit: true,
-      minify: 'esbuild',
-      cssMinify: 'esbuild'
     }
   },
   eslint: {
