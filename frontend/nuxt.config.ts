@@ -43,7 +43,8 @@ export default defineNuxtConfig({
   },
   nitro: {
     prerender: {
-      concurrency: 10,
+      concurrency: 4,
+      interval: 100,
       routes: prerenderRoutes,
       crawlLinks: true,
       failOnError: false
@@ -73,8 +74,21 @@ export default defineNuxtConfig({
               return 'vendor';
             }
           }
+        },
+        treeshake: {
+          // Заменяет moduleSideEffects: false из пресета smallest
+          moduleSideEffects: false, 
+          // Заменяет propertyReadSideEffects: false из пресета smallest
+          propertyReadSideEffects: false, 
+          // Разрешаем обрабатывать аннотации чистых функций
+          annotations: true 
         }
-      }
+      },
+      sourcemap: false,
+      assetsInlineLimit: 0,
+      cssCodeSplit: true,
+      minify: 'esbuild',
+      cssMinify: 'esbuild'
     }
   },
   eslint: {
